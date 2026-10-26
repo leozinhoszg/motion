@@ -28,5 +28,4 @@ O `ffmpeg` precisa estar no PATH (veja "Ambiente" em [biblioteca/README.md](bibl
 ## O que ficou fora do repositório
 
 - **Vídeos de exemplo:** só o primeiro ([01_claudeai.mp4](biblioteca/06-exemplos/videos/01_claudeai.mp4)) está versionado. Os outros estão linkados no [catálogo](biblioteca/06-exemplos/catalogo.md), com o post original no X.
-- **`biblioteca/som/kit/_raw/`:** downloads brutos (zips do Kenney, mp3 do Freesound). O kit já processado, com `catalog.json` e `CREDITS.md`, está versionado.
 - `node_modules/` e `motion.rar`.
