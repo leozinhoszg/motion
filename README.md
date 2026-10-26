@@ -90,6 +90,10 @@ Os modelos estão em [biblioteca/03-prompts/](biblioteca/03-prompts/):
 | Filme longo, clipe musical, personagens | [05-director-brief](biblioteca/03-prompts/05-director-brief.md): brief de diretor com gates, rodando sozinho por horas |
 | Som de verdade | [07-sound-layer](biblioteca/03-prompts/07-sound-layer.md) |
 
+O resultado do one-liner: o reel original de Stephan Livera, gerado no effort **max** com aquele prompt de uma linha (15 s, 1920×1080, [post no X](https://x.com/stephanlivera/status/2103315922098470926)). Clique para abrir o vídeo com som:
+
+[![Showreel de Stephan Livera feito com o one-liner no Opus 5.5 (max)](biblioteca/06-exemplos/videos/04_stephanlivera.gif)](biblioteca/06-exemplos/videos/04_stephanlivera.mp4)
+
 Ou use a skill, que empacota o pipeline inteiro numa frase:
 
 ```
@@ -180,5 +184,5 @@ Os exemplos reais citados no artigo, com o texto e o prompt de cada post, estão
 
 ## O que ficou fora do repositório
 
-- **Vídeos de exemplo:** só o primeiro ([01_claudeai.mp4](biblioteca/06-exemplos/videos/01_claudeai.mp4)) está versionado. Os outros estão linkados no [catálogo](biblioteca/06-exemplos/catalogo.md), com o post original no X.
+- **Vídeos de exemplo:** só o [01_claudeai.mp4](biblioteca/06-exemplos/videos/01_claudeai.mp4) e o [04_stephanlivera.mp4](biblioteca/06-exemplos/videos/04_stephanlivera.mp4) estão versionados. Os outros estão linkados no [catálogo](biblioteca/06-exemplos/catalogo.md), com o post original no X.
 - `node_modules/` e `motion.rar`.

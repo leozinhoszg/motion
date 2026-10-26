@@ -16,7 +16,7 @@ Tudo o que o curso **[How to build motion design studio with Opus 5.5](https://m
 | [som/](som/) | **Kit de 1.139 sons CC0** (19 tipos, `catalog.json`, `CREDITS.md`), compartilhado entre projetos, e loops de música CC0 com créditos e beats |
 | [04-regras/CLAUDE.md](04-regras/CLAUDE.md) | Regras da casa: copiar para a raiz de cada projeto de vídeo |
 | [05-skills/motion-reel/](05-skills/motion-reel/SKILL.md) | A skill que empacota o pipeline inteiro |
-| [06-exemplos/](06-exemplos/catalogo.md) | **Catálogo dos 20 posts** do curso, com texto integral (incluindo os prompts originais) e os vídeos em `videos/` (no repositório git só vai o 01; os demais têm link para o post) |
+| [06-exemplos/](06-exemplos/catalogo.md) | **Catálogo dos 20 posts** do curso, com texto integral (incluindo os prompts originais) e os vídeos em `videos/` (no repositório git só vão o 01 e o 04; os demais têm link para o post) |
 | [refs/](refs/README.md) | 9 repositórios clonados (incluindo o opus-sound-layer), entre eles os 114 prompts do awesome-ai-motion e as 30+ skills do HyperFrames e do Remotion |
 
 ## Escolha o padrão de prompt pelo objetivo

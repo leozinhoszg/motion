@@ -2,7 +2,7 @@
 
 Os 20 posts do X citados em *How to build motion design studio with Opus 5.5* (Movez, 4 out. 2026), na ordem em que aparecem no artigo. Texto integral obtido via api.fxtwitter.com em 13 out. 2026.
 
-> **No repositório git só está o vídeo 01** (`videos/01_claudeai.mp4`). Os demais ficam só na cópia local; para obtê-los, use o link do post em cada linha.
+> **No repositório git só estão os vídeos 01 e 04** (`videos/01_claudeai.mp4` e `videos/04_stephanlivera.mp4`, com prévia em GIF). Os demais ficam só na cópia local; para obtê-los, use o link do post em cada linha.
 
 **Rota:** A = desenhado em código · B = framework (Remotion/HyperFrames) · C = misto (modelos de imagem/vídeo/voz + código) · D = footage.
 

@@ -2,9 +2,11 @@ node_modules/
 motion.rar
 *.rar
 
-# Exemplos: só o primeiro vídeo vai para o repo (os demais têm link no catálogo)
+# Exemplos: só os vídeos 01 e 04 vão para o repo (os demais têm link no catálogo)
 biblioteca/06-exemplos/videos/*
 !biblioteca/06-exemplos/videos/01_claudeai.mp4
+!biblioteca/06-exemplos/videos/04_stephanlivera.mp4
+!biblioteca/06-exemplos/videos/04_stephanlivera.gif
 
 # Saídas de render em projetos
 projetos/**/out/
