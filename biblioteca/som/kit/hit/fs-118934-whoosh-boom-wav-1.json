@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-118934-whoosh-boom-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -21.3,
+ "start_db": -0.0,
+ "end_db": -26.1,
+ "spikiness": 1.58,
+ "dur_s": 2.0,
+ "peak_offset_s": 0.0588,
+ "rise_ms": 56.8,
+ "centroid_hz": 320,
+ "below150": 0.779,
+ "above6k": 0.0,
+ "flatness": 0.008,
+ "note": 42.4,
+ "start_floor_db": -11.8,
+ "source": {
+  "id": "118934",
+  "type": "hit",
+  "title": "whoosh+boom.wav",
+  "creator": "Capashen",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/118/118934_643327-hq.mp3",
+  "landing": "https://freesound.org/people/Capashen/sounds/118934",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

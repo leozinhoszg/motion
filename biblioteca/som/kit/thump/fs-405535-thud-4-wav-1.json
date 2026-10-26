@@ -1,0 +1,34 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-405535-thud-4-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -24.7,
+ "start_db": -0.0,
+ "end_db": -38.2,
+ "spikiness": 1.96,
+ "dur_s": 0.299,
+ "peak_offset_s": 0.0121,
+ "rise_ms": 6.4,
+ "centroid_hz": 460,
+ "below150": 0.314,
+ "above6k": 0.001,
+ "flatness": 0.037,
+ "note": 59.3,
+ "start_floor_db": -57.0,
+ "source": {
+  "id": "405535",
+  "type": "thump",
+  "title": "Thud 4.wav",
+  "creator": "nebulasnails",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/405/405535_2723982-hq.mp3",
+  "landing": "https://freesound.org/people/nebulasnails/sounds/405535",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "thud"
+  ]
+ }
+}

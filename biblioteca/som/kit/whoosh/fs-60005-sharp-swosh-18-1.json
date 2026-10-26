@@ -1,0 +1,35 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-60005-sharp-swosh-18-1.wav",
+ "verdict": "ok",
+ "build_db": -7.3,
+ "start_db": -13.7,
+ "end_db": -13.1,
+ "spikiness": 1.86,
+ "dur_s": 0.147,
+ "peak_offset_s": 0.0568,
+ "rise_ms": 51.4,
+ "centroid_hz": 532,
+ "below150": 0.012,
+ "above6k": 0.003,
+ "flatness": 0.01,
+ "note": 70.6,
+ "start_floor_db": -25.0,
+ "source": {
+  "id": "60005",
+  "type": "whoosh",
+  "title": "Sharp Swosh 18",
+  "creator": "qubodup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/60/60005_71257-hq.mp3",
+  "landing": "https://freesound.org/people/qubodup/sounds/60005",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "air",
+   "whoosh"
+  ]
+ }
+}

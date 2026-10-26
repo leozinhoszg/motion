@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-582655-long-rising-tones-16-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -27.8,
+ "start_db": -0.0,
+ "end_db": -39.3,
+ "spikiness": 1.29,
+ "dur_s": 0.849,
+ "peak_offset_s": 0.0553,
+ "rise_ms": 52.3,
+ "centroid_hz": 1252,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 86.0,
+ "start_floor_db": -17.2,
+ "source": {
+  "id": "582655",
+  "type": "chime",
+  "title": "Long Rising Tones 16.wav",
+  "creator": "ironcross32",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/582/582655_5965684-hq.mp3",
+  "landing": "https://freesound.org/people/ironcross32/sounds/582655",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "notification",
+   "chime"
+  ]
+ }
+}

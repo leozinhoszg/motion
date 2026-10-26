@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-592096-triumph-tada-horns-1-eo-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -25.0,
+ "start_db": -0.0,
+ "end_db": -30.4,
+ "spikiness": 1.38,
+ "dur_s": 2.072,
+ "peak_offset_s": 0.055,
+ "rise_ms": 24.8,
+ "centroid_hz": 1025,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 72.0,
+ "start_floor_db": -7.8,
+ "source": {
+  "id": "592096",
+  "type": "hit",
+  "title": "triumph tada horns 1 eo.wav",
+  "creator": "Empiremonkey",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/592/592096_702542-hq.mp3",
+  "landing": "https://freesound.org/people/Empiremonkey/sounds/592096",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-428574-whoosh-hit-faller-3.wav",
+ "verdict": "ok",
+ "build_db": -9.4,
+ "start_db": -0.0,
+ "end_db": -23.1,
+ "spikiness": 1.49,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0591,
+ "rise_ms": 34.3,
+ "centroid_hz": 159,
+ "below150": 0.86,
+ "above6k": 0.0,
+ "flatness": 0.01,
+ "note": 84.3,
+ "start_floor_db": -25.6,
+ "source": {
+  "id": "428574",
+  "type": "hit",
+  "title": "WHOOSH-HIT-FALLER",
+  "creator": "vykroft",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/428/428574_6802113-hq.mp3",
+  "landing": "https://freesound.org/people/vykroft/sounds/428574",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

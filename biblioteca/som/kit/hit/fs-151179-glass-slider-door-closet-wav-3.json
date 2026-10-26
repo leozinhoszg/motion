@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-151179-glass-slider-door-closet-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -6.2,
+ "start_db": -0.0,
+ "end_db": -22.0,
+ "spikiness": 3.0,
+ "dur_s": 2.278,
+ "peak_offset_s": 0.0097,
+ "rise_ms": 3.2,
+ "centroid_hz": 96,
+ "below150": 0.909,
+ "above6k": 0.001,
+ "flatness": 0.006,
+ "note": null,
+ "start_floor_db": -36.7,
+ "source": {
+  "id": "151179",
+  "type": "hit",
+  "title": "Glass Slider Door Closet.wav",
+  "creator": "afleetingspeck",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/151/151179_2522406-hq.mp3",
+  "landing": "https://freesound.org/people/afleetingspeck/sounds/151179",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "boom",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-169713-bass-drop-nasty-001-3.wav",
+ "verdict": "ok",
+ "build_db": -17.2,
+ "start_db": -0.0,
+ "end_db": -25.5,
+ "spikiness": 1.87,
+ "dur_s": 1.983,
+ "peak_offset_s": 0.0604,
+ "rise_ms": 57.5,
+ "centroid_hz": 57,
+ "below150": 0.969,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -13.3,
+ "source": {
+  "id": "169713",
+  "type": "boom",
+  "title": "Bass Drop - Nasty 001",
+  "creator": "GnoteSoundz",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/169/169713_3126007-hq.mp3",
+  "landing": "https://freesound.org/people/GnoteSoundz/sounds/169713",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "bass",
+   "drop"
+  ]
+ }
+}

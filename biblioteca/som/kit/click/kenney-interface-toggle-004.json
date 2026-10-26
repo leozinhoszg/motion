@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-interface-toggle-004.wav",
+ "verdict": "ok",
+ "build_db": -11.4,
+ "start_db": -0.9,
+ "end_db": -21.0,
+ "spikiness": 1.27,
+ "dur_s": 0.063,
+ "peak_offset_s": 0.0068,
+ "rise_ms": 4.9,
+ "centroid_hz": 3422,
+ "below150": 0.0,
+ "above6k": 0.075,
+ "flatness": 0.012,
+ "note": 91.8,
+ "start_floor_db": -4.8,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/toggle_004.ogg"
+ }
+}

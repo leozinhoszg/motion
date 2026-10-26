@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-515643-ding2-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -25.6,
+ "start_db": -0.0,
+ "end_db": -35.1,
+ "spikiness": 1.85,
+ "dur_s": 0.215,
+ "peak_offset_s": 0.0072,
+ "rise_ms": 1.8,
+ "centroid_hz": 2170,
+ "below150": 0.0,
+ "above6k": 0.096,
+ "flatness": 0.011,
+ "note": 85.7,
+ "start_floor_db": -48.1,
+ "source": {
+  "id": "515643",
+  "type": "chime",
+  "title": "ding2.wav",
+  "creator": "MashedTatoes2",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/515/515643_10246545-hq.mp3",
+  "landing": "https://freesound.org/people/MashedTatoes2/sounds/515643",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "bell",
+   "ding"
+  ]
+ }
+}

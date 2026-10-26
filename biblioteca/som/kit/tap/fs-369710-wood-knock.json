@@ -1,0 +1,30 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\fs-369710-wood-knock.wav",
+ "verdict": "ok",
+ "build_db": -27.1,
+ "start_db": -0.1,
+ "end_db": -34.3,
+ "spikiness": 2.17,
+ "dur_s": 0.112,
+ "peak_offset_s": 0.0123,
+ "rise_ms": 6.0,
+ "centroid_hz": 439,
+ "below150": 0.003,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 64.5,
+ "start_floor_db": -67.8,
+ "source": {
+  "id": "369710",
+  "type": "tap",
+  "title": "Wood Knock",
+  "creator": "Mrguff",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/369/369710_2855293-hq.mp3",
+  "landing": "https://freesound.org/people/Mrguff/sounds/369710",
+  "tags": [
+   "classic"
+  ]
+ }
+}

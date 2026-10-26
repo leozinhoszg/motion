@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-564442-guitar-swell-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 13.9,
+ "start_db": -22.6,
+ "end_db": -0.0,
+ "spikiness": 1.33,
+ "dur_s": 2.678,
+ "peak_offset_s": 2.5861,
+ "rise_ms": 1984.9,
+ "centroid_hz": 298,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.015,
+ "note": 58.9,
+ "start_floor_db": -32.5,
+ "source": {
+  "id": "564442",
+  "type": "reverse",
+  "title": "Guitar Swell.wav",
+  "creator": "Fester993",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/564/564442_5456250-hq.mp3",
+  "landing": "https://freesound.org/people/Fester993/sounds/564442",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "swell"
+  ]
+ }
+}

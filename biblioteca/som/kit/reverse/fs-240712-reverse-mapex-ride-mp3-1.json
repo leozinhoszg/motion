@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-240712-reverse-mapex-ride-mp3-1.wav",
+ "verdict": "ok",
+ "build_db": 19.4,
+ "start_db": -26.5,
+ "end_db": -0.0,
+ "spikiness": 1.31,
+ "dur_s": 2.499,
+ "peak_offset_s": 2.3681,
+ "rise_ms": 1449.8,
+ "centroid_hz": 2381,
+ "below150": 0.045,
+ "above6k": 0.021,
+ "flatness": 0.009,
+ "note": 83.5,
+ "start_floor_db": -37.0,
+ "source": {
+  "id": "240712",
+  "type": "reverse",
+  "title": "Reverse Mapex Ride.mp3",
+  "creator": "MarcusGraham325",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/240/240712_3552082-hq.mp3",
+  "landing": "https://freesound.org/people/MarcusGraham325/sounds/240712",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "cymbal"
+  ]
+ }
+}

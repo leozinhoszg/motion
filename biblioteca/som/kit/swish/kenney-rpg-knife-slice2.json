@@ -1,0 +1,22 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\kenney-rpg-knife-slice2.wav",
+ "verdict": "ok",
+ "build_db": 2.7,
+ "start_db": -17.4,
+ "end_db": -14.4,
+ "spikiness": 1.42,
+ "dur_s": 0.215,
+ "peak_offset_s": 0.1233,
+ "rise_ms": 112.9,
+ "centroid_hz": 5577,
+ "below150": 0.0,
+ "above6k": 0.315,
+ "flatness": 0.189,
+ "note": null,
+ "start_floor_db": -25.0,
+ "source": {
+  "pack": "rpg",
+  "file": "Audio/knifeSlice2.ogg"
+ }
+}

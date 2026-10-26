@@ -1,0 +1,34 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-475132-fx-swoosh-light-1.wav",
+ "verdict": "ok",
+ "build_db": -10.9,
+ "start_db": -14.0,
+ "end_db": -18.4,
+ "spikiness": 1.36,
+ "dur_s": 0.31,
+ "peak_offset_s": 0.1332,
+ "rise_ms": 122.4,
+ "centroid_hz": 3974,
+ "below150": 0.017,
+ "above6k": 0.259,
+ "flatness": 0.247,
+ "note": null,
+ "start_floor_db": -26.8,
+ "source": {
+  "id": "475132",
+  "type": "whoosh",
+  "title": "FX - Swoosh - Light",
+  "creator": "bolkmar",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/475/475132_2927958-hq.mp3",
+  "landing": "https://freesound.org/people/bolkmar/sounds/475132",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "swoosh"
+  ]
+ }
+}

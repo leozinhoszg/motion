@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-58930-interference2-aif-1.wav",
+ "verdict": "ok",
+ "build_db": -16.9,
+ "start_db": -0.1,
+ "end_db": -25.6,
+ "spikiness": 2.42,
+ "dur_s": 0.057,
+ "peak_offset_s": 0.007,
+ "rise_ms": 0.5,
+ "centroid_hz": 1215,
+ "below150": 0.001,
+ "above6k": 0.001,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -27.5,
+ "source": {
+  "id": "58930",
+  "type": "glitch",
+  "title": "interference2.aif",
+  "creator": "mattwasser",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/58/58930_593503-hq.mp3",
+  "landing": "https://freesound.org/people/mattwasser/sounds/58930",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "digital",
+   "glitch"
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-laser7.wav",
+ "verdict": "ok",
+ "build_db": -18.3,
+ "start_db": -0.0,
+ "end_db": -24.9,
+ "spikiness": 1.33,
+ "dur_s": 0.555,
+ "peak_offset_s": 0.055,
+ "rise_ms": 50.0,
+ "centroid_hz": 615,
+ "below150": 0.0,
+ "above6k": 0.006,
+ "flatness": 0.016,
+ "note": null,
+ "start_floor_db": -11.7,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/laser7.ogg"
+ }
+}

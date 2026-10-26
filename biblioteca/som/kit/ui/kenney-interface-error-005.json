@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-error-005.wav",
+ "verdict": "ok",
+ "build_db": -12.9,
+ "start_db": -0.0,
+ "end_db": -34.7,
+ "spikiness": 2.42,
+ "dur_s": 0.138,
+ "peak_offset_s": 0.01,
+ "rise_ms": 7.2,
+ "centroid_hz": 364,
+ "below150": 0.033,
+ "above6k": 0.002,
+ "flatness": 0.006,
+ "note": 55.6,
+ "start_floor_db": -11.0,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/error_005.ogg"
+ }
+}

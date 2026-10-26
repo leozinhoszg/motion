@@ -1,0 +1,35 @@
+{
+ "type": "transition",
+ "file": "kit\\transition\\fs-332003-whoosh-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -5.0,
+ "start_db": -16.2,
+ "end_db": -14.4,
+ "spikiness": 1.31,
+ "dur_s": 0.324,
+ "peak_offset_s": 0.1517,
+ "rise_ms": 134.5,
+ "centroid_hz": 3471,
+ "below150": 0.0,
+ "above6k": 0.253,
+ "flatness": 0.241,
+ "note": null,
+ "start_floor_db": -25.4,
+ "source": {
+  "id": "332003",
+  "type": "transition",
+  "title": "whoosh.wav",
+  "creator": "LloydEvans09",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/332/332003_2567799-hq.mp3",
+  "landing": "https://freesound.org/people/LloydEvans09/sounds/332003",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "transition",
+   "whoosh"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-569415-sfx-whoosh-deep-vent-1-11-wa-1.wav",
+ "verdict": "ok",
+ "build_db": -9.3,
+ "start_db": -0.0,
+ "end_db": -29.5,
+ "spikiness": 1.74,
+ "dur_s": 2.262,
+ "peak_offset_s": 0.135,
+ "rise_ms": 53.0,
+ "centroid_hz": 485,
+ "below150": 0.587,
+ "above6k": 0.002,
+ "flatness": 0.044,
+ "note": 43.3,
+ "start_floor_db": -15.9,
+ "source": {
+  "id": "569415",
+  "type": "boom",
+  "title": "Sfx Whoosh Deep Vent 1 11.wav",
+  "creator": "Sheyvan",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/569/569415_3248005-hq.mp3",
+  "landing": "https://freesound.org/people/Sheyvan/sounds/569415",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "deep",
+   "boom"
+  ]
+ }
+}

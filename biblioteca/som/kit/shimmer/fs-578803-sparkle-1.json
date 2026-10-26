@@ -1,0 +1,34 @@
+{
+ "type": "shimmer",
+ "file": "kit\\shimmer\\fs-578803-sparkle-1.wav",
+ "verdict": "ok",
+ "build_db": -25.4,
+ "start_db": -0.0,
+ "end_db": -34.2,
+ "spikiness": 1.09,
+ "dur_s": 2.568,
+ "peak_offset_s": 0.0604,
+ "rise_ms": 45.7,
+ "centroid_hz": 1008,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.007,
+ "note": 70.0,
+ "start_floor_db": -5.7,
+ "source": {
+  "id": "578803",
+  "type": "shimmer",
+  "title": "Sparkle",
+  "creator": "nomiqbomi",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/578/578803_10522382-hq.mp3",
+  "landing": "https://freesound.org/people/nomiqbomi/sounds/578803",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "sparkle"
+  ]
+ }
+}

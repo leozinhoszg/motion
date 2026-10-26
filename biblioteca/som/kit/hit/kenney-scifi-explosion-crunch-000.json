@@ -1,0 +1,22 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\kenney-scifi-explosion-crunch-000.wav",
+ "verdict": "ok",
+ "build_db": -21.5,
+ "start_db": -0.0,
+ "end_db": -32.7,
+ "spikiness": 1.6,
+ "dur_s": 0.756,
+ "peak_offset_s": 0.006,
+ "rise_ms": 5.1,
+ "centroid_hz": 282,
+ "below150": 0.669,
+ "above6k": 0.005,
+ "flatness": 0.027,
+ "note": null,
+ "start_floor_db": -14.0,
+ "source": {
+  "pack": "scifi",
+  "file": "Audio/explosionCrunch_000.ogg"
+ }
+}

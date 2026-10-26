@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-192761-ryuuzan-shop-door-bell00-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -21.1,
+ "start_db": -0.0,
+ "end_db": -29.8,
+ "spikiness": 1.16,
+ "dur_s": 0.597,
+ "peak_offset_s": 0.034,
+ "rise_ms": 24.1,
+ "centroid_hz": 5262,
+ "below150": 0.0,
+ "above6k": 0.25,
+ "flatness": 0.013,
+ "note": 103.9,
+ "start_floor_db": -36.5,
+ "source": {
+  "id": "192761",
+  "type": "chime",
+  "title": "Ryuuzan_shop_door_bell00.wav",
+  "creator": "ryuuzan",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/192/192761_475267-hq.mp3",
+  "landing": "https://freesound.org/people/ryuuzan/sounds/192761",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "bell",
+   "ding"
+  ]
+ }
+}

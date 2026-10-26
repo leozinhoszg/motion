@@ -1,0 +1,36 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-223838-expriements-bass-8-mp3-2.wav",
+ "verdict": "ok",
+ "build_db": -12.3,
+ "start_db": -0.0,
+ "end_db": -22.3,
+ "spikiness": 2.02,
+ "dur_s": 1.657,
+ "peak_offset_s": 0.0107,
+ "rise_ms": 4.9,
+ "centroid_hz": 145,
+ "below150": 0.884,
+ "above6k": 0.0,
+ "flatness": 0.021,
+ "note": 43.1,
+ "start_floor_db": -28.4,
+ "source": {
+  "id": "223838",
+  "type": "boom",
+  "title": "Expriements - bass 8 .mp3",
+  "creator": "Wonki_B",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/223/223838_3987576-hq.mp3",
+  "landing": "https://freesound.org/people/Wonki_B/sounds/223838",
+  "k": 3,
+  "keep": [
+   1,
+   2
+  ],
+  "tags": [
+   "sub",
+   "drop"
+  ]
+ }
+}

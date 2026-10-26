@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-657803-electric-shock-2-hit-1.wav",
+ "verdict": "ok",
+ "build_db": -2.4,
+ "start_db": -0.0,
+ "end_db": -10.9,
+ "spikiness": 3.75,
+ "dur_s": 0.586,
+ "peak_offset_s": 0.0069,
+ "rise_ms": 0.3,
+ "centroid_hz": 6273,
+ "below150": 0.005,
+ "above6k": 0.56,
+ "flatness": 0.237,
+ "note": null,
+ "start_floor_db": -45.5,
+ "source": {
+  "id": "657803",
+  "type": "glitch",
+  "title": "Electric Shock 2 Hit",
+  "creator": "The-Sacha-Rush",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/657/657803_685248-hq.mp3",
+  "landing": "https://freesound.org/people/The-Sacha-Rush/sounds/657803",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "glitch",
+   "hit"
+  ]
+ }
+}

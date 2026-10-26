@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-tin-medium-004.wav",
+ "verdict": "ok",
+ "build_db": -50.7,
+ "start_db": -0.0,
+ "end_db": -50.4,
+ "spikiness": 2.24,
+ "dur_s": 0.186,
+ "peak_offset_s": 0.0061,
+ "rise_ms": 4.4,
+ "centroid_hz": 699,
+ "below150": 0.001,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 76.3,
+ "start_floor_db": -8.3,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactTin_medium_004.ogg"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-445670-37-cloth-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -7.6,
+ "start_db": -12.1,
+ "end_db": -16.7,
+ "spikiness": 2.22,
+ "dur_s": 0.257,
+ "peak_offset_s": 0.1145,
+ "rise_ms": 109.5,
+ "centroid_hz": 414,
+ "below150": 0.1,
+ "above6k": 0.005,
+ "flatness": 0.016,
+ "note": null,
+ "start_floor_db": -20.3,
+ "source": {
+  "id": "445670",
+  "type": "swish",
+  "title": "37-cloth.wav",
+  "creator": "tilano408",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/445/445670_9112347-hq.mp3",
+  "landing": "https://freesound.org/people/tilano408/sounds/445670",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "cloth",
+   "swish"
+  ]
+ }
+}

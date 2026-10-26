@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-696125-indu-drum27-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -29.1,
+ "start_db": -0.0,
+ "end_db": -48.4,
+ "spikiness": 1.55,
+ "dur_s": 1.596,
+ "peak_offset_s": 0.0058,
+ "rise_ms": 4.5,
+ "centroid_hz": 775,
+ "below150": 0.053,
+ "above6k": 0.002,
+ "flatness": 0.006,
+ "note": 82.3,
+ "start_floor_db": -3.7,
+ "source": {
+  "id": "696125",
+  "type": "hit",
+  "title": "InduDrum27.wav",
+  "creator": "piwilliwillski",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/696/696125_3049306-hq.mp3",
+  "landing": "https://freesound.org/people/piwilliwillski/sounds/696125",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "drum",
+   "hit",
+   "cinematic"
+  ]
+ }
+}

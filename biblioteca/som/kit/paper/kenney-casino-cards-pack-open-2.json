@@ -1,0 +1,22 @@
+{
+ "type": "paper",
+ "file": "kit\\paper\\kenney-casino-cards-pack-open-2.wav",
+ "verdict": "ok",
+ "build_db": 8.5,
+ "start_db": -17.6,
+ "end_db": -14.5,
+ "spikiness": 2.45,
+ "dur_s": 0.261,
+ "peak_offset_s": 0.2205,
+ "rise_ms": 203.8,
+ "centroid_hz": 4740,
+ "below150": 0.0,
+ "above6k": 0.227,
+ "flatness": 0.377,
+ "note": null,
+ "start_floor_db": -30.3,
+ "source": {
+  "pack": "casino",
+  "file": "Audio/cards-pack-open-2.ogg"
+ }
+}

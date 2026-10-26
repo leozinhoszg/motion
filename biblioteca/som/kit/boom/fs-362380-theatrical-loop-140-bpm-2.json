@@ -1,0 +1,36 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-362380-theatrical-loop-140-bpm-2.wav",
+ "verdict": "ok",
+ "build_db": -11.9,
+ "start_db": -0.0,
+ "end_db": -23.7,
+ "spikiness": 2.38,
+ "dur_s": 1.56,
+ "peak_offset_s": 0.0194,
+ "rise_ms": 16.4,
+ "centroid_hz": 240,
+ "below150": 0.498,
+ "above6k": 0.001,
+ "flatness": 0.011,
+ "note": 45.7,
+ "start_floor_db": -11.6,
+ "source": {
+  "id": "362380",
+  "type": "boom",
+  "title": "Theatrical Loop 140 BPM",
+  "creator": "SSS_Samples",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/362/362380_5968459-hq.mp3",
+  "landing": "https://freesound.org/people/SSS_Samples/sounds/362380",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "sub",
+   "drop"
+  ]
+ }
+}

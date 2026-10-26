@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-535362-punching-impact-sound-3.wav",
+ "verdict": "ok",
+ "build_db": -23.8,
+ "start_db": -0.0,
+ "end_db": -36.9,
+ "spikiness": 2.21,
+ "dur_s": 0.365,
+ "peak_offset_s": 0.0131,
+ "rise_ms": 7.4,
+ "centroid_hz": 180,
+ "below150": 0.562,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 42.1,
+ "start_floor_db": -63.3,
+ "source": {
+  "id": "535362",
+  "type": "hit",
+  "title": "Punching Impact Sound",
+  "creator": "EminYILDIRIM",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/535/535362_10912485-hq.mp3",
+  "landing": "https://freesound.org/people/EminYILDIRIM/sounds/535362",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "punch",
+   "impact"
+  ]
+ }
+}

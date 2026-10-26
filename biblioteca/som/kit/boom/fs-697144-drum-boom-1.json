@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-697144-drum-boom-1.wav",
+ "verdict": "ok",
+ "build_db": -14.2,
+ "start_db": -0.0,
+ "end_db": -28.8,
+ "spikiness": 1.83,
+ "dur_s": 1.324,
+ "peak_offset_s": 0.0257,
+ "rise_ms": 19.9,
+ "centroid_hz": 38,
+ "below150": 0.994,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 42.9,
+ "start_floor_db": -32.4,
+ "source": {
+  "id": "697144",
+  "type": "boom",
+  "title": "Drum Boom",
+  "creator": "CHARLIESMILER",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/697/697144_14015929-hq.mp3",
+  "landing": "https://freesound.org/people/CHARLIESMILER/sounds/697144",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "sub",
+   "boom"
+  ]
+ }
+}

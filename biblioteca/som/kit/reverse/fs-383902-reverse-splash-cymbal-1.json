@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-383902-reverse-splash-cymbal-1.wav",
+ "verdict": "ok",
+ "build_db": 18.8,
+ "start_db": -28.1,
+ "end_db": -0.5,
+ "spikiness": 1.46,
+ "dur_s": 1.748,
+ "peak_offset_s": 1.7259,
+ "rise_ms": 940.5,
+ "centroid_hz": 3267,
+ "below150": 0.002,
+ "above6k": 0.062,
+ "flatness": 0.013,
+ "note": 98.0,
+ "start_floor_db": -38.1,
+ "source": {
+  "id": "383902",
+  "type": "reverse",
+  "title": "Reverse Splash Cymbal",
+  "creator": "deleted_user_7146007",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/383/383902_7146007-hq.mp3",
+  "landing": "https://freesound.org/people/deleted_user_7146007/sounds/383902",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "cymbal"
+  ]
+ }
+}

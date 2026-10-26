@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-441965-glitch-2-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -0.5,
+ "start_db": -14.1,
+ "end_db": -10.7,
+ "spikiness": 1.98,
+ "dur_s": 0.033,
+ "peak_offset_s": 0.0163,
+ "rise_ms": 9.6,
+ "centroid_hz": 537,
+ "below150": 0.087,
+ "above6k": 0.003,
+ "flatness": 0.004,
+ "note": 72.7,
+ "start_floor_db": -39.5,
+ "source": {
+  "id": "441965",
+  "type": "glitch",
+  "title": "glitch 2.wav",
+  "creator": "detringer",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/441/441965_5642097-hq.mp3",
+  "landing": "https://freesound.org/people/detringer/sounds/441965",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

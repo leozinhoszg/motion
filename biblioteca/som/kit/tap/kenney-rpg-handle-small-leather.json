@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-rpg-handle-small-leather.wav",
+ "verdict": "ok",
+ "build_db": -22.5,
+ "start_db": -0.2,
+ "end_db": -34.1,
+ "spikiness": 2.65,
+ "dur_s": 0.104,
+ "peak_offset_s": 0.0091,
+ "rise_ms": 3.8,
+ "centroid_hz": 2338,
+ "below150": 0.092,
+ "above6k": 0.121,
+ "flatness": 0.217,
+ "note": null,
+ "start_floor_db": -28.7,
+ "source": {
+  "pack": "rpg",
+  "file": "Audio/handleSmallLeather.ogg"
+ }
+}

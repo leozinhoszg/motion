@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-359139-low-metal-hit-3-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -15.5,
+ "start_db": -0.0,
+ "end_db": -31.5,
+ "spikiness": 1.79,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0541,
+ "rise_ms": 52.5,
+ "centroid_hz": 50,
+ "below150": 0.995,
+ "above6k": 0.0,
+ "flatness": 0.009,
+ "note": 41.7,
+ "start_floor_db": -13.0,
+ "source": {
+  "id": "359139",
+  "type": "hit",
+  "title": "Low Metal Hit 3.wav",
+  "creator": "zazz.sound.design",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/359/359139_726853-hq.mp3",
+  "landing": "https://freesound.org/people/zazz.sound.design/sounds/359139",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

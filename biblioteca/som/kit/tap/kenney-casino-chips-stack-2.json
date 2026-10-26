@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-casino-chips-stack-2.wav",
+ "verdict": "ok",
+ "build_db": -23.8,
+ "start_db": -0.0,
+ "end_db": -37.5,
+ "spikiness": 2.87,
+ "dur_s": 0.121,
+ "peak_offset_s": 0.0086,
+ "rise_ms": 2.0,
+ "centroid_hz": 6373,
+ "below150": 0.011,
+ "above6k": 0.545,
+ "flatness": 0.257,
+ "note": null,
+ "start_floor_db": -41.7,
+ "source": {
+  "pack": "casino",
+  "file": "Audio/chips-stack-2.ogg"
+ }
+}

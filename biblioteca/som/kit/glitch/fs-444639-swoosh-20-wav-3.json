@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-444639-swoosh-20-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -21.2,
+ "start_db": -0.0,
+ "end_db": -28.3,
+ "spikiness": 1.55,
+ "dur_s": 1.035,
+ "peak_offset_s": 0.0559,
+ "rise_ms": 54.9,
+ "centroid_hz": 984,
+ "below150": 0.15,
+ "above6k": 0.005,
+ "flatness": 0.013,
+ "note": 90.7,
+ "start_floor_db": -14.4,
+ "source": {
+  "id": "444639",
+  "type": "glitch",
+  "title": "Swoosh 20.wav",
+  "creator": "AudioPapkin",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/444/444639_8698658-hq.mp3",
+  "landing": "https://freesound.org/people/AudioPapkin/sounds/444639",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch",
+   "hit"
+  ]
+ }
+}

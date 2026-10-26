@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-647535-riser-mid-03-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 14.3,
+ "start_db": -26.2,
+ "end_db": -10.3,
+ "spikiness": 1.35,
+ "dur_s": 1.138,
+ "peak_offset_s": 0.8683,
+ "rise_ms": 486.1,
+ "centroid_hz": 754,
+ "below150": 0.399,
+ "above6k": 0.01,
+ "flatness": 0.043,
+ "note": 40.9,
+ "start_floor_db": -36.4,
+ "source": {
+  "id": "647535",
+  "type": "riser",
+  "title": "Riser_mid_03.wav",
+  "creator": "balolo",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/647/647535_1422197-hq.mp3",
+  "landing": "https://freesound.org/people/balolo/sounds/647535",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "noise",
+   "riser"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-404358-success-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -14.0,
+ "start_db": -0.4,
+ "end_db": -19.3,
+ "spikiness": 1.38,
+ "dur_s": 0.932,
+ "peak_offset_s": 0.1158,
+ "rise_ms": 54.7,
+ "centroid_hz": 504,
+ "below150": 0.017,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 64.2,
+ "start_floor_db": -11.7,
+ "source": {
+  "id": "404358",
+  "type": "glitch",
+  "title": "Success.wav",
+  "creator": "Kagateni",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/404/404358_7114905-hq.mp3",
+  "landing": "https://freesound.org/people/Kagateni/sounds/404358",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "digital",
+   "glitch"
+  ]
+ }
+}

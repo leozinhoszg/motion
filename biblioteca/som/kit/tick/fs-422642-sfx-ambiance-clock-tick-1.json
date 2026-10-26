@@ -1,0 +1,35 @@
+{
+ "type": "tick",
+ "file": "kit\\tick\\fs-422642-sfx-ambiance-clock-tick-1.wav",
+ "verdict": "ok",
+ "build_db": -31.3,
+ "start_db": -1.4,
+ "end_db": -39.0,
+ "spikiness": 1.68,
+ "dur_s": 0.104,
+ "peak_offset_s": 0.0125,
+ "rise_ms": 6.8,
+ "centroid_hz": 550,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 69.9,
+ "start_floor_db": -21.9,
+ "source": {
+  "id": "422642",
+  "type": "tick",
+  "title": "SFX Ambiance: Clock Tick",
+  "creator": "trullilulli",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/422/422642_6227951-hq.mp3",
+  "landing": "https://freesound.org/people/trullilulli/sounds/422642",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "clock",
+   "tick"
+  ]
+ }
+}

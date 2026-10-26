@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-259167-4-bar-edm-loop-aif-2.wav",
+ "verdict": "ok",
+ "build_db": 0.1,
+ "start_db": -0.0,
+ "end_db": -10.3,
+ "spikiness": 1.45,
+ "dur_s": 0.868,
+ "peak_offset_s": 0.0169,
+ "rise_ms": 11.2,
+ "centroid_hz": 4198,
+ "below150": 0.44,
+ "above6k": 0.304,
+ "flatness": 0.313,
+ "note": null,
+ "start_floor_db": -39.3,
+ "source": {
+  "id": "259167",
+  "type": "glitch",
+  "title": "4 bar EDM loop.aif",
+  "creator": "soundprojektstudios",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/259/259167_4810858-hq.mp3",
+  "landing": "https://freesound.org/people/soundprojektstudios/sounds/259167",
+  "k": 3,
+  "keep": [
+   1,
+   2
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "pop",
+ "file": "kit\\pop\\fs-187342-wine-bottle-opening-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -23.8,
+ "start_db": -0.0,
+ "end_db": -36.8,
+ "spikiness": 2.22,
+ "dur_s": 0.25,
+ "peak_offset_s": 0.0093,
+ "rise_ms": 3.2,
+ "centroid_hz": 1908,
+ "below150": 0.001,
+ "above6k": 0.024,
+ "flatness": 0.038,
+ "note": 80.4,
+ "start_floor_db": -27.3,
+ "source": {
+  "id": "187342",
+  "type": "pop",
+  "title": "Wine Bottle Opening.wav",
+  "creator": "baidonovan",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/187/187342_3297044-hq.mp3",
+  "landing": "https://freesound.org/people/baidonovan/sounds/187342",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "cork",
+   "pop"
+  ]
+ }
+}

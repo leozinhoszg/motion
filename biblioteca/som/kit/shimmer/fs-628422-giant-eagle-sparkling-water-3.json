@@ -1,0 +1,34 @@
+{
+ "type": "shimmer",
+ "file": "kit\\shimmer\\fs-628422-giant-eagle-sparkling-water-3.wav",
+ "verdict": "ok",
+ "build_db": -7.2,
+ "start_db": -0.0,
+ "end_db": -20.7,
+ "spikiness": 3.43,
+ "dur_s": 0.496,
+ "peak_offset_s": 0.0074,
+ "rise_ms": 1.7,
+ "centroid_hz": 4878,
+ "below150": 0.0,
+ "above6k": 0.379,
+ "flatness": 0.21,
+ "note": null,
+ "start_floor_db": -29.2,
+ "source": {
+  "id": "628422",
+  "type": "shimmer",
+  "title": "giant eagle sparkling water.m4a",
+  "creator": "jumpinbear",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/628/628422_5152329-hq.mp3",
+  "landing": "https://freesound.org/people/jumpinbear/sounds/628422",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "sparkle"
+  ]
+ }
+}

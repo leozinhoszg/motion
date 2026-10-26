@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-669729-distant-car-pass-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 11.2,
+ "start_db": -16.7,
+ "end_db": -2.8,
+ "spikiness": 1.76,
+ "dur_s": 3.698,
+ "peak_offset_s": 3.1015,
+ "rise_ms": 2898.0,
+ "centroid_hz": 436,
+ "below150": 0.25,
+ "above6k": 0.001,
+ "flatness": 0.004,
+ "note": null,
+ "start_floor_db": -39.2,
+ "source": {
+  "id": "669729",
+  "type": "riser",
+  "title": "Distant Car Pass.wav",
+  "creator": "Geoff-Bremner-Audio",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/669/669729_10643461-hq.mp3",
+  "landing": "https://freesound.org/people/Geoff-Bremner-Audio/sounds/669729",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "rising",
+   "swell"
+  ]
+ }
+}

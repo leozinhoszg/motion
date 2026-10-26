@@ -1,0 +1,35 @@
+{
+ "type": "transition",
+ "file": "kit\\transition\\fs-614151-swishes-13-fast-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -19.2,
+ "start_db": -22.6,
+ "end_db": -32.9,
+ "spikiness": 1.44,
+ "dur_s": 0.507,
+ "peak_offset_s": 0.179,
+ "rise_ms": 60.5,
+ "centroid_hz": 2634,
+ "below150": 0.154,
+ "above6k": 0.157,
+ "flatness": 0.216,
+ "note": null,
+ "start_floor_db": -23.5,
+ "source": {
+  "id": "614151",
+  "type": "transition",
+  "title": "Swishes_13_fast.wav",
+  "creator": "videofueralle",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/614/614151_1130120-hq.mp3",
+  "landing": "https://freesound.org/people/videofueralle/sounds/614151",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "swoosh",
+   "transition"
+  ]
+ }
+}

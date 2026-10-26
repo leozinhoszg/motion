@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-608429-tgn-boom-fx-01-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -19.2,
+ "start_db": -0.0,
+ "end_db": -25.2,
+ "spikiness": 1.48,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0594,
+ "rise_ms": 31.5,
+ "centroid_hz": 41,
+ "below150": 0.993,
+ "above6k": 0.0,
+ "flatness": 0.006,
+ "note": 43.5,
+ "start_floor_db": -12.7,
+ "source": {
+  "id": "608429",
+  "type": "boom",
+  "title": "TGN Boom FX 01.wav",
+  "creator": "TGN.LiveOrganism",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/608/608429_3242538-hq.mp3",
+  "landing": "https://freesound.org/people/TGN.LiveOrganism/sounds/608429",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "sub",
+   "drop"
+  ]
+ }
+}

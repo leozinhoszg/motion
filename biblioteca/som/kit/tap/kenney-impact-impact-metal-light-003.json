@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-metal-light-003.wav",
+ "verdict": "ok",
+ "build_db": -28.5,
+ "start_db": -0.0,
+ "end_db": -38.1,
+ "spikiness": 1.31,
+ "dur_s": 0.275,
+ "peak_offset_s": 0.0065,
+ "rise_ms": 4.8,
+ "centroid_hz": 2985,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 102.1,
+ "start_floor_db": -5.6,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactMetal_light_003.ogg"
+ }
+}

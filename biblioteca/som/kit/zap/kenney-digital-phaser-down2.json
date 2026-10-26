@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-phaser-down2.wav",
+ "verdict": "ok",
+ "build_db": -9.5,
+ "start_db": -1.2,
+ "end_db": -12.6,
+ "spikiness": 1.27,
+ "dur_s": 0.259,
+ "peak_offset_s": 0.0655,
+ "rise_ms": 4.9,
+ "centroid_hz": 620,
+ "below150": 0.012,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -54.3,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/phaserDown2.ogg"
+ }
+}

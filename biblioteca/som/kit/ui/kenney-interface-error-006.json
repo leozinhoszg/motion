@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-error-006.wav",
+ "verdict": "ok",
+ "build_db": -31.6,
+ "start_db": -0.0,
+ "end_db": -36.6,
+ "spikiness": 2.11,
+ "dur_s": 0.157,
+ "peak_offset_s": 0.0096,
+ "rise_ms": 6.5,
+ "centroid_hz": 401,
+ "below150": 0.122,
+ "above6k": 0.003,
+ "flatness": 0.01,
+ "note": null,
+ "start_floor_db": -18.8,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/error_006.ogg"
+ }
+}

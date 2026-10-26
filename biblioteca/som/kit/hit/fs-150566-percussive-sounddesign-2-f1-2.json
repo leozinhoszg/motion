@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-150566-percussive-sounddesign-2-f1-2.wav",
+ "verdict": "ok",
+ "build_db": -16.9,
+ "start_db": -0.0,
+ "end_db": -25.4,
+ "spikiness": 1.29,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.055,
+ "rise_ms": 53.6,
+ "centroid_hz": 422,
+ "below150": 0.087,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": 61.0,
+ "start_floor_db": -15.9,
+ "source": {
+  "id": "150566",
+  "type": "hit",
+  "title": "Percussive Sounddesign 2 (F1)",
+  "creator": "Khoon",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/150/150566_2536633-hq.mp3",
+  "landing": "https://freesound.org/people/Khoon/sounds/150566",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

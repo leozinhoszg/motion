@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-scifi-laser-retro-004.wav",
+ "verdict": "ok",
+ "build_db": -15.9,
+ "start_db": -0.0,
+ "end_db": -20.6,
+ "spikiness": 1.2,
+ "dur_s": 0.255,
+ "peak_offset_s": 0.0121,
+ "rise_ms": 5.0,
+ "centroid_hz": 952,
+ "below150": 0.0,
+ "above6k": 0.002,
+ "flatness": 0.008,
+ "note": null,
+ "start_floor_db": -5.5,
+ "source": {
+  "pack": "scifi",
+  "file": "Audio/laserRetro_004.ogg"
+ }
+}

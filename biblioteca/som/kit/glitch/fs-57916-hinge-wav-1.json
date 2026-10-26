@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-57916-hinge-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -6.4,
+ "start_db": -9.0,
+ "end_db": -18.3,
+ "spikiness": 1.33,
+ "dur_s": 0.092,
+ "peak_offset_s": 0.0553,
+ "rise_ms": 49.5,
+ "centroid_hz": 2333,
+ "below150": 0.0,
+ "above6k": 0.001,
+ "flatness": 0.001,
+ "note": 100.1,
+ "start_floor_db": -13.3,
+ "source": {
+  "id": "57916",
+  "type": "glitch",
+  "title": "hinge.wav",
+  "creator": "denalwa",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/57/57916_723384-hq.mp3",
+  "landing": "https://freesound.org/people/denalwa/sounds/57916",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

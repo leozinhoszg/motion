@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-261205-bass-drop-pitch-sweep-fx-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -17.8,
+ "start_db": -0.0,
+ "end_db": -24.4,
+ "spikiness": 1.43,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0611,
+ "rise_ms": 33.5,
+ "centroid_hz": 44,
+ "below150": 0.997,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": null,
+ "start_floor_db": -7.0,
+ "source": {
+  "id": "261205",
+  "type": "boom",
+  "title": "Bass Drop Pitch Sweep FX.wav",
+  "creator": "Stereo Surgeon",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/261/261205_2297168-hq.mp3",
+  "landing": "https://freesound.org/people/Stereo%20Surgeon/sounds/261205",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "bass",
+   "drop"
+  ]
+ }
+}

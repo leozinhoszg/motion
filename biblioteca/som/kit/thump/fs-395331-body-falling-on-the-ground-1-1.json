@@ -1,0 +1,35 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-395331-body-falling-on-the-ground-1-1.wav",
+ "verdict": "ok",
+ "build_db": -21.0,
+ "start_db": -0.0,
+ "end_db": -38.2,
+ "spikiness": 2.03,
+ "dur_s": 0.631,
+ "peak_offset_s": 0.0085,
+ "rise_ms": 2.6,
+ "centroid_hz": 1206,
+ "below150": 0.158,
+ "above6k": 0.029,
+ "flatness": 0.194,
+ "note": null,
+ "start_floor_db": -29.2,
+ "source": {
+  "id": "395331",
+  "type": "thump",
+  "title": "Body falling on the ground 1",
+  "creator": "ihitokage",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/395/395331_1675920-hq.mp3",
+  "landing": "https://freesound.org/people/ihitokage/sounds/395331",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "body",
+   "fall"
+  ]
+ }
+}

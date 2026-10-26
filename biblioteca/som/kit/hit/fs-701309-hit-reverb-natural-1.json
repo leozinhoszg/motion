@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-701309-hit-reverb-natural-1.wav",
+ "verdict": "ok",
+ "build_db": -23.2,
+ "start_db": -0.0,
+ "end_db": -33.8,
+ "spikiness": 1.6,
+ "dur_s": 2.171,
+ "peak_offset_s": 0.0064,
+ "rise_ms": 2.8,
+ "centroid_hz": 365,
+ "below150": 0.36,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 42.9,
+ "start_floor_db": -11.2,
+ "source": {
+  "id": "701309",
+  "type": "hit",
+  "title": "Hit reverb (natural)",
+  "creator": "xkeril",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/701/701309_13504080-hq.mp3",
+  "landing": "https://freesound.org/people/xkeril/sounds/701309",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

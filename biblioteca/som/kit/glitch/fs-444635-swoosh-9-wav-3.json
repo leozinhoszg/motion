@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-444635-swoosh-9-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -26.5,
+ "start_db": -0.0,
+ "end_db": -34.6,
+ "spikiness": 1.46,
+ "dur_s": 0.831,
+ "peak_offset_s": 0.0531,
+ "rise_ms": 30.5,
+ "centroid_hz": 999,
+ "below150": 0.38,
+ "above6k": 0.029,
+ "flatness": 0.055,
+ "note": null,
+ "start_floor_db": -11.3,
+ "source": {
+  "id": "444635",
+  "type": "glitch",
+  "title": "Swoosh 9.wav",
+  "creator": "AudioPapkin",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/444/444635_8698658-hq.mp3",
+  "landing": "https://freesound.org/people/AudioPapkin/sounds/444635",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch",
+   "hit"
+  ]
+ }
+}

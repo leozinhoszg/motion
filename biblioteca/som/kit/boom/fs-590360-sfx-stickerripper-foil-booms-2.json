@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-590360-sfx-stickerripper-foil-booms-2.wav",
+ "verdict": "ok",
+ "build_db": -20.1,
+ "start_db": -0.0,
+ "end_db": -28.3,
+ "spikiness": 1.84,
+ "dur_s": 0.895,
+ "peak_offset_s": 0.0602,
+ "rise_ms": 54.4,
+ "centroid_hz": 65,
+ "below150": 0.992,
+ "above6k": 0.001,
+ "flatness": 0.049,
+ "note": null,
+ "start_floor_db": -28.4,
+ "source": {
+  "id": "590360",
+  "type": "boom",
+  "title": "SFX_STICKERRIPPER_foilBooms_01.wav",
+  "creator": "MrFossy",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/590/590360_129727-hq.mp3",
+  "landing": "https://freesound.org/people/MrFossy/sounds/590360",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "deep",
+   "boom"
+  ]
+ }
+}

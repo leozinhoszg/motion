@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-264031-low-mid-afar-explosion-1-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -21.8,
+ "start_db": -0.0,
+ "end_db": -28.6,
+ "spikiness": 1.6,
+ "dur_s": 3.448,
+ "peak_offset_s": 0.0544,
+ "rise_ms": 14.7,
+ "centroid_hz": 181,
+ "below150": 0.25,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -30.6,
+ "source": {
+  "id": "264031",
+  "type": "boom",
+  "title": "low mid afar explosion 1.wav",
+  "creator": "Logicogonist",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/264/264031_3797507-hq.mp3",
+  "landing": "https://freesound.org/people/Logicogonist/sounds/264031",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "low",
+   "boom"
+  ]
+ }
+}

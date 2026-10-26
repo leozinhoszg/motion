@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-198116-clang-1-1.wav",
+ "verdict": "ok",
+ "build_db": -22.6,
+ "start_db": -0.0,
+ "end_db": -35.7,
+ "spikiness": 1.37,
+ "dur_s": 1.675,
+ "peak_offset_s": 0.0548,
+ "rise_ms": 48.1,
+ "centroid_hz": 2781,
+ "below150": 0.004,
+ "above6k": 0.01,
+ "flatness": 0.014,
+ "note": 108.4,
+ "start_floor_db": -56.1,
+ "source": {
+  "id": "198116",
+  "type": "hit",
+  "title": "Clang 1",
+  "creator": "editor_adp",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/198/198116_2155835-hq.mp3",
+  "landing": "https://freesound.org/people/editor_adp/sounds/198116",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "trailer",
+   "hit"
+  ]
+ }
+}

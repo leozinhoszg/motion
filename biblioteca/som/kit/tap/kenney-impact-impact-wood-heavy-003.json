@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-wood-heavy-003.wav",
+ "verdict": "ok",
+ "build_db": -47.3,
+ "start_db": -0.0,
+ "end_db": -60.4,
+ "spikiness": 2.52,
+ "dur_s": 0.31,
+ "peak_offset_s": 0.0069,
+ "rise_ms": 4.4,
+ "centroid_hz": 146,
+ "below150": 0.483,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 48.2,
+ "start_floor_db": -9.5,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactWood_heavy_003.ogg"
+ }
+}

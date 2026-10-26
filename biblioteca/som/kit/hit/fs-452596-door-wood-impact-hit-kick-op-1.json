@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-452596-door-wood-impact-hit-kick-op-1.wav",
+ "verdict": "ok",
+ "build_db": -24.2,
+ "start_db": -0.7,
+ "end_db": -32.3,
+ "spikiness": 1.77,
+ "dur_s": 0.755,
+ "peak_offset_s": 0.1466,
+ "rise_ms": 38.7,
+ "centroid_hz": 390,
+ "below150": 0.741,
+ "above6k": 0.01,
+ "flatness": 0.042,
+ "note": null,
+ "start_floor_db": -13.7,
+ "source": {
+  "id": "452596",
+  "type": "hit",
+  "title": "door wood impact hit kick open sudden explode.wav",
+  "creator": "kyles",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/452/452596_612689-hq.mp3",
+  "landing": "https://freesound.org/people/kyles/sounds/452596",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

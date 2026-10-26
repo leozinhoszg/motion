@@ -1,0 +1,36 @@
+{
+ "type": "paper",
+ "file": "kit\\paper\\fs-677857-game-ui-screen-transition-bo-1.wav",
+ "verdict": "ok",
+ "build_db": 0.1,
+ "start_db": -18.4,
+ "end_db": -16.8,
+ "spikiness": 1.94,
+ "dur_s": 0.076,
+ "peak_offset_s": 0.0433,
+ "rise_ms": 38.8,
+ "centroid_hz": 1357,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -23.8,
+ "source": {
+  "id": "677857",
+  "type": "paper",
+  "title": "Game UI Screen Transition Book Page Turn",
+  "creator": "el_boss",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/677/677857_9129912-hq.mp3",
+  "landing": "https://freesound.org/people/el_boss/sounds/677857",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "page",
+   "turn"
+  ]
+ }
+}

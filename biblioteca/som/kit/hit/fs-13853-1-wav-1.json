@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-13853-1-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -22.4,
+ "start_db": -0.0,
+ "end_db": -32.8,
+ "spikiness": 1.86,
+ "dur_s": 1.073,
+ "peak_offset_s": 0.0549,
+ "rise_ms": 30.7,
+ "centroid_hz": 127,
+ "below150": 0.793,
+ "above6k": 0.0,
+ "flatness": 0.006,
+ "note": 46.3,
+ "start_floor_db": -30.7,
+ "source": {
+  "id": "13853",
+  "type": "hit",
+  "title": "1.wav",
+  "creator": "adcbicycle",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/13/13853_33634-hq.mp3",
+  "landing": "https://freesound.org/people/adcbicycle/sounds/13853",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "boom",
+   "hit"
+  ]
+ }
+}

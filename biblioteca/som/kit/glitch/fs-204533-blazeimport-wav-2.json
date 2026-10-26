@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-204533-blazeimport-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -1.3,
+ "start_db": -1.1,
+ "end_db": -1.8,
+ "spikiness": 1.44,
+ "dur_s": 0.419,
+ "peak_offset_s": 0.0553,
+ "rise_ms": 54.2,
+ "centroid_hz": 3924,
+ "below150": 0.071,
+ "above6k": 0.261,
+ "flatness": 0.008,
+ "note": 55.0,
+ "start_floor_db": -6.9,
+ "source": {
+  "id": "204533",
+  "type": "glitch",
+  "title": "blazeimport.wav",
+  "creator": "Vitouliss",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/204/204533_2973509-hq.mp3",
+  "landing": "https://freesound.org/people/Vitouliss/sounds/204533",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "data",
+   "glitch"
+  ]
+ }
+}

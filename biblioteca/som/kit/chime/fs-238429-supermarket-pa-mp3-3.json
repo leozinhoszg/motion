@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-238429-supermarket-pa-mp3-3.wav",
+ "verdict": "ok",
+ "build_db": -21.0,
+ "start_db": -0.0,
+ "end_db": -28.7,
+ "spikiness": 1.41,
+ "dur_s": 1.277,
+ "peak_offset_s": 0.0556,
+ "rise_ms": 24.0,
+ "centroid_hz": 1087,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": 87.5,
+ "start_floor_db": -8.6,
+ "source": {
+  "id": "238429",
+  "type": "chime",
+  "title": "Supermarket PA.mp3",
+  "creator": "nigelcoop",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/238/238429_1088850-hq.mp3",
+  "landing": "https://freesound.org/people/nigelcoop/sounds/238429",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "notification",
+   "chime"
+  ]
+ }
+}

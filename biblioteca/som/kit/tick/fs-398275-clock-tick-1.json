@@ -1,0 +1,36 @@
+{
+ "type": "tick",
+ "file": "kit\\tick\\fs-398275-clock-tick-1.wav",
+ "verdict": "ok",
+ "build_db": -23.5,
+ "start_db": -0.0,
+ "end_db": -32.9,
+ "spikiness": 2.51,
+ "dur_s": 0.15,
+ "peak_offset_s": 0.0079,
+ "rise_ms": 2.3,
+ "centroid_hz": 1165,
+ "below150": 0.0,
+ "above6k": 0.014,
+ "flatness": 0.047,
+ "note": 71.9,
+ "start_floor_db": -27.3,
+ "source": {
+  "id": "398275",
+  "type": "tick",
+  "title": "Clock Tick",
+  "creator": "FlashTrauma",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/398/398275_2351866-hq.mp3",
+  "landing": "https://freesound.org/people/FlashTrauma/sounds/398275",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "tick"
+  ]
+ }
+}

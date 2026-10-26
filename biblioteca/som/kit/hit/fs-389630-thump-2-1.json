@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-389630-thump-2-1.wav",
+ "verdict": "ok",
+ "build_db": -21.4,
+ "start_db": -4.7,
+ "end_db": -28.2,
+ "spikiness": 1.8,
+ "dur_s": 0.396,
+ "peak_offset_s": 0.0555,
+ "rise_ms": 51.4,
+ "centroid_hz": 2268,
+ "below150": 0.032,
+ "above6k": 0.115,
+ "flatness": 0.179,
+ "note": 63.3,
+ "start_floor_db": -23.1,
+ "source": {
+  "id": "389630",
+  "type": "hit",
+  "title": "Thump 2",
+  "creator": "_stubb",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/389/389630_6068748-hq.mp3",
+  "landing": "https://freesound.org/people/_stubb/sounds/389630",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "heavy",
+   "impact"
+  ]
+ }
+}

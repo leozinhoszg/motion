@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-51113-sounds-for-earthquakes-rando-2.wav",
+ "verdict": "ok",
+ "build_db": -13.8,
+ "start_db": -0.0,
+ "end_db": -27.2,
+ "spikiness": 1.48,
+ "dur_s": 0.271,
+ "peak_offset_s": 0.0187,
+ "rise_ms": 10.7,
+ "centroid_hz": 1290,
+ "below150": 0.004,
+ "above6k": 0.037,
+ "flatness": 0.044,
+ "note": null,
+ "start_floor_db": -39.5,
+ "source": {
+  "id": "51113",
+  "type": "glitch",
+  "title": "Sounds For Earthquakes - Random Stuff Shaking.wav",
+  "creator": "RutgerMuller",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/51/51113_179538-hq.mp3",
+  "landing": "https://freesound.org/people/RutgerMuller/sounds/51113",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

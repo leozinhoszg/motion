@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-back-002.wav",
+ "verdict": "ok",
+ "build_db": -10.9,
+ "start_db": -0.7,
+ "end_db": -43.9,
+ "spikiness": 2.22,
+ "dur_s": 0.073,
+ "peak_offset_s": 0.0094,
+ "rise_ms": 7.7,
+ "centroid_hz": 805,
+ "below150": 0.0,
+ "above6k": 0.001,
+ "flatness": 0.002,
+ "note": 64.0,
+ "start_floor_db": -8.3,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/back_002.ogg"
+ }
+}

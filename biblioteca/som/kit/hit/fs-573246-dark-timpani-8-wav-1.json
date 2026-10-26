@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-573246-dark-timpani-8-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -22.0,
+ "start_db": -0.0,
+ "end_db": -33.7,
+ "spikiness": 1.8,
+ "dur_s": 0.966,
+ "peak_offset_s": 0.0316,
+ "rise_ms": 30.3,
+ "centroid_hz": 328,
+ "below150": 0.366,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 46.8,
+ "start_floor_db": -14.1,
+ "source": {
+  "id": "573246",
+  "type": "hit",
+  "title": "Dark Timpani 8.wav",
+  "creator": "Sorinious_Genious",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/573/573246_12517458-hq.mp3",
+  "landing": "https://freesound.org/people/Sorinious_Genious/sounds/573246",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

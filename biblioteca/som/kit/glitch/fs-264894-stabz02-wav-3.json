@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-264894-stabz02-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -2.8,
+ "start_db": -0.9,
+ "end_db": -17.2,
+ "spikiness": 1.56,
+ "dur_s": 0.218,
+ "peak_offset_s": 0.0337,
+ "rise_ms": 27.6,
+ "centroid_hz": 929,
+ "below150": 0.026,
+ "above6k": 0.001,
+ "flatness": 0.004,
+ "note": 53.9,
+ "start_floor_db": -240.0,
+ "source": {
+  "id": "264894",
+  "type": "glitch",
+  "title": "stabz02.wav",
+  "creator": "_jack",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/264/264894_92082-hq.mp3",
+  "landing": "https://freesound.org/people/_jack/sounds/264894",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch",
+   "hit"
+  ]
+ }
+}

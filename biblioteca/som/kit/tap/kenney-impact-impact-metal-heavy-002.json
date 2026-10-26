@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-metal-heavy-002.wav",
+ "verdict": "ok",
+ "build_db": -48.5,
+ "start_db": -0.0,
+ "end_db": -65.2,
+ "spikiness": 2.21,
+ "dur_s": 0.114,
+ "peak_offset_s": 0.0057,
+ "rise_ms": 4.4,
+ "centroid_hz": 1568,
+ "below150": 0.061,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 85.8,
+ "start_floor_db": -2.0,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactMetal_heavy_002.ogg"
+ }
+}

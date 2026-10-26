@@ -1,0 +1,37 @@
+{
+ "type": "tick",
+ "file": "kit\\tick\\fs-416619-clock-ticking-fast-2.wav",
+ "verdict": "ok",
+ "build_db": -22.0,
+ "start_db": -4.2,
+ "end_db": -29.6,
+ "spikiness": 2.02,
+ "dur_s": 0.15,
+ "peak_offset_s": 0.0213,
+ "rise_ms": 15.8,
+ "centroid_hz": 2191,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -33.6,
+ "source": {
+  "id": "416619",
+  "type": "tick",
+  "title": "clock ticking fast",
+  "creator": "davidqr",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/416/416619_7170896-hq.mp3",
+  "landing": "https://freesound.org/people/davidqr/sounds/416619",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "clock",
+   "tick"
+  ]
+ }
+}

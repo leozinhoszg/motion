@@ -1,0 +1,34 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-395418-multiple-swish-1.wav",
+ "verdict": "ok",
+ "build_db": -14.6,
+ "start_db": -17.1,
+ "end_db": -20.7,
+ "spikiness": 1.33,
+ "dur_s": 0.103,
+ "peak_offset_s": 0.0418,
+ "rise_ms": 32.2,
+ "centroid_hz": 1558,
+ "below150": 0.0,
+ "above6k": 0.012,
+ "flatness": 0.04,
+ "note": null,
+ "start_floor_db": -25.9,
+ "source": {
+  "id": "395418",
+  "type": "swish",
+  "title": "Multiple Swish",
+  "creator": "deleted_user_6479820",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/395/395418_6479820-hq.mp3",
+  "landing": "https://freesound.org/people/deleted_user_6479820/sounds/395418",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "swish"
+  ]
+ }
+}

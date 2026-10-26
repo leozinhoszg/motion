@@ -1,0 +1,16 @@
+node_modules/
+motion.rar
+*.rar
+
+# Exemplos: só o primeiro vídeo vai para o repo (os demais têm link no catálogo)
+biblioteca/06-exemplos/videos/*
+!biblioteca/06-exemplos/videos/01_claudeai.mp4
+
+# Downloads brutos do kit de som (o kit processado já está em som/kit/<tipo>)
+biblioteca/som/kit/_raw/
+
+# Saídas de render em projetos
+projetos/**/out/
+projetos/**/frames/
+.DS_Store
+Thumbs.db

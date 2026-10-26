@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-ui-audio-switch10.wav",
+ "verdict": "ok",
+ "build_db": -27.3,
+ "start_db": -0.0,
+ "end_db": -39.9,
+ "spikiness": 3.33,
+ "dur_s": 0.12,
+ "peak_offset_s": 0.0086,
+ "rise_ms": 2.7,
+ "centroid_hz": 1490,
+ "below150": 0.0,
+ "above6k": 0.027,
+ "flatness": 0.048,
+ "note": 92.4,
+ "start_floor_db": -33.7,
+ "source": {
+  "pack": "ui-audio",
+  "file": "Audio/switch10.ogg"
+ }
+}

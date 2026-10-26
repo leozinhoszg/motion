@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-51105-sounds-for-earthquakes-kitch-3.wav",
+ "verdict": "ok",
+ "build_db": -1.3,
+ "start_db": -0.0,
+ "end_db": -0.2,
+ "spikiness": 1.07,
+ "dur_s": 1.5,
+ "peak_offset_s": 0.078,
+ "rise_ms": 21.3,
+ "centroid_hz": 3403,
+ "below150": 0.0,
+ "above6k": 0.15,
+ "flatness": 0.147,
+ "note": null,
+ "start_floor_db": -7.4,
+ "source": {
+  "id": "51105",
+  "type": "glitch",
+  "title": "Sounds For Earthquakes - Kitchen Utilery 2 Metal.wav",
+  "creator": "RutgerMuller",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/51/51105_179538-hq.mp3",
+  "landing": "https://freesound.org/people/RutgerMuller/sounds/51105",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

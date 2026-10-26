@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-casino-dice-grab-2.wav",
+ "verdict": "ok",
+ "build_db": -16.7,
+ "start_db": -0.1,
+ "end_db": -25.4,
+ "spikiness": 3.53,
+ "dur_s": 0.074,
+ "peak_offset_s": 0.0075,
+ "rise_ms": 2.1,
+ "centroid_hz": 5357,
+ "below150": 0.0,
+ "above6k": 0.434,
+ "flatness": 0.085,
+ "note": null,
+ "start_floor_db": -26.2,
+ "source": {
+  "pack": "casino",
+  "file": "Audio/dice-grab-2.ogg"
+ }
+}

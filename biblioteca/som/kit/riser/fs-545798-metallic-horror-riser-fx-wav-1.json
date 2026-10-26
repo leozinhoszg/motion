@@ -1,0 +1,34 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-545798-metallic-horror-riser-fx-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 13.9,
+ "start_db": -26.4,
+ "end_db": -0.0,
+ "spikiness": 1.38,
+ "dur_s": 1.386,
+ "peak_offset_s": 1.3496,
+ "rise_ms": 894.8,
+ "centroid_hz": 1000,
+ "below150": 0.0,
+ "above6k": 0.002,
+ "flatness": 0.005,
+ "note": 60.4,
+ "start_floor_db": -35.7,
+ "source": {
+  "id": "545798",
+  "type": "riser",
+  "title": "Metallic Horror Riser FX.wav",
+  "creator": "eldiariosonoro_",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/545/545798_11961848-hq.mp3",
+  "landing": "https://freesound.org/people/eldiariosonoro_/sounds/545798",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "riser"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-560156-soft-cinematic-impact-2.wav",
+ "verdict": "ok",
+ "build_db": -17.4,
+ "start_db": -0.0,
+ "end_db": -24.1,
+ "spikiness": 1.64,
+ "dur_s": 2.643,
+ "peak_offset_s": 0.0707,
+ "rise_ms": 30.5,
+ "centroid_hz": 94,
+ "below150": 0.957,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": null,
+ "start_floor_db": -16.5,
+ "source": {
+  "id": "560156",
+  "type": "hit",
+  "title": "Soft Cinematic Impact",
+  "creator": "Rizzard",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/560/560156_10825267-hq.mp3",
+  "landing": "https://freesound.org/people/Rizzard/sounds/560156",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

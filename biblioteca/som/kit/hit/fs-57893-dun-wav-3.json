@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-57893-dun-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -9.5,
+ "start_db": -0.0,
+ "end_db": -27.1,
+ "spikiness": 1.74,
+ "dur_s": 2.458,
+ "peak_offset_s": 0.1763,
+ "rise_ms": 21.3,
+ "centroid_hz": 335,
+ "below150": 0.351,
+ "above6k": 0.002,
+ "flatness": 0.008,
+ "note": 51.2,
+ "start_floor_db": -16.7,
+ "source": {
+  "id": "57893",
+  "type": "hit",
+  "title": "dun.wav",
+  "creator": "guitarguy1985",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/57/57893_533680-hq.mp3",
+  "landing": "https://freesound.org/people/guitarguy1985/sounds/57893",
+  "k": 3,
+  "keep": [
+   0,
+   2
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

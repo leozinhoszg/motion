@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-select-005.wav",
+ "verdict": "ok",
+ "build_db": -8.3,
+ "start_db": -5.4,
+ "end_db": -20.7,
+ "spikiness": 1.59,
+ "dur_s": 0.051,
+ "peak_offset_s": 0.0203,
+ "rise_ms": 8.0,
+ "centroid_hz": 1099,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 86.1,
+ "start_floor_db": -54.0,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/select_005.ogg"
+ }
+}

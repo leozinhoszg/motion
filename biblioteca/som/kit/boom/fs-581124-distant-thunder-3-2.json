@@ -1,0 +1,36 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-581124-distant-thunder-3-2.wav",
+ "verdict": "ok",
+ "build_db": -7.7,
+ "start_db": -0.0,
+ "end_db": -22.1,
+ "spikiness": 2.2,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0517,
+ "rise_ms": 48.4,
+ "centroid_hz": 193,
+ "below150": 0.327,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 46.8,
+ "start_floor_db": -20.0,
+ "source": {
+  "id": "581124",
+  "type": "boom",
+  "title": "Distant Thunder 3",
+  "creator": "Fission9",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/581/581124_9395330-hq.mp3",
+  "landing": "https://freesound.org/people/Fission9/sounds/581124",
+  "k": 3,
+  "keep": [
+   1,
+   2
+  ],
+  "tags": [
+   "low",
+   "boom"
+  ]
+ }
+}

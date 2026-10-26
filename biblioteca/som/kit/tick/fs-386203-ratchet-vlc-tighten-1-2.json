@@ -1,0 +1,34 @@
+{
+ "type": "tick",
+ "file": "kit\\tick\\fs-386203-ratchet-vlc-tighten-1-2.wav",
+ "verdict": "ok",
+ "build_db": -24.8,
+ "start_db": -0.3,
+ "end_db": -32.3,
+ "spikiness": 3.11,
+ "dur_s": 0.044,
+ "peak_offset_s": 0.007,
+ "rise_ms": 1.7,
+ "centroid_hz": 4938,
+ "below150": 0.0,
+ "above6k": 0.196,
+ "flatness": 0.166,
+ "note": 110.7,
+ "start_floor_db": -26.3,
+ "source": {
+  "id": "386203",
+  "type": "tick",
+  "title": "Ratchet - Vlc - Tighten 1",
+  "creator": "ldezem",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/386/386203_1655965-hq.mp3",
+  "landing": "https://freesound.org/people/ldezem/sounds/386203",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "ratchet"
+  ]
+ }
+}

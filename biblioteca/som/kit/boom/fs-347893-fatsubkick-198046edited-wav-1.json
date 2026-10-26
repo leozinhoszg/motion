@@ -1,0 +1,36 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-347893-fatsubkick-198046edited-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -17.9,
+ "start_db": -0.0,
+ "end_db": -30.4,
+ "spikiness": 1.6,
+ "dur_s": 1.709,
+ "peak_offset_s": 0.0219,
+ "rise_ms": 10.0,
+ "centroid_hz": 50,
+ "below150": 0.997,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": null,
+ "start_floor_db": -12.6,
+ "source": {
+  "id": "347893",
+  "type": "boom",
+  "title": "FATSUBKICK_198046EDITED.wav",
+  "creator": "newagesoup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/347/347893_4067257-hq.mp3",
+  "landing": "https://freesound.org/people/newagesoup/sounds/347893",
+  "k": 3,
+  "keep": [
+   0,
+   2
+  ],
+  "tags": [
+   "sub",
+   "drop"
+  ]
+ }
+}

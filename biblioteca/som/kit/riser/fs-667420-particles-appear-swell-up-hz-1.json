@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-667420-particles-appear-swell-up-hz-1.wav",
+ "verdict": "ok",
+ "build_db": 7.7,
+ "start_db": -13.4,
+ "end_db": -1.4,
+ "spikiness": 1.65,
+ "dur_s": 3.574,
+ "peak_offset_s": 2.8872,
+ "rise_ms": 2309.0,
+ "centroid_hz": 500,
+ "below150": 0.035,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 64.5,
+ "start_floor_db": -41.7,
+ "source": {
+  "id": "667420",
+  "type": "riser",
+  "title": "Particles appear swell up HZA 02-05-2022.wav",
+  "creator": "hz37",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/667/667420_123355-hq.mp3",
+  "landing": "https://freesound.org/people/hz37/sounds/667420",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "rising",
+   "swell"
+  ]
+ }
+}

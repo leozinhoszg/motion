@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-405251-punches-and-hits-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -25.7,
+ "start_db": -0.0,
+ "end_db": -30.5,
+ "spikiness": 2.01,
+ "dur_s": 0.399,
+ "peak_offset_s": 0.0136,
+ "rise_ms": 8.9,
+ "centroid_hz": 587,
+ "below150": 0.696,
+ "above6k": 0.03,
+ "flatness": 0.099,
+ "note": null,
+ "start_floor_db": -24.2,
+ "source": {
+  "id": "405251",
+  "type": "hit",
+  "title": "Punches and hits.wav",
+  "creator": "Oberon81",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/405/405251_428749-hq.mp3",
+  "landing": "https://freesound.org/people/Oberon81/sounds/405251",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "punch",
+   "impact"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-578574-timpani-crescendo-3.wav",
+ "verdict": "ok",
+ "build_db": -25.0,
+ "start_db": -0.0,
+ "end_db": -29.5,
+ "spikiness": 1.53,
+ "dur_s": 0.633,
+ "peak_offset_s": 0.0361,
+ "rise_ms": 28.1,
+ "centroid_hz": 316,
+ "below150": 0.109,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 57.3,
+ "start_floor_db": -22.7,
+ "source": {
+  "id": "578574",
+  "type": "hit",
+  "title": "Timpani Crescendo",
+  "creator": "nomiqbomi",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/578/578574_10522382-hq.mp3",
+  "landing": "https://freesound.org/people/nomiqbomi/sounds/578574",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

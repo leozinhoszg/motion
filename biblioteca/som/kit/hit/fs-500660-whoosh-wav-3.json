@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-500660-whoosh-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -23.6,
+ "start_db": -0.0,
+ "end_db": -31.8,
+ "spikiness": 1.56,
+ "dur_s": 3.502,
+ "peak_offset_s": 0.0236,
+ "rise_ms": 19.5,
+ "centroid_hz": 187,
+ "below150": 0.868,
+ "above6k": 0.0,
+ "flatness": 0.007,
+ "note": null,
+ "start_floor_db": -17.9,
+ "source": {
+  "id": "500660",
+  "type": "hit",
+  "title": "Whoosh.wav",
+  "creator": "Reg1n0ld",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/500/500660_10846245-hq.mp3",
+  "landing": "https://freesound.org/people/Reg1n0ld/sounds/500660",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-rpg-belt-handle2.wav",
+ "verdict": "ok",
+ "build_db": -21.5,
+ "start_db": -0.0,
+ "end_db": -34.3,
+ "spikiness": 2.65,
+ "dur_s": 0.109,
+ "peak_offset_s": 0.0076,
+ "rise_ms": 1.5,
+ "centroid_hz": 6734,
+ "below150": 0.0,
+ "above6k": 0.465,
+ "flatness": 0.04,
+ "note": 121.1,
+ "start_floor_db": -44.2,
+ "source": {
+  "pack": "rpg",
+  "file": "Audio/beltHandle2.ogg"
+ }
+}

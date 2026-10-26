@@ -1,0 +1,35 @@
+{
+ "type": "key",
+ "file": "kit\\key\\fs-194799-keyboard5-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -22.7,
+ "start_db": -0.1,
+ "end_db": -27.9,
+ "spikiness": 3.66,
+ "dur_s": 0.062,
+ "peak_offset_s": 0.0101,
+ "rise_ms": 3.5,
+ "centroid_hz": 1982,
+ "below150": 0.004,
+ "above6k": 0.017,
+ "flatness": 0.086,
+ "note": null,
+ "start_floor_db": -28.5,
+ "source": {
+  "id": "194799",
+  "type": "key",
+  "title": "keyboard5.wav",
+  "creator": "jim-ph",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/194/194799_670763-hq.mp3",
+  "landing": "https://freesound.org/people/jim-ph/sounds/194799",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "keyboard",
+   "key"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-277715-running-across-hard-floor-or-3.wav",
+ "verdict": "ok",
+ "build_db": -9.4,
+ "start_db": -16.2,
+ "end_db": -16.5,
+ "spikiness": 1.8,
+ "dur_s": 0.175,
+ "peak_offset_s": 0.0403,
+ "rise_ms": 35.8,
+ "centroid_hz": 871,
+ "below150": 0.016,
+ "above6k": 0.014,
+ "flatness": 0.051,
+ "note": null,
+ "start_floor_db": -26.3,
+ "source": {
+  "id": "277715",
+  "type": "swish",
+  "title": "Running across hard floor or corridor",
+  "creator": "wibwob",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/277/277715_624395-hq.mp3",
+  "landing": "https://freesound.org/people/wibwob/sounds/277715",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "cloth",
+   "swish"
+  ]
+ }
+}

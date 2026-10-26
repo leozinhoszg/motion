@@ -1,0 +1,34 @@
+{
+ "type": "pop",
+ "file": "kit\\pop\\fs-319107-pop-made-by-duffy-bro-1.wav",
+ "verdict": "ok",
+ "build_db": -27.4,
+ "start_db": -0.0,
+ "end_db": -38.6,
+ "spikiness": 2.27,
+ "dur_s": 0.139,
+ "peak_offset_s": 0.0088,
+ "rise_ms": 2.5,
+ "centroid_hz": 649,
+ "below150": 0.001,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 76.8,
+ "start_floor_db": -57.6,
+ "source": {
+  "id": "319107",
+  "type": "pop",
+  "title": "Pop (made by DuffyBro)",
+  "creator": "DuffyBro",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/319/319107_5422458-hq.mp3",
+  "landing": "https://freesound.org/people/DuffyBro/sounds/319107",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "pop"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-578373-shock-stab-03-2.wav",
+ "verdict": "ok",
+ "build_db": -21.2,
+ "start_db": -0.0,
+ "end_db": -33.1,
+ "spikiness": 1.42,
+ "dur_s": 3.389,
+ "peak_offset_s": 0.055,
+ "rise_ms": 53.8,
+ "centroid_hz": 274,
+ "below150": 0.604,
+ "above6k": 0.0,
+ "flatness": 0.014,
+ "note": 42.0,
+ "start_floor_db": -9.0,
+ "source": {
+  "id": "578373",
+  "type": "hit",
+  "title": "Shock Stab 03",
+  "creator": "nomiqbomi",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/578/578373_10522382-hq.mp3",
+  "landing": "https://freesound.org/people/nomiqbomi/sounds/578373",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-power-up5.wav",
+ "verdict": "ok",
+ "build_db": -5.6,
+ "start_db": -6.2,
+ "end_db": -22.1,
+ "spikiness": 1.21,
+ "dur_s": 0.143,
+ "peak_offset_s": 0.055,
+ "rise_ms": 45.6,
+ "centroid_hz": 3493,
+ "below150": 0.0,
+ "above6k": 0.239,
+ "flatness": 0.002,
+ "note": 90.0,
+ "start_floor_db": -10.9,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/powerUp5.ogg"
+ }
+}

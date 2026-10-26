@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-ui-audio-switch30.wav",
+ "verdict": "ok",
+ "build_db": -30.6,
+ "start_db": -0.0,
+ "end_db": -42.2,
+ "spikiness": 2.89,
+ "dur_s": 0.1,
+ "peak_offset_s": 0.009,
+ "rise_ms": 2.5,
+ "centroid_hz": 1958,
+ "below150": 0.0,
+ "above6k": 0.053,
+ "flatness": 0.086,
+ "note": 77.0,
+ "start_floor_db": -52.0,
+ "source": {
+  "pack": "ui-audio",
+  "file": "Audio/switch30.ogg"
+ }
+}

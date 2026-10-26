@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-51118-sounds-for-earthquakes-stuff-3.wav",
+ "verdict": "ok",
+ "build_db": -0.8,
+ "start_db": -0.0,
+ "end_db": -6.2,
+ "spikiness": 1.77,
+ "dur_s": 1.5,
+ "peak_offset_s": 0.017,
+ "rise_ms": 13.9,
+ "centroid_hz": 840,
+ "below150": 0.064,
+ "above6k": 0.018,
+ "flatness": 0.027,
+ "note": null,
+ "start_floor_db": -19.6,
+ "source": {
+  "id": "51118",
+  "type": "glitch",
+  "title": "Sounds For Earthquakes - Stuff in Closet.wav",
+  "creator": "RutgerMuller",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/51/51118_179538-hq.mp3",
+  "landing": "https://freesound.org/people/RutgerMuller/sounds/51118",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

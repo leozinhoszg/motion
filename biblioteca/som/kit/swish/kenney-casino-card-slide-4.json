@@ -1,0 +1,22 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\kenney-casino-card-slide-4.wav",
+ "verdict": "ok",
+ "build_db": 9.6,
+ "start_db": -19.7,
+ "end_db": -17.2,
+ "spikiness": 2.2,
+ "dur_s": 0.117,
+ "peak_offset_s": 0.0755,
+ "rise_ms": 8.0,
+ "centroid_hz": 5017,
+ "below150": 0.008,
+ "above6k": 0.374,
+ "flatness": 0.424,
+ "note": null,
+ "start_floor_db": -27.6,
+ "source": {
+  "pack": "casino",
+  "file": "Audio/card-slide-4.ogg"
+ }
+}

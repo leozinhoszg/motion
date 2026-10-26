@@ -1,0 +1,35 @@
+{
+ "type": "paper",
+ "file": "kit\\paper\\fs-484920-page-slides-1-3.wav",
+ "verdict": "ok",
+ "build_db": -15.0,
+ "start_db": -14.6,
+ "end_db": -20.5,
+ "spikiness": 2.25,
+ "dur_s": 0.078,
+ "peak_offset_s": 0.0234,
+ "rise_ms": 14.4,
+ "centroid_hz": 3369,
+ "below150": 0.0,
+ "above6k": 0.056,
+ "flatness": 0.143,
+ "note": null,
+ "start_floor_db": -52.1,
+ "source": {
+  "id": "484920",
+  "type": "paper",
+  "title": "Page Slides - 1",
+  "creator": "SpaceJoe",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/484/484920_6150892-hq.mp3",
+  "landing": "https://freesound.org/people/SpaceJoe/sounds/484920",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "paper",
+   "slide"
+  ]
+ }
+}

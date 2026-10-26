@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-430978-low-impact-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -22.1,
+ "start_db": -0.0,
+ "end_db": -32.0,
+ "spikiness": 2.07,
+ "dur_s": 3.495,
+ "peak_offset_s": 0.0406,
+ "rise_ms": 37.8,
+ "centroid_hz": 142,
+ "below150": 0.661,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 47.4,
+ "start_floor_db": -17.1,
+ "source": {
+  "id": "430978",
+  "type": "hit",
+  "title": "Low impact.wav",
+  "creator": "AudioPapkin",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/430/430978_8698658-hq.mp3",
+  "landing": "https://freesound.org/people/AudioPapkin/sounds/430978",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

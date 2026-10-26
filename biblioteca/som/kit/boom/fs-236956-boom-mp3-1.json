@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-236956-boom-mp3-1.wav",
+ "verdict": "ok",
+ "build_db": -15.9,
+ "start_db": -0.0,
+ "end_db": -21.6,
+ "spikiness": 1.49,
+ "dur_s": 2.159,
+ "peak_offset_s": 0.0223,
+ "rise_ms": 15.9,
+ "centroid_hz": 46,
+ "below150": 1.0,
+ "above6k": 0.0,
+ "flatness": 0.191,
+ "note": null,
+ "start_floor_db": -84.1,
+ "source": {
+  "id": "236956",
+  "type": "boom",
+  "title": "Boom.mp3",
+  "creator": "Barcker",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/236/236956_3937283-hq.mp3",
+  "landing": "https://freesound.org/people/Barcker/sounds/236956",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "low",
+   "boom"
+  ]
+ }
+}

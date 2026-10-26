@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-441593-deep-impact-1.wav",
+ "verdict": "ok",
+ "build_db": -13.5,
+ "start_db": -0.0,
+ "end_db": -20.8,
+ "spikiness": 1.54,
+ "dur_s": 1.65,
+ "peak_offset_s": 0.0663,
+ "rise_ms": 34.4,
+ "centroid_hz": 44,
+ "below150": 0.996,
+ "above6k": 0.0,
+ "flatness": 0.005,
+ "note": 40.9,
+ "start_floor_db": -26.8,
+ "source": {
+  "id": "441593",
+  "type": "hit",
+  "title": "Deep Impact",
+  "creator": "Poligonstudio",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/441/441593_7383104-hq.mp3",
+  "landing": "https://freesound.org/people/Poligonstudio/sounds/441593",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "trailer",
+   "hit"
+  ]
+ }
+}

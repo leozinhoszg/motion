@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-plate-heavy-001.wav",
+ "verdict": "ok",
+ "build_db": -37.3,
+ "start_db": -0.0,
+ "end_db": -56.5,
+ "spikiness": 2.11,
+ "dur_s": 0.349,
+ "peak_offset_s": 0.0077,
+ "rise_ms": 6.2,
+ "centroid_hz": 284,
+ "below150": 0.384,
+ "above6k": 0.0,
+ "flatness": 0.005,
+ "note": 58.9,
+ "start_floor_db": -4.9,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactPlate_heavy_001.ogg"
+ }
+}

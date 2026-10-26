@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-647712-braam-3.wav",
+ "verdict": "ok",
+ "build_db": -24.1,
+ "start_db": -0.0,
+ "end_db": -30.6,
+ "spikiness": 1.68,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.1738,
+ "rise_ms": 26.4,
+ "centroid_hz": 225,
+ "below150": 0.688,
+ "above6k": 0.0,
+ "flatness": 0.006,
+ "note": 65.9,
+ "start_floor_db": -18.1,
+ "source": {
+  "id": "647712",
+  "type": "hit",
+  "title": "Braam",
+  "creator": "unfa",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/647/647712_1038806-hq.mp3",
+  "landing": "https://freesound.org/people/unfa/sounds/647712",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "trailer",
+   "hit"
+  ]
+ }
+}

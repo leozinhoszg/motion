@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-ui-audio-switch19.wav",
+ "verdict": "ok",
+ "build_db": -30.6,
+ "start_db": -0.1,
+ "end_db": -39.4,
+ "spikiness": 2.49,
+ "dur_s": 0.093,
+ "peak_offset_s": 0.0108,
+ "rise_ms": 4.1,
+ "centroid_hz": 2677,
+ "below150": 0.0,
+ "above6k": 0.131,
+ "flatness": 0.141,
+ "note": 72.4,
+ "start_floor_db": -53.5,
+ "source": {
+  "pack": "ui-audio",
+  "file": "Audio/switch19.ogg"
+ }
+}

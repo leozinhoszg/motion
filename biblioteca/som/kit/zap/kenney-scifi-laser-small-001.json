@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-scifi-laser-small-001.wav",
+ "verdict": "ok",
+ "build_db": -19.2,
+ "start_db": -0.0,
+ "end_db": -32.4,
+ "spikiness": 1.26,
+ "dur_s": 0.244,
+ "peak_offset_s": 0.011,
+ "rise_ms": 4.7,
+ "centroid_hz": 2234,
+ "below150": 0.015,
+ "above6k": 0.061,
+ "flatness": 0.078,
+ "note": null,
+ "start_floor_db": -3.7,
+ "source": {
+  "pack": "scifi",
+  "file": "Audio/laserSmall_001.ogg"
+ }
+}

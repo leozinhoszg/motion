@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-punch-medium-001.wav",
+ "verdict": "ok",
+ "build_db": -27.9,
+ "start_db": -1.5,
+ "end_db": -33.6,
+ "spikiness": 1.65,
+ "dur_s": 0.212,
+ "peak_offset_s": 0.0216,
+ "rise_ms": 3.9,
+ "centroid_hz": 284,
+ "below150": 0.073,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -42.5,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactPunch_medium_001.ogg"
+ }
+}

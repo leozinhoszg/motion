@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-578575-dark-crescendo-2-3.wav",
+ "verdict": "ok",
+ "build_db": -27.3,
+ "start_db": -0.0,
+ "end_db": -35.2,
+ "spikiness": 1.55,
+ "dur_s": 0.723,
+ "peak_offset_s": 0.055,
+ "rise_ms": 8.7,
+ "centroid_hz": 631,
+ "below150": 0.003,
+ "above6k": 0.002,
+ "flatness": 0.005,
+ "note": 66.0,
+ "start_floor_db": -12.4,
+ "source": {
+  "id": "578575",
+  "type": "hit",
+  "title": "Dark Crescendo 2",
+  "creator": "nomiqbomi",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/578/578575_10522382-hq.mp3",
+  "landing": "https://freesound.org/people/nomiqbomi/sounds/578575",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

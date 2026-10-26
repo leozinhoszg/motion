@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-362510-crackle-glitch-2.wav",
+ "verdict": "ok",
+ "build_db": -5.7,
+ "start_db": -1.9,
+ "end_db": -15.2,
+ "spikiness": 1.57,
+ "dur_s": 0.193,
+ "peak_offset_s": 0.036,
+ "rise_ms": 30.7,
+ "centroid_hz": 1762,
+ "below150": 0.346,
+ "above6k": 0.087,
+ "flatness": 0.022,
+ "note": null,
+ "start_floor_db": -31.9,
+ "source": {
+  "id": "362510",
+  "type": "glitch",
+  "title": "crackle_glitch",
+  "creator": "dotY21",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/362/362510_5048136-hq.mp3",
+  "landing": "https://freesound.org/people/dotY21/sounds/362510",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "digital",
+   "glitch"
+  ]
+ }
+}

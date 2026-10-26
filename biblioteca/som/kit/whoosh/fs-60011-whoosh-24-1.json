@@ -1,0 +1,36 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-60011-whoosh-24-1.wav",
+ "verdict": "ok",
+ "build_db": -10.8,
+ "start_db": -15.5,
+ "end_db": -16.9,
+ "spikiness": 1.89,
+ "dur_s": 0.149,
+ "peak_offset_s": 0.0531,
+ "rise_ms": 42.2,
+ "centroid_hz": 331,
+ "below150": 0.002,
+ "above6k": 0.001,
+ "flatness": 0.003,
+ "note": 62.9,
+ "start_floor_db": -43.1,
+ "source": {
+  "id": "60011",
+  "type": "whoosh",
+  "title": "whoosh 24",
+  "creator": "qubodup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/60/60011_71257-hq.mp3",
+  "landing": "https://freesound.org/people/qubodup/sounds/60011",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "whoosh"
+  ]
+ }
+}

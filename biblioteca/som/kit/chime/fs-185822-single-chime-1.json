@@ -1,0 +1,34 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-185822-single-chime-1.wav",
+ "verdict": "ok",
+ "build_db": -14.3,
+ "start_db": -0.0,
+ "end_db": -20.5,
+ "spikiness": 1.23,
+ "dur_s": 2.5,
+ "peak_offset_s": 0.055,
+ "rise_ms": 50.1,
+ "centroid_hz": 2883,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.006,
+ "note": 99.0,
+ "start_floor_db": -7.1,
+ "source": {
+  "id": "185822",
+  "type": "chime",
+  "title": "Single chime",
+  "creator": "LloydEvans09",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/185/185822_2567799-hq.mp3",
+  "landing": "https://freesound.org/people/LloydEvans09/sounds/185822",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "chime"
+  ]
+ }
+}

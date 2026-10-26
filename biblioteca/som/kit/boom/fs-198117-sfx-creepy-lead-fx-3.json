@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-198117-sfx-creepy-lead-fx-3.wav",
+ "verdict": "ok",
+ "build_db": -22.3,
+ "start_db": -0.0,
+ "end_db": -30.8,
+ "spikiness": 1.46,
+ "dur_s": 3.834,
+ "peak_offset_s": 0.055,
+ "rise_ms": 52.7,
+ "centroid_hz": 455,
+ "below150": 0.001,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 59.3,
+ "start_floor_db": -13.9,
+ "source": {
+  "id": "198117",
+  "type": "boom",
+  "title": "[SFX] creepy lead fx",
+  "creator": "waveplaySFX",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/198/198117_1676145-hq.mp3",
+  "landing": "https://freesound.org/people/waveplaySFX/sounds/198117",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "sub",
+   "drop"
+  ]
+ }
+}

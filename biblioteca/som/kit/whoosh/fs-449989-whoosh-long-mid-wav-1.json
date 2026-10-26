@@ -1,0 +1,35 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-449989-whoosh-long-mid-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -9.5,
+ "start_db": -16.3,
+ "end_db": -18.2,
+ "spikiness": 1.87,
+ "dur_s": 1.2,
+ "peak_offset_s": 0.4613,
+ "rise_ms": 427.1,
+ "centroid_hz": 588,
+ "below150": 0.216,
+ "above6k": 0.008,
+ "flatness": 0.025,
+ "note": null,
+ "start_floor_db": -28.1,
+ "source": {
+  "id": "449989",
+  "type": "whoosh",
+  "title": "whoosh_long_mid.wav",
+  "creator": "DJT4NN3R",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/449/449989_3217484-hq.mp3",
+  "landing": "https://freesound.org/people/DJT4NN3R/sounds/449989",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "fast",
+   "whoosh"
+  ]
+ }
+}

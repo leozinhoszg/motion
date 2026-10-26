@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-559999-big-cinematic-impact-2.wav",
+ "verdict": "ok",
+ "build_db": -17.7,
+ "start_db": -0.0,
+ "end_db": -23.2,
+ "spikiness": 1.6,
+ "dur_s": 3.219,
+ "peak_offset_s": 0.0266,
+ "rise_ms": 15.1,
+ "centroid_hz": 106,
+ "below150": 0.906,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 42.2,
+ "start_floor_db": -20.5,
+ "source": {
+  "id": "559999",
+  "type": "hit",
+  "title": "Big Cinematic Impact",
+  "creator": "Rizzard",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/559/559999_10825267-hq.mp3",
+  "landing": "https://freesound.org/people/Rizzard/sounds/559999",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

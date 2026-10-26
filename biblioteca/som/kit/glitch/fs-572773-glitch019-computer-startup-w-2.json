@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-572773-glitch019-computer-startup-w-2.wav",
+ "verdict": "ok",
+ "build_db": -2.6,
+ "start_db": -0.0,
+ "end_db": -4.2,
+ "spikiness": 1.67,
+ "dur_s": 1.5,
+ "peak_offset_s": 0.2171,
+ "rise_ms": 55.0,
+ "centroid_hz": 331,
+ "below150": 0.273,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 41.3,
+ "start_floor_db": -10.8,
+ "source": {
+  "id": "572773",
+  "type": "glitch",
+  "title": "Glitch019 / Computer Startup.wav",
+  "creator": "Zeraora",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/572/572773_7347459-hq.mp3",
+  "landing": "https://freesound.org/people/Zeraora/sounds/572773",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "data",
+   "glitch"
+  ]
+ }
+}

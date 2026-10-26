@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-255102-jingle3-2.wav",
+ "verdict": "ok",
+ "build_db": -27.4,
+ "start_db": -0.0,
+ "end_db": -35.1,
+ "spikiness": 1.27,
+ "dur_s": 0.758,
+ "peak_offset_s": 0.0107,
+ "rise_ms": 5.3,
+ "centroid_hz": 367,
+ "below150": 0.0,
+ "above6k": 0.001,
+ "flatness": 0.006,
+ "note": 64.0,
+ "start_floor_db": -240.0,
+ "source": {
+  "id": "255102",
+  "type": "chime",
+  "title": "jingle3",
+  "creator": "soneproject",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/255/255102_2127539-hq.mp3",
+  "landing": "https://freesound.org/people/soneproject/sounds/255102",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "notification",
+   "chime"
+  ]
+ }
+}

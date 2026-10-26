@@ -1,0 +1,22 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\kenney-scifi-computer-noise-000.wav",
+ "verdict": "ok",
+ "build_db": 0.3,
+ "start_db": -0.7,
+ "end_db": -1.2,
+ "spikiness": 1.02,
+ "dur_s": 1.5,
+ "peak_offset_s": 0.9999,
+ "rise_ms": 5.2,
+ "centroid_hz": 1069,
+ "below150": 0.001,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -5.5,
+ "source": {
+  "pack": "scifi",
+  "file": "Audio/computerNoise_000.ogg"
+ }
+}

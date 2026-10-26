@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-space-trash2.wav",
+ "verdict": "ok",
+ "build_db": -25.2,
+ "start_db": -13.6,
+ "end_db": -37.9,
+ "spikiness": 1.66,
+ "dur_s": 0.142,
+ "peak_offset_s": 0.0373,
+ "rise_ms": 31.9,
+ "centroid_hz": 1336,
+ "below150": 0.0,
+ "above6k": 0.088,
+ "flatness": 0.058,
+ "note": 63.3,
+ "start_floor_db": -46.4,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/spaceTrash2.ogg"
+ }
+}

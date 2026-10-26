@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-560157-cinematic-alarm-hit-1.wav",
+ "verdict": "ok",
+ "build_db": -19.9,
+ "start_db": -0.0,
+ "end_db": -28.4,
+ "spikiness": 1.74,
+ "dur_s": 3.088,
+ "peak_offset_s": 0.0353,
+ "rise_ms": 33.2,
+ "centroid_hz": 177,
+ "below150": 0.786,
+ "above6k": 0.0,
+ "flatness": 0.005,
+ "note": null,
+ "start_floor_db": -18.2,
+ "source": {
+  "id": "560157",
+  "type": "hit",
+  "title": "Cinematic Alarm Hit",
+  "creator": "Rizzard",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/560/560157_10825267-hq.mp3",
+  "landing": "https://freesound.org/people/Rizzard/sounds/560157",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

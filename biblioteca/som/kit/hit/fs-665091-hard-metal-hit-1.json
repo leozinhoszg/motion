@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-665091-hard-metal-hit-1.wav",
+ "verdict": "ok",
+ "build_db": -20.2,
+ "start_db": -0.0,
+ "end_db": -26.7,
+ "spikiness": 1.56,
+ "dur_s": 2.499,
+ "peak_offset_s": 0.0367,
+ "rise_ms": 35.0,
+ "centroid_hz": 85,
+ "below150": 0.927,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": null,
+ "start_floor_db": -13.9,
+ "source": {
+  "id": "665091",
+  "type": "hit",
+  "title": "Hard metal hit",
+  "creator": "tgerginov",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/665/665091_4898018-hq.mp3",
+  "landing": "https://freesound.org/people/tgerginov/sounds/665091",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "metal",
+   "hit"
+  ]
+ }
+}

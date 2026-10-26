@@ -1,0 +1,35 @@
+{
+ "type": "pop",
+ "file": "kit\\pop\\fs-269583-bubble-1.wav",
+ "verdict": "ok",
+ "build_db": -30.5,
+ "start_db": -0.1,
+ "end_db": -40.6,
+ "spikiness": 2.78,
+ "dur_s": 0.094,
+ "peak_offset_s": 0.0078,
+ "rise_ms": 2.5,
+ "centroid_hz": 713,
+ "below150": 0.004,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 77.1,
+ "start_floor_db": -49.5,
+ "source": {
+  "id": "269583",
+  "type": "pop",
+  "title": "Bubble",
+  "creator": "deleted_user_3854053",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/269/269583_3854053-hq.mp3",
+  "landing": "https://freesound.org/people/deleted_user_3854053/sounds/269583",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "bubble",
+   "pop"
+  ]
+ }
+}

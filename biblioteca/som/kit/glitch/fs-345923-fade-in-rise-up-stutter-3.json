@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-345923-fade-in-rise-up-stutter-3.wav",
+ "verdict": "ok",
+ "build_db": -1.1,
+ "start_db": -1.7,
+ "end_db": -3.3,
+ "spikiness": 1.67,
+ "dur_s": 0.317,
+ "peak_offset_s": 0.055,
+ "rise_ms": 53.7,
+ "centroid_hz": 2157,
+ "below150": 0.0,
+ "above6k": 0.025,
+ "flatness": 0.019,
+ "note": 80.8,
+ "start_floor_db": -9.6,
+ "source": {
+  "id": "345923",
+  "type": "glitch",
+  "title": "Fade-in Rise up Stutter",
+  "creator": "gerainsan",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/345/345923_3577171-hq.mp3",
+  "landing": "https://freesound.org/people/gerainsan/sounds/345923",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

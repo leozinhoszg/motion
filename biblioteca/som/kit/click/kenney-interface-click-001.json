@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-interface-click-001.wav",
+ "verdict": "ok",
+ "build_db": -71.2,
+ "start_db": -0.0,
+ "end_db": -78.1,
+ "spikiness": 2.79,
+ "dur_s": 0.097,
+ "peak_offset_s": 0.0022,
+ "rise_ms": 2.1,
+ "centroid_hz": 1329,
+ "below150": 0.012,
+ "above6k": 0.031,
+ "flatness": 0.131,
+ "note": null,
+ "start_floor_db": -0.0,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/click_001.ogg"
+ }
+}

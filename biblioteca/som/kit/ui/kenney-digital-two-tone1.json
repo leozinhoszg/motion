@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-digital-two-tone1.wav",
+ "verdict": "ok",
+ "build_db": -5.4,
+ "start_db": -0.4,
+ "end_db": -25.9,
+ "spikiness": 1.18,
+ "dur_s": 0.138,
+ "peak_offset_s": 0.0204,
+ "rise_ms": 6.5,
+ "centroid_hz": 373,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 61.3,
+ "start_floor_db": -51.4,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/twoTone1.ogg"
+ }
+}

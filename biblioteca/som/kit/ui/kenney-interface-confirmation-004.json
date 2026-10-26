@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-confirmation-004.wav",
+ "verdict": "ok",
+ "build_db": -20.8,
+ "start_db": -0.9,
+ "end_db": -28.4,
+ "spikiness": 1.09,
+ "dur_s": 0.364,
+ "peak_offset_s": 0.055,
+ "rise_ms": 37.7,
+ "centroid_hz": 1888,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 92.0,
+ "start_floor_db": -8.1,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/confirmation_004.ogg"
+ }
+}

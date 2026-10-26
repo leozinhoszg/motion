@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-367960-zap-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -21.0,
+ "start_db": -0.4,
+ "end_db": -31.2,
+ "spikiness": 1.2,
+ "dur_s": 0.095,
+ "peak_offset_s": 0.0187,
+ "rise_ms": 5.4,
+ "centroid_hz": 1474,
+ "below150": 0.0,
+ "above6k": 0.03,
+ "flatness": 0.073,
+ "note": null,
+ "start_floor_db": -3.9,
+ "source": {
+  "id": "367960",
+  "type": "glitch",
+  "title": "Zap.wav",
+  "creator": "TRNGLE",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/367/367960_5966858-hq.mp3",
+  "landing": "https://freesound.org/people/TRNGLE/sounds/367960",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "digital",
+   "glitch"
+  ]
+ }
+}

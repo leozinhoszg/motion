@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-ui-audio-switch11.wav",
+ "verdict": "ok",
+ "build_db": -28.4,
+ "start_db": -0.0,
+ "end_db": -37.0,
+ "spikiness": 2.93,
+ "dur_s": 0.105,
+ "peak_offset_s": 0.0096,
+ "rise_ms": 4.1,
+ "centroid_hz": 1605,
+ "below150": 0.0,
+ "above6k": 0.036,
+ "flatness": 0.04,
+ "note": null,
+ "start_floor_db": -27.4,
+ "source": {
+  "pack": "ui-audio",
+  "file": "Audio/switch11.ogg"
+ }
+}

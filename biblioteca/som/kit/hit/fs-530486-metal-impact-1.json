@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-530486-metal-impact-1.wav",
+ "verdict": "ok",
+ "build_db": -22.5,
+ "start_db": -0.0,
+ "end_db": -36.9,
+ "spikiness": 2.13,
+ "dur_s": 1.505,
+ "peak_offset_s": 0.0076,
+ "rise_ms": 1.7,
+ "centroid_hz": 239,
+ "below150": 0.144,
+ "above6k": 0.0,
+ "flatness": 0.014,
+ "note": 59.0,
+ "start_floor_db": -44.6,
+ "source": {
+  "id": "530486",
+  "type": "hit",
+  "title": "Metal Impact",
+  "creator": "Rickplayer",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/530/530486_2532248-hq.mp3",
+  "landing": "https://freesound.org/people/Rickplayer/sounds/530486",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

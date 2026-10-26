@@ -1,0 +1,34 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-592067-horns-edited-2-3.wav",
+ "verdict": "ok",
+ "build_db": -23.2,
+ "start_db": -0.0,
+ "end_db": -31.3,
+ "spikiness": 1.86,
+ "dur_s": 2.671,
+ "peak_offset_s": 1.1336,
+ "rise_ms": 40.9,
+ "centroid_hz": 141,
+ "below150": 0.715,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -14.2,
+ "source": {
+  "id": "592067",
+  "type": "hit",
+  "title": "HORNS - EDITED - 2",
+  "creator": "XHALE303",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/592/592067_9015615-hq.mp3",
+  "landing": "https://freesound.org/people/XHALE303/sounds/592067",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "braam"
+  ]
+ }
+}

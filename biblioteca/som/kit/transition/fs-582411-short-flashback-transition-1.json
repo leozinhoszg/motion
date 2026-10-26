@@ -1,0 +1,35 @@
+{
+ "type": "transition",
+ "file": "kit\\transition\\fs-582411-short-flashback-transition-1.wav",
+ "verdict": "ok",
+ "build_db": -2.9,
+ "start_db": -15.7,
+ "end_db": -12.5,
+ "spikiness": 1.66,
+ "dur_s": 1.486,
+ "peak_offset_s": 0.9223,
+ "rise_ms": 757.4,
+ "centroid_hz": 2645,
+ "below150": 0.002,
+ "above6k": 0.225,
+ "flatness": 0.046,
+ "note": 75.0,
+ "start_floor_db": -28.2,
+ "source": {
+  "id": "582411",
+  "type": "transition",
+  "title": "Short Flashback Transition",
+  "creator": "SoshJam",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/582/582411_6312896-hq.mp3",
+  "landing": "https://freesound.org/people/SoshJam/sounds/582411",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "transition",
+   "whoosh"
+  ]
+ }
+}

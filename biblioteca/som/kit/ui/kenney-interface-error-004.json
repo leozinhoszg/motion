@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-error-004.wav",
+ "verdict": "ok",
+ "build_db": -10.2,
+ "start_db": -0.7,
+ "end_db": -20.6,
+ "spikiness": 1.67,
+ "dur_s": 0.044,
+ "peak_offset_s": 0.0056,
+ "rise_ms": 4.1,
+ "centroid_hz": 587,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -3.6,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/error_004.ogg"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-328448-hard-cinematic-hit-2.wav",
+ "verdict": "ok",
+ "build_db": -14.2,
+ "start_db": -0.0,
+ "end_db": -21.2,
+ "spikiness": 1.86,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0463,
+ "rise_ms": 38.5,
+ "centroid_hz": 73,
+ "below150": 0.935,
+ "above6k": 0.0,
+ "flatness": 0.005,
+ "note": 40.1,
+ "start_floor_db": -23.5,
+ "source": {
+  "id": "328448",
+  "type": "hit",
+  "title": "Hard Cinematic Hit",
+  "creator": "Vendarro",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/328/328448_4519159-hq.mp3",
+  "landing": "https://freesound.org/people/Vendarro/sounds/328448",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "trailer",
+   "hit"
+  ]
+ }
+}

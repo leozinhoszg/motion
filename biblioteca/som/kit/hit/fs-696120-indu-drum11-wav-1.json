@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-696120-indu-drum11-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -22.8,
+ "start_db": -0.0,
+ "end_db": -34.8,
+ "spikiness": 1.67,
+ "dur_s": 1.129,
+ "peak_offset_s": 0.0213,
+ "rise_ms": 15.7,
+ "centroid_hz": 187,
+ "below150": 0.631,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 46.4,
+ "start_floor_db": -37.4,
+ "source": {
+  "id": "696120",
+  "type": "hit",
+  "title": "InduDrum11.wav",
+  "creator": "piwilliwillski",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/696/696120_3049306-hq.mp3",
+  "landing": "https://freesound.org/people/piwilliwillski/sounds/696120",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "drum",
+   "hit",
+   "cinematic"
+  ]
+ }
+}

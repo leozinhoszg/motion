@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-rpg-handle-coins.wav",
+ "verdict": "ok",
+ "build_db": -17.7,
+ "start_db": -0.0,
+ "end_db": -25.6,
+ "spikiness": 2.54,
+ "dur_s": 0.204,
+ "peak_offset_s": 0.011,
+ "rise_ms": 5.2,
+ "centroid_hz": 5092,
+ "below150": 0.0,
+ "above6k": 0.139,
+ "flatness": 0.079,
+ "note": null,
+ "start_floor_db": -24.3,
+ "source": {
+  "pack": "rpg",
+  "file": "Audio/handleCoins.ogg"
+ }
+}

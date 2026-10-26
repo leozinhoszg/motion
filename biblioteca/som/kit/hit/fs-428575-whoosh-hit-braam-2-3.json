@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-428575-whoosh-hit-braam-2-3.wav",
+ "verdict": "ok",
+ "build_db": -19.8,
+ "start_db": -0.0,
+ "end_db": -35.7,
+ "spikiness": 1.64,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.2896,
+ "rise_ms": 13.3,
+ "centroid_hz": 309,
+ "below150": 0.788,
+ "above6k": 0.003,
+ "flatness": 0.028,
+ "note": 41.4,
+ "start_floor_db": -17.2,
+ "source": {
+  "id": "428575",
+  "type": "hit",
+  "title": "WHOOSH-HIT-BRAAM 2",
+  "creator": "vykroft",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/428/428575_6802113-hq.mp3",
+  "landing": "https://freesound.org/people/vykroft/sounds/428575",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

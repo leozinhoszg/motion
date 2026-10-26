@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-535413-cinematic-impact-boom-metali-3.wav",
+ "verdict": "ok",
+ "build_db": -18.8,
+ "start_db": -0.0,
+ "end_db": -26.5,
+ "spikiness": 1.76,
+ "dur_s": 1.955,
+ "peak_offset_s": 0.0401,
+ "rise_ms": 36.1,
+ "centroid_hz": 98,
+ "below150": 0.968,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 42.5,
+ "start_floor_db": -21.9,
+ "source": {
+  "id": "535413",
+  "type": "hit",
+  "title": "Cinematic Impact Boom Metalic",
+  "creator": "EminYILDIRIM",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/535/535413_10912485-hq.mp3",
+  "landing": "https://freesound.org/people/EminYILDIRIM/sounds/535413",
+  "k": 3,
+  "keep": [
+   1,
+   2
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

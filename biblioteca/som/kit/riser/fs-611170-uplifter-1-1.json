@@ -1,0 +1,34 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-611170-uplifter-1-1.wav",
+ "verdict": "ok",
+ "build_db": 17.5,
+ "start_db": -24.7,
+ "end_db": -0.0,
+ "spikiness": 1.14,
+ "dur_s": 4.577,
+ "peak_offset_s": 4.5456,
+ "rise_ms": 3490.3,
+ "centroid_hz": 1971,
+ "below150": 0.012,
+ "above6k": 0.017,
+ "flatness": 0.025,
+ "note": 79.4,
+ "start_floor_db": -35.7,
+ "source": {
+  "id": "611170",
+  "type": "riser",
+  "title": "Uplifter-1",
+  "creator": "skullowner83@gmail.com",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/611/611170_8079379-hq.mp3",
+  "landing": "https://freesound.org/people/skullowner83@gmail.com/sounds/611170",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "uplifter"
+  ]
+ }
+}

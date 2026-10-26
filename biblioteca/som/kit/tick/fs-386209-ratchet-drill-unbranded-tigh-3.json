@@ -1,0 +1,36 @@
+{
+ "type": "tick",
+ "file": "kit\\tick\\fs-386209-ratchet-drill-unbranded-tigh-3.wav",
+ "verdict": "ok",
+ "build_db": -23.9,
+ "start_db": -0.0,
+ "end_db": -34.9,
+ "spikiness": 3.7,
+ "dur_s": 0.107,
+ "peak_offset_s": 0.0069,
+ "rise_ms": 0.6,
+ "centroid_hz": 3657,
+ "below150": 0.0,
+ "above6k": 0.097,
+ "flatness": 0.115,
+ "note": null,
+ "start_floor_db": -41.4,
+ "source": {
+  "id": "386209",
+  "type": "tick",
+  "title": "Ratchet drill - Unbranded - Tighten fast and short",
+  "creator": "ldezem",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/386/386209_1655965-hq.mp3",
+  "landing": "https://freesound.org/people/ldezem/sounds/386209",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "ratchet"
+  ]
+ }
+}

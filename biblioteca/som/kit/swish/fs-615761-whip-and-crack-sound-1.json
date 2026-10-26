@@ -1,0 +1,34 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-615761-whip-and-crack-sound-1.wav",
+ "verdict": "ok",
+ "build_db": -11.1,
+ "start_db": -13.4,
+ "end_db": -16.1,
+ "spikiness": 1.56,
+ "dur_s": 0.107,
+ "peak_offset_s": 0.0289,
+ "rise_ms": 24.4,
+ "centroid_hz": 1023,
+ "below150": 0.0,
+ "above6k": 0.001,
+ "flatness": 0.005,
+ "note": 84.6,
+ "start_floor_db": -21.4,
+ "source": {
+  "id": "615761",
+  "type": "swish",
+  "title": "whip and crack sound",
+  "creator": "JayRom01",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/615/615761_13658484-hq.mp3",
+  "landing": "https://freesound.org/people/JayRom01/sounds/615761",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "whip"
+  ]
+ }
+}

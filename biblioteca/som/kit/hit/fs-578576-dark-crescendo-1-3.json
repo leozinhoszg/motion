@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-578576-dark-crescendo-1-3.wav",
+ "verdict": "ok",
+ "build_db": -25.3,
+ "start_db": -0.0,
+ "end_db": -31.7,
+ "spikiness": 1.9,
+ "dur_s": 0.54,
+ "peak_offset_s": 0.055,
+ "rise_ms": 52.4,
+ "centroid_hz": 315,
+ "below150": 0.078,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 57.3,
+ "start_floor_db": -19.8,
+ "source": {
+  "id": "578576",
+  "type": "hit",
+  "title": "Dark Crescendo 1",
+  "creator": "nomiqbomi",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/578/578576_10522382-hq.mp3",
+  "landing": "https://freesound.org/people/nomiqbomi/sounds/578576",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

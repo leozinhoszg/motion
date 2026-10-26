@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-500658-vocal-bit-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -18.7,
+ "start_db": -0.0,
+ "end_db": -31.5,
+ "spikiness": 1.62,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0387,
+ "rise_ms": 33.4,
+ "centroid_hz": 111,
+ "below150": 0.958,
+ "above6k": 0.0,
+ "flatness": 0.023,
+ "note": 43.3,
+ "start_floor_db": -27.4,
+ "source": {
+  "id": "500658",
+  "type": "hit",
+  "title": "Vocal Bit.wav",
+  "creator": "Reg1n0ld",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/500/500658_10846245-hq.mp3",
+  "landing": "https://freesound.org/people/Reg1n0ld/sounds/500658",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

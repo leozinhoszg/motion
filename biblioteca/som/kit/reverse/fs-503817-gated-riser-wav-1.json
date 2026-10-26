@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-503817-gated-riser-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 11.1,
+ "start_db": -22.7,
+ "end_db": -1.8,
+ "spikiness": 1.74,
+ "dur_s": 3.016,
+ "peak_offset_s": 2.6375,
+ "rise_ms": 2173.3,
+ "centroid_hz": 487,
+ "below150": 0.399,
+ "above6k": 0.0,
+ "flatness": 0.005,
+ "note": null,
+ "start_floor_db": -34.2,
+ "source": {
+  "id": "503817",
+  "type": "reverse",
+  "title": "gated riser.wav",
+  "creator": "neezen.",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/503/503817_9637845-hq.mp3",
+  "landing": "https://freesound.org/people/neezen./sounds/503817",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "swell"
+  ]
+ }
+}

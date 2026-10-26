@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-217342-munch-9-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -22.4,
+ "start_db": -0.0,
+ "end_db": -27.4,
+ "spikiness": 1.49,
+ "dur_s": 0.78,
+ "peak_offset_s": 0.0345,
+ "rise_ms": 31.0,
+ "centroid_hz": 2580,
+ "below150": 0.409,
+ "above6k": 0.191,
+ "flatness": 0.325,
+ "note": 40.5,
+ "start_floor_db": -16.1,
+ "source": {
+  "id": "217342",
+  "type": "hit",
+  "title": "Munch 9.wav",
+  "creator": "JarredGibb",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/217/217342_4056007-hq.mp3",
+  "landing": "https://freesound.org/people/JarredGibb/sounds/217342",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "heavy",
+   "impact"
+  ]
+ }
+}

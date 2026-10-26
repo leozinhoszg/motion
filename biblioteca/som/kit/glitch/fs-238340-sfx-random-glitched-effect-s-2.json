@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-238340-sfx-random-glitched-effect-s-2.wav",
+ "verdict": "ok",
+ "build_db": -4.9,
+ "start_db": -6.7,
+ "end_db": -11.9,
+ "spikiness": 1.65,
+ "dur_s": 0.217,
+ "peak_offset_s": 0.0281,
+ "rise_ms": 22.5,
+ "centroid_hz": 525,
+ "below150": 0.214,
+ "above6k": 0.016,
+ "flatness": 0.027,
+ "note": 54.0,
+ "start_floor_db": -45.4,
+ "source": {
+  "id": "238340",
+  "type": "glitch",
+  "title": "[SFX] random glitched effect seq",
+  "creator": "waveplaySFX",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/238/238340_1676145-hq.mp3",
+  "landing": "https://freesound.org/people/waveplaySFX/sounds/238340",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

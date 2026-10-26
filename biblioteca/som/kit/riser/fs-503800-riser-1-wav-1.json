@@ -1,0 +1,34 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-503800-riser-1-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 9.6,
+ "start_db": -16.3,
+ "end_db": -0.4,
+ "spikiness": 1.47,
+ "dur_s": 3.414,
+ "peak_offset_s": 3.406,
+ "rise_ms": 2618.3,
+ "centroid_hz": 855,
+ "below150": 0.002,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -40.1,
+ "source": {
+  "id": "503800",
+  "type": "riser",
+  "title": "riser 1.wav",
+  "creator": "neezen.",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/503/503800_9637845-hq.mp3",
+  "landing": "https://freesound.org/people/neezen./sounds/503800",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "riser"
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-phaser-up2.wav",
+ "verdict": "ok",
+ "build_db": -19.1,
+ "start_db": -0.0,
+ "end_db": -28.0,
+ "spikiness": 1.24,
+ "dur_s": 0.319,
+ "peak_offset_s": 0.0093,
+ "rise_ms": 2.8,
+ "centroid_hz": 602,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -44.3,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/phaserUp2.ogg"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-198386-ani-champagne-flute-reversed-1.wav",
+ "verdict": "ok",
+ "build_db": 12.6,
+ "start_db": -21.5,
+ "end_db": -0.0,
+ "spikiness": 1.19,
+ "dur_s": 0.898,
+ "peak_offset_s": 0.8394,
+ "rise_ms": 694.7,
+ "centroid_hz": 1513,
+ "below150": 0.0,
+ "above6k": 0.002,
+ "flatness": 0.006,
+ "note": 83.2,
+ "start_floor_db": -35.6,
+ "source": {
+  "id": "198386",
+  "type": "reverse",
+  "title": "ANI - Champagne flute - Reversed, Ramped",
+  "creator": "ani_music",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/198/198386_3008343-hq.mp3",
+  "landing": "https://freesound.org/people/ani_music/sounds/198386",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reversed",
+   "hit"
+  ]
+ }
+}

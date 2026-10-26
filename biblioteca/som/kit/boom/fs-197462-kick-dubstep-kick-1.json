@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-197462-kick-dubstep-kick-1.wav",
+ "verdict": "ok",
+ "build_db": -16.0,
+ "start_db": -0.0,
+ "end_db": -25.4,
+ "spikiness": 1.81,
+ "dur_s": 0.856,
+ "peak_offset_s": 0.0185,
+ "rise_ms": 15.3,
+ "centroid_hz": 40,
+ "below150": 0.997,
+ "above6k": 0.0,
+ "flatness": 0.006,
+ "note": null,
+ "start_floor_db": -18.3,
+ "source": {
+  "id": "197462",
+  "type": "boom",
+  "title": "[Kick] dubstep kick",
+  "creator": "waveplaySFX",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/197/197462_1676145-hq.mp3",
+  "landing": "https://freesound.org/people/waveplaySFX/sounds/197462",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "sub",
+   "drop"
+  ]
+ }
+}

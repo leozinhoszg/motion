@@ -1,0 +1,34 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-268559-uplifter-01-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 17.2,
+ "start_db": -24.8,
+ "end_db": -0.0,
+ "spikiness": 1.39,
+ "dur_s": 5.846,
+ "peak_offset_s": 5.6141,
+ "rise_ms": 3495.0,
+ "centroid_hz": 2416,
+ "below150": 0.0,
+ "above6k": 0.047,
+ "flatness": 0.12,
+ "note": null,
+ "start_floor_db": -33.4,
+ "source": {
+  "id": "268559",
+  "type": "riser",
+  "title": "Uplifter 01.wav",
+  "creator": "digit-al",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/268/268559_1205763-hq.mp3",
+  "landing": "https://freesound.org/people/digit-al/sounds/268559",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "uplifter"
+  ]
+ }
+}

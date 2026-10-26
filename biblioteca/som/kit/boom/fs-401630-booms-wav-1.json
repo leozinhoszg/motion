@@ -1,0 +1,36 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-401630-booms-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -15.9,
+ "start_db": -0.0,
+ "end_db": -23.0,
+ "spikiness": 1.74,
+ "dur_s": 1.229,
+ "peak_offset_s": 0.0712,
+ "rise_ms": 64.7,
+ "centroid_hz": 55,
+ "below150": 0.993,
+ "above6k": 0.0,
+ "flatness": 0.056,
+ "note": null,
+ "start_floor_db": -29.0,
+ "source": {
+  "id": "401630",
+  "type": "boom",
+  "title": "Booms.wav",
+  "creator": "studiomandragore",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/401/401630_3910612-hq.mp3",
+  "landing": "https://freesound.org/people/studiomandragore/sounds/401630",
+  "k": 3,
+  "keep": [
+   0,
+   2
+  ],
+  "tags": [
+   "low",
+   "boom"
+  ]
+ }
+}

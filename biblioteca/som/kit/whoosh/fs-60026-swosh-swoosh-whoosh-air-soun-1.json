@@ -1,0 +1,34 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-60026-swosh-swoosh-whoosh-air-soun-1.wav",
+ "verdict": "ok",
+ "build_db": -10.2,
+ "start_db": -13.3,
+ "end_db": -16.4,
+ "spikiness": 1.36,
+ "dur_s": 0.231,
+ "peak_offset_s": 0.0399,
+ "rise_ms": 31.3,
+ "centroid_hz": 319,
+ "below150": 0.001,
+ "above6k": 0.002,
+ "flatness": 0.004,
+ "note": 61.8,
+ "start_floor_db": -35.7,
+ "source": {
+  "id": "60026",
+  "type": "whoosh",
+  "title": "Swosh swoosh whoosh air sound, free, high quality",
+  "creator": "qubodup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/60/60026_71257-hq.mp3",
+  "landing": "https://freesound.org/people/qubodup/sounds/60026",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "whoosh"
+  ]
+ }
+}

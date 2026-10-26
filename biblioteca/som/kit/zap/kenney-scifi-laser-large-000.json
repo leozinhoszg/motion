@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-scifi-laser-large-000.wav",
+ "verdict": "ok",
+ "build_db": -17.6,
+ "start_db": -0.0,
+ "end_db": -23.0,
+ "spikiness": 1.4,
+ "dur_s": 0.433,
+ "peak_offset_s": 0.0096,
+ "rise_ms": 8.3,
+ "centroid_hz": 3951,
+ "below150": 0.053,
+ "above6k": 0.215,
+ "flatness": 0.179,
+ "note": 106.8,
+ "start_floor_db": -3.3,
+ "source": {
+  "pack": "scifi",
+  "file": "Audio/laserLarge_000.ogg"
+ }
+}

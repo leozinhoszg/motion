@@ -1,0 +1,36 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-503811-reverse-fx-1-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 14.6,
+ "start_db": -21.0,
+ "end_db": -0.0,
+ "spikiness": 1.52,
+ "dur_s": 1.385,
+ "peak_offset_s": 1.2584,
+ "rise_ms": 862.3,
+ "centroid_hz": 193,
+ "below150": 0.583,
+ "above6k": 0.0,
+ "flatness": 0.006,
+ "note": 49.6,
+ "start_floor_db": -39.4,
+ "source": {
+  "id": "503811",
+  "type": "riser",
+  "title": "reverse fx 1.wav",
+  "creator": "neezen.",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/503/503811_9637845-hq.mp3",
+  "landing": "https://freesound.org/people/neezen./sounds/503811",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "build",
+   "up",
+   "riser"
+  ]
+ }
+}

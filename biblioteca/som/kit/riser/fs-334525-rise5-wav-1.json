@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-334525-rise5-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 8.3,
+ "start_db": -16.3,
+ "end_db": -0.0,
+ "spikiness": 1.36,
+ "dur_s": 5.694,
+ "peak_offset_s": 5.6064,
+ "rise_ms": 5584.0,
+ "centroid_hz": 2041,
+ "below150": 0.0,
+ "above6k": 0.077,
+ "flatness": 0.111,
+ "note": null,
+ "start_floor_db": -22.1,
+ "source": {
+  "id": "334525",
+  "type": "riser",
+  "title": "rise5.wav",
+  "creator": "soneproject",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/334/334525_2127539-hq.mp3",
+  "landing": "https://freesound.org/people/soneproject/sounds/334525",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "tension",
+   "riser"
+  ]
+ }
+}

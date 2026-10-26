@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-518753-glitchy-robot-scream-11-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -6.9,
+ "start_db": -0.0,
+ "end_db": -12.9,
+ "spikiness": 1.37,
+ "dur_s": 0.867,
+ "peak_offset_s": 0.055,
+ "rise_ms": 53.0,
+ "centroid_hz": 1537,
+ "below150": 0.038,
+ "above6k": 0.053,
+ "flatness": 0.039,
+ "note": 55.0,
+ "start_floor_db": -9.5,
+ "source": {
+  "id": "518753",
+  "type": "glitch",
+  "title": "Glitchy Robot Scream - 11.wav",
+  "creator": "Creat142100",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/518/518753_8278798-hq.mp3",
+  "landing": "https://freesound.org/people/Creat142100/sounds/518753",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "data",
+   "glitch"
+  ]
+ }
+}

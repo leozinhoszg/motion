@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-500654-massive-hit-1-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -19.3,
+ "start_db": -0.0,
+ "end_db": -24.7,
+ "spikiness": 1.74,
+ "dur_s": 3.192,
+ "peak_offset_s": 0.0471,
+ "rise_ms": 38.6,
+ "centroid_hz": 72,
+ "below150": 0.99,
+ "above6k": 0.0,
+ "flatness": 0.005,
+ "note": null,
+ "start_floor_db": -16.2,
+ "source": {
+  "id": "500654",
+  "type": "hit",
+  "title": "Massive Hit 1.wav",
+  "creator": "Reg1n0ld",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/500/500654_10846245-hq.mp3",
+  "landing": "https://freesound.org/people/Reg1n0ld/sounds/500654",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

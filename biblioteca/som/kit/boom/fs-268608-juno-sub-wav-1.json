@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-268608-juno-sub-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -16.8,
+ "start_db": -0.0,
+ "end_db": -27.2,
+ "spikiness": 1.41,
+ "dur_s": 1.711,
+ "peak_offset_s": 0.0605,
+ "rise_ms": 43.0,
+ "centroid_hz": 66,
+ "below150": 1.0,
+ "above6k": 0.0,
+ "flatness": 0.007,
+ "note": 48.2,
+ "start_floor_db": -17.0,
+ "source": {
+  "id": "268608",
+  "type": "boom",
+  "title": "Juno Sub.wav",
+  "creator": "breo2012",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/268/268608_5021819-hq.mp3",
+  "landing": "https://freesound.org/people/breo2012/sounds/268608",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "low",
+   "boom"
+  ]
+ }
+}

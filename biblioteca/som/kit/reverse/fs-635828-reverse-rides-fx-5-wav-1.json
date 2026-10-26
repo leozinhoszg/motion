@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-635828-reverse-rides-fx-5-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 13.8,
+ "start_db": -23.1,
+ "end_db": -8.5,
+ "spikiness": 1.35,
+ "dur_s": 2.972,
+ "peak_offset_s": 2.3743,
+ "rise_ms": 1642.2,
+ "centroid_hz": 1731,
+ "below150": 0.0,
+ "above6k": 0.085,
+ "flatness": 0.018,
+ "note": 75.2,
+ "start_floor_db": -33.7,
+ "source": {
+  "id": "635828",
+  "type": "reverse",
+  "title": "ReverseRidesFX-5.wav",
+  "creator": "gmortizwavs",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/635/635828_6603437-hq.mp3",
+  "landing": "https://freesound.org/people/gmortizwavs/sounds/635828",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reversed",
+   "hit"
+  ]
+ }
+}

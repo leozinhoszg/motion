@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-casino-chips-handle-5.wav",
+ "verdict": "ok",
+ "build_db": -19.1,
+ "start_db": -0.0,
+ "end_db": -28.1,
+ "spikiness": 3.36,
+ "dur_s": 0.101,
+ "peak_offset_s": 0.0073,
+ "rise_ms": 1.7,
+ "centroid_hz": 4595,
+ "below150": 0.026,
+ "above6k": 0.204,
+ "flatness": 0.218,
+ "note": 108.9,
+ "start_floor_db": -28.9,
+ "source": {
+  "pack": "casino",
+  "file": "Audio/chips-handle-5.ogg"
+ }
+}

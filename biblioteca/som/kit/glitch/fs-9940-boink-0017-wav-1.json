@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-9940-boink-0017-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -3.9,
+ "start_db": -32.7,
+ "end_db": -12.0,
+ "spikiness": 2.85,
+ "dur_s": 0.216,
+ "peak_offset_s": 0.0479,
+ "rise_ms": 3.3,
+ "centroid_hz": 200,
+ "below150": 0.199,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": null,
+ "start_floor_db": -34.1,
+ "source": {
+  "id": "9940",
+  "type": "glitch",
+  "title": "boink 0017.wav",
+  "creator": "davepape",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/9/9940_20056-hq.mp3",
+  "landing": "https://freesound.org/people/davepape/sounds/9940",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "glitch",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-237106-sqeeeek-bell-ting1-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -25.1,
+ "start_db": -0.0,
+ "end_db": -29.5,
+ "spikiness": 1.16,
+ "dur_s": 0.234,
+ "peak_offset_s": 0.0094,
+ "rise_ms": 3.9,
+ "centroid_hz": 4787,
+ "below150": 0.0,
+ "above6k": 0.074,
+ "flatness": 0.001,
+ "note": 112.6,
+ "start_floor_db": -6.0,
+ "source": {
+  "id": "237106",
+  "type": "chime",
+  "title": "sqeeeek_bell_ting1.wav",
+  "creator": "sqeeeek",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/237/237106_4277312-hq.mp3",
+  "landing": "https://freesound.org/people/sqeeeek/sounds/237106",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "bell",
+   "ding"
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-370834-complex-riser-2-aif-1.wav",
+ "verdict": "ok",
+ "build_db": 9.5,
+ "start_db": -14.5,
+ "end_db": -0.1,
+ "spikiness": 1.73,
+ "dur_s": 6.2,
+ "peak_offset_s": 5.6045,
+ "rise_ms": 5400.8,
+ "centroid_hz": 1259,
+ "below150": 0.034,
+ "above6k": 0.009,
+ "flatness": 0.026,
+ "note": null,
+ "start_floor_db": -31.6,
+ "source": {
+  "id": "370834",
+  "type": "riser",
+  "title": "Complex Riser 2.aif",
+  "creator": "deleted_user_5959249",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/370/370834_5959249-hq.mp3",
+  "landing": "https://freesound.org/people/deleted_user_5959249/sounds/370834",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "riser"
+  ]
+ }
+}

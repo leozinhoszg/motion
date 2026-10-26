@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-725311-sucking-1.wav",
+ "verdict": "ok",
+ "build_db": 7.9,
+ "start_db": -20.2,
+ "end_db": -5.8,
+ "spikiness": 2.34,
+ "dur_s": 0.46,
+ "peak_offset_s": 0.3573,
+ "rise_ms": 190.6,
+ "centroid_hz": 3203,
+ "below150": 0.004,
+ "above6k": 0.172,
+ "flatness": 0.043,
+ "note": null,
+ "start_floor_db": -34.2,
+ "source": {
+  "id": "725311",
+  "type": "reverse",
+  "title": "Sucking",
+  "creator": "oldhiccup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/725/725311_12435826-hq.mp3",
+  "landing": "https://freesound.org/people/oldhiccup/sounds/725311",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "suck",
+   "in"
+  ]
+ }
+}

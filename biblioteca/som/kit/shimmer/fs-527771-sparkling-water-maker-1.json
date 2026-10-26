@@ -1,0 +1,34 @@
+{
+ "type": "shimmer",
+ "file": "kit\\shimmer\\fs-527771-sparkling-water-maker-1.wav",
+ "verdict": "ok",
+ "build_db": -11.7,
+ "start_db": -0.0,
+ "end_db": -26.4,
+ "spikiness": 2.55,
+ "dur_s": 0.252,
+ "peak_offset_s": 0.008,
+ "rise_ms": 1.9,
+ "centroid_hz": 2029,
+ "below150": 0.0,
+ "above6k": 0.012,
+ "flatness": 0.032,
+ "note": null,
+ "start_floor_db": -35.6,
+ "source": {
+  "id": "527771",
+  "type": "shimmer",
+  "title": "sparkling water maker",
+  "creator": "Garuda1982",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/527/527771_2061858-hq.mp3",
+  "landing": "https://freesound.org/people/Garuda1982/sounds/527771",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "sparkle"
+  ]
+ }
+}

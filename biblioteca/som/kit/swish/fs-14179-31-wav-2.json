@@ -1,0 +1,35 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-14179-31-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -4.2,
+ "start_db": -12.8,
+ "end_db": -14.7,
+ "spikiness": 1.83,
+ "dur_s": 0.416,
+ "peak_offset_s": 0.2841,
+ "rise_ms": 266.1,
+ "centroid_hz": 754,
+ "below150": 0.045,
+ "above6k": 0.002,
+ "flatness": 0.014,
+ "note": null,
+ "start_floor_db": -32.5,
+ "source": {
+  "id": "14179",
+  "type": "swish",
+  "title": "31.wav",
+  "creator": "adcbicycle",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/14/14179_33634-hq.mp3",
+  "landing": "https://freesound.org/people/adcbicycle/sounds/14179",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "cloth",
+   "swish"
+  ]
+ }
+}

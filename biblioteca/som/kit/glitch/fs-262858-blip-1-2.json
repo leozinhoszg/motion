@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-262858-blip-1-2.wav",
+ "verdict": "ok",
+ "build_db": -3.3,
+ "start_db": -1.6,
+ "end_db": -7.4,
+ "spikiness": 1.02,
+ "dur_s": 0.081,
+ "peak_offset_s": 0.0319,
+ "rise_ms": 1.6,
+ "centroid_hz": 4946,
+ "below150": 0.0,
+ "above6k": 0.266,
+ "flatness": 0.031,
+ "note": 102.3,
+ "start_floor_db": -55.9,
+ "source": {
+  "id": "262858",
+  "type": "glitch",
+  "title": "Blip 1",
+  "creator": "deleted_user_2906614",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/262/262858_2906614-hq.mp3",
+  "landing": "https://freesound.org/people/deleted_user_2906614/sounds/262858",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "digital",
+   "glitch"
+  ]
+ }
+}

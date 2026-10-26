@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-259885-rise2-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 15.1,
+ "start_db": -20.6,
+ "end_db": -0.0,
+ "spikiness": 1.29,
+ "dur_s": 2.325,
+ "peak_offset_s": 2.287,
+ "rise_ms": 1984.7,
+ "centroid_hz": 1759,
+ "below150": 0.337,
+ "above6k": 0.095,
+ "flatness": 0.155,
+ "note": 72.8,
+ "start_floor_db": -36.6,
+ "source": {
+  "id": "259885",
+  "type": "riser",
+  "title": "rise2.wav",
+  "creator": "soneproject",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/259/259885_2127539-hq.mp3",
+  "landing": "https://freesound.org/people/soneproject/sounds/259885",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "noise",
+   "riser"
+  ]
+ }
+}

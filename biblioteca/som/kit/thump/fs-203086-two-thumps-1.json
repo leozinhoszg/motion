@@ -1,0 +1,35 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-203086-two-thumps-1.wav",
+ "verdict": "ok",
+ "build_db": -22.8,
+ "start_db": -4.0,
+ "end_db": -32.1,
+ "spikiness": 1.95,
+ "dur_s": 0.067,
+ "peak_offset_s": 0.0145,
+ "rise_ms": 4.2,
+ "centroid_hz": 1359,
+ "below150": 0.047,
+ "above6k": 0.031,
+ "flatness": 0.237,
+ "note": null,
+ "start_floor_db": -34.1,
+ "source": {
+  "id": "203086",
+  "type": "thump",
+  "title": "Two thumps",
+  "creator": "Mafon2",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/203/203086_1196472-hq.mp3",
+  "landing": "https://freesound.org/people/Mafon2/sounds/203086",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "thump"
+  ]
+ }
+}

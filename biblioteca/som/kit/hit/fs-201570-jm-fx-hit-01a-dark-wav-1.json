@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-201570-jm-fx-hit-01a-dark-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -19.0,
+ "start_db": -0.0,
+ "end_db": -32.4,
+ "spikiness": 1.73,
+ "dur_s": 2.684,
+ "peak_offset_s": 0.0599,
+ "rise_ms": 40.9,
+ "centroid_hz": 125,
+ "below150": 0.719,
+ "above6k": 0.0,
+ "flatness": 0.006,
+ "note": 51.8,
+ "start_floor_db": -52.9,
+ "source": {
+  "id": "201570",
+  "type": "hit",
+  "title": "JM_FX_Hit 01a - Dark.wav",
+  "creator": "Julien Matthey",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/201/201570_1535323-hq.mp3",
+  "landing": "https://freesound.org/people/Julien%20Matthey/sounds/201570",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "drum",
+   "hit",
+   "cinematic"
+  ]
+ }
+}

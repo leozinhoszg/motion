@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-336487-boom-01-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -21.5,
+ "start_db": -0.0,
+ "end_db": -34.5,
+ "spikiness": 1.35,
+ "dur_s": 0.912,
+ "peak_offset_s": 0.0487,
+ "rise_ms": 29.4,
+ "centroid_hz": 75,
+ "below150": 0.989,
+ "above6k": 0.0,
+ "flatness": 0.006,
+ "note": 48.2,
+ "start_floor_db": -44.9,
+ "source": {
+  "id": "336487",
+  "type": "boom",
+  "title": "Boom_01.wav",
+  "creator": "Faulkin",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/336/336487_5866833-hq.mp3",
+  "landing": "https://freesound.org/people/Faulkin/sounds/336487",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "low",
+   "boom"
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-zap-two-tone2.wav",
+ "verdict": "ok",
+ "build_db": -22.6,
+ "start_db": -0.0,
+ "end_db": -29.2,
+ "spikiness": 1.54,
+ "dur_s": 0.951,
+ "peak_offset_s": 0.0559,
+ "rise_ms": 54.4,
+ "centroid_hz": 451,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.007,
+ "note": 69.0,
+ "start_floor_db": -13.3,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/zapTwoTone2.ogg"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-496187-light-body-thud-on-clothing-1.wav",
+ "verdict": "ok",
+ "build_db": -22.5,
+ "start_db": -0.0,
+ "end_db": -36.7,
+ "spikiness": 2.18,
+ "dur_s": 0.187,
+ "peak_offset_s": 0.0127,
+ "rise_ms": 7.2,
+ "centroid_hz": 240,
+ "below150": 0.653,
+ "above6k": 0.001,
+ "flatness": 0.029,
+ "note": null,
+ "start_floor_db": -27.7,
+ "source": {
+  "id": "496187",
+  "type": "thump",
+  "title": "Light Body thud (on clothing)",
+  "creator": "JonasTisell",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/496/496187_3910073-hq.mp3",
+  "landing": "https://freesound.org/people/JonasTisell/sounds/496187",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "thud"
+  ]
+ }
+}

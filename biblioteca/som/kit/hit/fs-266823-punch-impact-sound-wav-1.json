@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-266823-punch-impact-sound-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -20.0,
+ "start_db": -0.0,
+ "end_db": -28.7,
+ "spikiness": 2.99,
+ "dur_s": 0.499,
+ "peak_offset_s": 0.007,
+ "rise_ms": 1.4,
+ "centroid_hz": 253,
+ "below150": 0.209,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -47.0,
+ "source": {
+  "id": "266823",
+  "type": "hit",
+  "title": "Punch impact sound.wav",
+  "creator": "ms107",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/266/266823_5035221-hq.mp3",
+  "landing": "https://freesound.org/people/ms107/sounds/266823",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "punch",
+   "impact"
+  ]
+ }
+}

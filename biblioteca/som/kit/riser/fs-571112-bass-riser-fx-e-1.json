@@ -1,0 +1,34 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-571112-bass-riser-fx-e-1.wav",
+ "verdict": "ok",
+ "build_db": 12.4,
+ "start_db": -23.5,
+ "end_db": -1.0,
+ "spikiness": 1.71,
+ "dur_s": 5.284,
+ "peak_offset_s": 4.7,
+ "rise_ms": 4095.0,
+ "centroid_hz": 280,
+ "below150": 0.464,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": 40.1,
+ "start_floor_db": -50.9,
+ "source": {
+  "id": "571112",
+  "type": "riser",
+  "title": "bass riser fx E",
+  "creator": "deadrobotmusic",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/571/571112_11532701-hq.mp3",
+  "landing": "https://freesound.org/people/deadrobotmusic/sounds/571112",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "riser"
+  ]
+ }
+}

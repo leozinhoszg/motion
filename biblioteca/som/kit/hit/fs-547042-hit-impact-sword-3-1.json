@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-547042-hit-impact-sword-3-1.wav",
+ "verdict": "ok",
+ "build_db": -26.3,
+ "start_db": -0.0,
+ "end_db": -28.1,
+ "spikiness": 1.32,
+ "dur_s": 0.684,
+ "peak_offset_s": 0.055,
+ "rise_ms": 9.9,
+ "centroid_hz": 2312,
+ "below150": 0.269,
+ "above6k": 0.044,
+ "flatness": 0.078,
+ "note": null,
+ "start_floor_db": -7.9,
+ "source": {
+  "id": "547042",
+  "type": "hit",
+  "title": "Hit Impact Sword 3",
+  "creator": "CogFireStudios",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/547/547042_7614679-hq.mp3",
+  "landing": "https://freesound.org/people/CogFireStudios/sounds/547042",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

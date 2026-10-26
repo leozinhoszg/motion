@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-digital-three-tone1.wav",
+ "verdict": "ok",
+ "build_db": -4.7,
+ "start_db": -4.9,
+ "end_db": -20.8,
+ "spikiness": 1.07,
+ "dur_s": 0.084,
+ "peak_offset_s": 0.027,
+ "rise_ms": 16.3,
+ "centroid_hz": 290,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 60.7,
+ "start_floor_db": -38.1,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/threeTone1.ogg"
+ }
+}

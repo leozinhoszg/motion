@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-401100-cinematic-rise-and-hit-03-wa-2.wav",
+ "verdict": "ok",
+ "build_db": -20.9,
+ "start_db": -0.0,
+ "end_db": -27.7,
+ "spikiness": 2.02,
+ "dur_s": 2.782,
+ "peak_offset_s": 0.0585,
+ "rise_ms": 55.9,
+ "centroid_hz": 196,
+ "below150": 0.898,
+ "above6k": 0.002,
+ "flatness": 0.033,
+ "note": 41.2,
+ "start_floor_db": -10.5,
+ "source": {
+  "id": "401100",
+  "type": "hit",
+  "title": "Cinematic Rise-and-Hit_03.wav",
+  "creator": "s-cheremisinov",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/401/401100_7725148-hq.mp3",
+  "landing": "https://freesound.org/people/s-cheremisinov/sounds/401100",
+  "k": 3,
+  "keep": [
+   1,
+   2
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-12817-snare-hit-a-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -17.5,
+ "start_db": -0.0,
+ "end_db": -25.4,
+ "spikiness": 1.55,
+ "dur_s": 0.788,
+ "peak_offset_s": 0.0129,
+ "rise_ms": 12.0,
+ "centroid_hz": 955,
+ "below150": 0.005,
+ "above6k": 0.001,
+ "flatness": 0.006,
+ "note": 59.2,
+ "start_floor_db": -9.4,
+ "source": {
+  "id": "12817",
+  "type": "hit",
+  "title": "snare hit a.wav",
+  "creator": "lofabred",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/12/12817_29527-hq.mp3",
+  "landing": "https://freesound.org/people/lofabred/sounds/12817",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "boom",
+   "hit"
+  ]
+ }
+}

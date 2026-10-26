@@ -1,0 +1,36 @@
+{
+ "type": "tick",
+ "file": "kit\\tick\\fs-130388-clock-ticking-3.wav",
+ "verdict": "ok",
+ "build_db": -31.7,
+ "start_db": -0.0,
+ "end_db": -42.8,
+ "spikiness": 1.64,
+ "dur_s": 0.147,
+ "peak_offset_s": 0.0075,
+ "rise_ms": 1.6,
+ "centroid_hz": 2247,
+ "below150": 0.0,
+ "above6k": 0.041,
+ "flatness": 0.066,
+ "note": 94.7,
+ "start_floor_db": -42.7,
+ "source": {
+  "id": "130388",
+  "type": "tick",
+  "title": "Clock ticking",
+  "creator": "olver",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/130/130388_2037384-hq.mp3",
+  "landing": "https://freesound.org/people/olver/sounds/130388",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "tick"
+  ]
+ }
+}

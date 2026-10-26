@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-423458-low-pitched-boom-noise-1.wav",
+ "verdict": "ok",
+ "build_db": -16.8,
+ "start_db": -0.0,
+ "end_db": -27.9,
+ "spikiness": 2.36,
+ "dur_s": 3.099,
+ "peak_offset_s": 0.0157,
+ "rise_ms": 12.4,
+ "centroid_hz": 115,
+ "below150": 0.736,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -19.8,
+ "source": {
+  "id": "423458",
+  "type": "boom",
+  "title": "Low Pitched Boom Noise",
+  "creator": "soapybubl",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/423/423458_8289403-hq.mp3",
+  "landing": "https://freesound.org/people/soapybubl/sounds/423458",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "low",
+   "boom"
+  ]
+ }
+}

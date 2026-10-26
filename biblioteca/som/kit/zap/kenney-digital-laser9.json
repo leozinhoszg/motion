@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-laser9.wav",
+ "verdict": "ok",
+ "build_db": -28.9,
+ "start_db": -0.0,
+ "end_db": -32.7,
+ "spikiness": 1.31,
+ "dur_s": 0.626,
+ "peak_offset_s": 0.055,
+ "rise_ms": 52.1,
+ "centroid_hz": 818,
+ "below150": 0.069,
+ "above6k": 0.005,
+ "flatness": 0.017,
+ "note": null,
+ "start_floor_db": -9.8,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/laser9.ogg"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-interface-switch-001.wav",
+ "verdict": "ok",
+ "build_db": -13.4,
+ "start_db": -1.0,
+ "end_db": -34.6,
+ "spikiness": 2.65,
+ "dur_s": 0.034,
+ "peak_offset_s": 0.0073,
+ "rise_ms": 1.7,
+ "centroid_hz": 4312,
+ "below150": 0.0,
+ "above6k": 0.027,
+ "flatness": 0.009,
+ "note": 108.6,
+ "start_floor_db": -66.9,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/switch_001.ogg"
+ }
+}

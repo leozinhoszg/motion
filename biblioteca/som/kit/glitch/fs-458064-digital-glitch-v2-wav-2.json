@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-458064-digital-glitch-v2-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -36.2,
+ "start_db": -0.3,
+ "end_db": -47.2,
+ "spikiness": 1.92,
+ "dur_s": 0.191,
+ "peak_offset_s": 0.02,
+ "rise_ms": 13.9,
+ "centroid_hz": 1961,
+ "below150": 0.209,
+ "above6k": 0.089,
+ "flatness": 0.188,
+ "note": null,
+ "start_floor_db": -24.9,
+ "source": {
+  "id": "458064",
+  "type": "glitch",
+  "title": "Digital Glitch_v2.wav",
+  "creator": "tadaizm",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/458/458064_1316332-hq.mp3",
+  "landing": "https://freesound.org/people/tadaizm/sounds/458064",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "digital",
+   "glitch"
+  ]
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "passed": true,
+ "results": [
+  {
+   "check": "offset",
+   "status": "pass",
+   "detail": "encoded audio vs mix.wav: worst 0 samples (0.00 ms), lags [0, 0, 0]"
+  },
+  {
+   "check": "loudness",
+   "status": "pass",
+   "detail": "integrated -14.08 LUFS, target -14"
+  },
+  {
+   "check": "true peak",
+   "status": "pass",
+   "detail": "-2.00 dBTP (limit -1.0)"
+  },
+  {
+   "check": "picture card",
+   "status": "pass",
+   "detail": "move at frame 38: motion peak at frame 38"
+  },
+  {
+   "check": "picture result",
+   "status": "pass",
+   "detail": "move at frame 134: motion peak at frame 136"
+  },
+  {
+   "check": "picture line",
+   "status": "pass",
+   "detail": "move at frame 149: motion peak at frame 151"
+  },
+  {
+   "check": "picture logo",
+   "status": "pass",
+   "detail": "appear at frame 204: change at frame 205 (3.51 vs local 0.21)"
+  },
+  {
+   "check": "sync card",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible card",
+   "status": "pass",
+   "detail": "stands out by 1.9 dB in 4000-8000 Hz over music+voice"
+  },
+  {
+   "check": "sync key1",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible key1",
+   "status": "pass",
+   "detail": "stands out by 6.0 dB in 4000-8000 Hz over music+voice"
+  },
+  {
+   "check": "sync key2",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible key2",
+   "status": "pass",
+   "detail": "stands out by 2.8 dB in 4000-8000 Hz over music+voice"
+  },
+  {
+   "check": "sync key3",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible key3",
+   "status": "pass",
+   "detail": "stands out by 6.4 dB in 4000-8000 Hz over music+voice"
+  },
+  {
+   "check": "sync key4",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible key4",
+   "status": "pass",
+   "detail": "stands out by 6.3 dB in 4000-8000 Hz over music+voice"
+  },
+  {
+   "check": "sync key5",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible key5",
+   "status": "pass",
+   "detail": "stands out by 2.3 dB in 8000-16000 Hz over music+voice"
+  },
+  {
+   "check": "sync click",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible click",
+   "status": "pass",
+   "detail": "stands out by 1.7 dB in 500-1000 Hz over music+voice"
+  },
+  {
+   "check": "sync result",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible result",
+   "status": "pass",
+   "detail": "stands out by 3.5 dB in 125-250 Hz over music+voice"
+  },
+  {
+   "check": "hero body result",
+   "status": "pass",
+   "detail": "main band 125-250 Hz lifted 3.5 dB (needs 3)"
+  },
+  {
+   "check": "sync line",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible line",
+   "status": "pass",
+   "detail": "stands out by 2.2 dB in 4000-8000 Hz over music+voice"
+  },
+  {
+   "check": "sync logo",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible logo",
+   "status": "pass",
+   "detail": "stands out by 2.5 dB in 2000-4000 Hz over music+voice"
+  },
+  {
+   "check": "sync logo-rise",
+   "status": "pass",
+   "detail": "peak 0.00 frames from its cue"
+  },
+  {
+   "check": "audible logo-rise",
+   "status": "pass",
+   "detail": "stands out by 3.5 dB in 2000-4000 Hz over music+voice"
+  },
+  {
+   "check": "music",
+   "status": "pass",
+   "detail": "median -13.1 LUFS short-term; unplanned dips at []"
+  },
+  {
+   "check": "silence",
+   "status": "pass",
+   "detail": "none"
+  }
+ ]
+}

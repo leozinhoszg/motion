@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-443494-thud2-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -24.4,
+ "start_db": -0.0,
+ "end_db": -35.2,
+ "spikiness": 1.46,
+ "dur_s": 0.361,
+ "peak_offset_s": 0.0173,
+ "rise_ms": 5.6,
+ "centroid_hz": 162,
+ "below150": 0.757,
+ "above6k": 0.003,
+ "flatness": 0.012,
+ "note": null,
+ "start_floor_db": -42.8,
+ "source": {
+  "id": "443494",
+  "type": "hit",
+  "title": "thud2.wav",
+  "creator": "Topschool",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/443/443494_6590186-hq.mp3",
+  "landing": "https://freesound.org/people/Topschool/sounds/443494",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "heavy",
+   "impact"
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-395369-swish-4-1.wav",
+ "verdict": "ok",
+ "build_db": -11.4,
+ "start_db": -12.8,
+ "end_db": -16.3,
+ "spikiness": 1.43,
+ "dur_s": 0.156,
+ "peak_offset_s": 0.0458,
+ "rise_ms": 35.8,
+ "centroid_hz": 1948,
+ "below150": 0.001,
+ "above6k": 0.084,
+ "flatness": 0.186,
+ "note": null,
+ "start_floor_db": -27.2,
+ "source": {
+  "id": "395369",
+  "type": "swish",
+  "title": "Swish 4",
+  "creator": "ihitokage",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/395/395369_1675920-hq.mp3",
+  "landing": "https://freesound.org/people/ihitokage/sounds/395369",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "swish"
+  ]
+ }
+}

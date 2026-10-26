@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-power-up8.wav",
+ "verdict": "ok",
+ "build_db": -8.7,
+ "start_db": -0.0,
+ "end_db": -11.0,
+ "spikiness": 1.17,
+ "dur_s": 0.265,
+ "peak_offset_s": 0.0114,
+ "rise_ms": 1.8,
+ "centroid_hz": 3463,
+ "below150": 0.0,
+ "above6k": 0.219,
+ "flatness": 0.003,
+ "note": 92.0,
+ "start_floor_db": -34.9,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/powerUp8.ogg"
+ }
+}

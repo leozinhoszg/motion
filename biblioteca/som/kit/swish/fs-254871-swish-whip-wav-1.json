@@ -1,0 +1,36 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-254871-swish-whip-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -11.8,
+ "start_db": -13.4,
+ "end_db": -18.2,
+ "spikiness": 1.48,
+ "dur_s": 0.108,
+ "peak_offset_s": 0.043,
+ "rise_ms": 36.9,
+ "centroid_hz": 1505,
+ "below150": 0.0,
+ "above6k": 0.012,
+ "flatness": 0.043,
+ "note": null,
+ "start_floor_db": -27.6,
+ "source": {
+  "id": "254871",
+  "type": "swish",
+  "title": "swish whip.wav",
+  "creator": "blukotek",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/254/254871_4451798-hq.mp3",
+  "landing": "https://freesound.org/people/blukotek/sounds/254871",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "swish"
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "type": "shimmer",
+ "file": "kit\\shimmer\\fs-449644-transition-action-jump-pitch-1.wav",
+ "verdict": "ok",
+ "build_db": -27.8,
+ "start_db": -0.7,
+ "end_db": -33.9,
+ "spikiness": 1.54,
+ "dur_s": 0.554,
+ "peak_offset_s": 0.055,
+ "rise_ms": 19.1,
+ "centroid_hz": 2264,
+ "below150": 0.0,
+ "above6k": 0.023,
+ "flatness": 0.023,
+ "note": null,
+ "start_floor_db": -11.1,
+ "source": {
+  "id": "449644",
+  "type": "shimmer",
+  "title": "Transition,action,jump,pitch-shift,short,shimmer,whoosh,positive_r8bp.wav",
+  "creator": "CJDeets",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/449/449644_8074450-hq.mp3",
+  "landing": "https://freesound.org/people/CJDeets/sounds/449644",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "shimmer"
+  ]
+ }
+}

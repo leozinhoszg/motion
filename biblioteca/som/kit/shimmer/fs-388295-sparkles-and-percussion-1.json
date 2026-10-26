@@ -1,0 +1,34 @@
+{
+ "type": "shimmer",
+ "file": "kit\\shimmer\\fs-388295-sparkles-and-percussion-1.wav",
+ "verdict": "ok",
+ "build_db": -19.4,
+ "start_db": -0.0,
+ "end_db": -26.2,
+ "spikiness": 1.8,
+ "dur_s": 0.203,
+ "peak_offset_s": 0.0141,
+ "rise_ms": 6.8,
+ "centroid_hz": 803,
+ "below150": 0.0,
+ "above6k": 0.015,
+ "flatness": 0.009,
+ "note": 70.2,
+ "start_floor_db": -36.3,
+ "source": {
+  "id": "388295",
+  "type": "shimmer",
+  "title": "Sparkles and Percussion",
+  "creator": "onlyhereforamenbreak",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/388/388295_6475104-hq.mp3",
+  "landing": "https://freesound.org/people/onlyhereforamenbreak/sounds/388295",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "sparkle"
+  ]
+ }
+}

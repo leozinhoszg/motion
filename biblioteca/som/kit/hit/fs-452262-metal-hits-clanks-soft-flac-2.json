@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-452262-metal-hits-clanks-soft-flac-2.wav",
+ "verdict": "ok",
+ "build_db": -17.2,
+ "start_db": -0.0,
+ "end_db": -28.2,
+ "spikiness": 2.04,
+ "dur_s": 0.607,
+ "peak_offset_s": 0.0093,
+ "rise_ms": 3.6,
+ "centroid_hz": 227,
+ "below150": 0.76,
+ "above6k": 0.005,
+ "flatness": 0.03,
+ "note": null,
+ "start_floor_db": -39.9,
+ "source": {
+  "id": "452262",
+  "type": "hit",
+  "title": "metal hits clanks soft.flac",
+  "creator": "kyles",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/452/452262_612689-hq.mp3",
+  "landing": "https://freesound.org/people/kyles/sounds/452262",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "metal",
+   "hit"
+  ]
+ }
+}

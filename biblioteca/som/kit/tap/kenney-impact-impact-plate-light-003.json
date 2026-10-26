@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-plate-light-003.wav",
+ "verdict": "ok",
+ "build_db": -28.3,
+ "start_db": -0.0,
+ "end_db": -42.9,
+ "spikiness": 2.22,
+ "dur_s": 0.297,
+ "peak_offset_s": 0.007,
+ "rise_ms": 6.2,
+ "centroid_hz": 704,
+ "below150": 0.242,
+ "above6k": 0.019,
+ "flatness": 0.056,
+ "note": 42.3,
+ "start_floor_db": -9.7,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactPlate_light_003.ogg"
+ }
+}

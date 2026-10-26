@@ -1,0 +1,34 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-147285-fh-paper-swipe-surface2-shor-1.wav",
+ "verdict": "ok",
+ "build_db": -10.9,
+ "start_db": -13.2,
+ "end_db": -16.1,
+ "spikiness": 1.25,
+ "dur_s": 0.554,
+ "peak_offset_s": 0.297,
+ "rise_ms": 276.0,
+ "centroid_hz": 5544,
+ "below150": 0.026,
+ "above6k": 0.396,
+ "flatness": 0.461,
+ "note": 46.7,
+ "start_floor_db": -23.4,
+ "source": {
+  "id": "147285",
+  "type": "whoosh",
+  "title": "fh_Paper_Swipe_Surface2_Short_01.wav",
+  "creator": "Frank1100",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/147/147285_2627742-hq.mp3",
+  "landing": "https://freesound.org/people/Frank1100/sounds/147285",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "swipe"
+  ]
+ }
+}

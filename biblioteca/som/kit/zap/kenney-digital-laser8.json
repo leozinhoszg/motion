@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-laser8.wav",
+ "verdict": "ok",
+ "build_db": -12.6,
+ "start_db": -0.7,
+ "end_db": -23.6,
+ "spikiness": 1.54,
+ "dur_s": 0.311,
+ "peak_offset_s": 0.0361,
+ "rise_ms": 29.8,
+ "centroid_hz": 1126,
+ "below150": 0.0,
+ "above6k": 0.001,
+ "flatness": 0.003,
+ "note": null,
+ "start_floor_db": -22.6,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/laser8.ogg"
+ }
+}

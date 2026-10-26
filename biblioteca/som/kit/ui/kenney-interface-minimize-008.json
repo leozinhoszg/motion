@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-minimize-008.wav",
+ "verdict": "ok",
+ "build_db": -4.6,
+ "start_db": -12.0,
+ "end_db": -9.4,
+ "spikiness": 1.42,
+ "dur_s": 0.207,
+ "peak_offset_s": 0.0546,
+ "rise_ms": 44.8,
+ "centroid_hz": 346,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 65.1,
+ "start_floor_db": -30.7,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/minimize_008.ogg"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-130855-cold-cave-a-mp3-1.wav",
+ "verdict": "ok",
+ "build_db": -19.0,
+ "start_db": -0.0,
+ "end_db": -26.4,
+ "spikiness": 1.86,
+ "dur_s": 3.783,
+ "peak_offset_s": 0.0296,
+ "rise_ms": 26.6,
+ "centroid_hz": 112,
+ "below150": 0.786,
+ "above6k": 0.0,
+ "flatness": 0.009,
+ "note": 51.5,
+ "start_floor_db": -16.3,
+ "source": {
+  "id": "130855",
+  "type": "hit",
+  "title": "Cold Cave A.mp3",
+  "creator": "DJmastah",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/130/130855_2088386-hq.mp3",
+  "landing": "https://freesound.org/people/DJmastah/sounds/130855",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "boom",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-262448-orchestra-stab-mp3-2.wav",
+ "verdict": "ok",
+ "build_db": -18.1,
+ "start_db": -0.0,
+ "end_db": -26.8,
+ "spikiness": 2.17,
+ "dur_s": 1.412,
+ "peak_offset_s": 0.0232,
+ "rise_ms": 20.8,
+ "centroid_hz": 74,
+ "below150": 0.916,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 60.0,
+ "start_floor_db": -16.4,
+ "source": {
+  "id": "262448",
+  "type": "hit",
+  "title": "Orchestra Stab.mp3",
+  "creator": "FastForwardSoundEffects",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/262/262448_4908927-hq.mp3",
+  "landing": "https://freesound.org/people/FastForwardSoundEffects/sounds/262448",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

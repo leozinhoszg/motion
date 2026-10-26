@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-573245-dark-timpani-1-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -23.8,
+ "start_db": -0.0,
+ "end_db": -33.9,
+ "spikiness": 1.59,
+ "dur_s": 0.86,
+ "peak_offset_s": 0.0234,
+ "rise_ms": 13.8,
+ "centroid_hz": 104,
+ "below150": 0.925,
+ "above6k": 0.0,
+ "flatness": 0.007,
+ "note": 45.6,
+ "start_floor_db": -68.4,
+ "source": {
+  "id": "573245",
+  "type": "hit",
+  "title": "Dark Timpani 1.wav",
+  "creator": "Sorinious_Genious",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/573/573245_12517458-hq.mp3",
+  "landing": "https://freesound.org/people/Sorinious_Genious/sounds/573245",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

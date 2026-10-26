@@ -1,0 +1,34 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-330997-stick-hitting-a-dreadlock-sm-1.wav",
+ "verdict": "ok",
+ "build_db": -26.5,
+ "start_db": -0.0,
+ "end_db": -37.0,
+ "spikiness": 2.49,
+ "dur_s": 0.166,
+ "peak_offset_s": 0.0087,
+ "rise_ms": 2.3,
+ "centroid_hz": 196,
+ "below150": 0.45,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -45.6,
+ "source": {
+  "id": "330997",
+  "type": "thump",
+  "title": "Stick Hitting a Dreadlock (Small thud)",
+  "creator": "Rudmer_Rotteveel",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/330/330997_4921277-hq.mp3",
+  "landing": "https://freesound.org/people/Rudmer_Rotteveel/sounds/330997",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "thud"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-395263-sword-movement-single-4-1.wav",
+ "verdict": "ok",
+ "build_db": -14.5,
+ "start_db": -14.5,
+ "end_db": -17.7,
+ "spikiness": 1.64,
+ "dur_s": 0.086,
+ "peak_offset_s": 0.0348,
+ "rise_ms": 29.5,
+ "centroid_hz": 1965,
+ "below150": 0.0,
+ "above6k": 0.01,
+ "flatness": 0.023,
+ "note": null,
+ "start_floor_db": -24.3,
+ "source": {
+  "id": "395263",
+  "type": "swish",
+  "title": "Sword Movement Single 4",
+  "creator": "deleted_user_6479820",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/395/395263_6479820-hq.mp3",
+  "landing": "https://freesound.org/people/deleted_user_6479820/sounds/395263",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "sword",
+   "swish"
+  ]
+ }
+}

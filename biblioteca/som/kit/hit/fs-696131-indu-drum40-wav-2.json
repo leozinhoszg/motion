@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-696131-indu-drum40-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -22.4,
+ "start_db": -0.0,
+ "end_db": -34.7,
+ "spikiness": 1.47,
+ "dur_s": 2.356,
+ "peak_offset_s": 0.055,
+ "rise_ms": 48.2,
+ "centroid_hz": 2100,
+ "below150": 0.001,
+ "above6k": 0.0,
+ "flatness": 0.005,
+ "note": 98.0,
+ "start_floor_db": -11.1,
+ "source": {
+  "id": "696131",
+  "type": "hit",
+  "title": "InduDrum40.wav",
+  "creator": "piwilliwillski",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/696/696131_3049306-hq.mp3",
+  "landing": "https://freesound.org/people/piwilliwillski/sounds/696131",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "drum",
+   "hit",
+   "cinematic"
+  ]
+ }
+}

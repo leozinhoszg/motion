@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-81147-sub-oceano-c-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -27.4,
+ "start_db": -0.0,
+ "end_db": -33.0,
+ "spikiness": 1.42,
+ "dur_s": 2.156,
+ "peak_offset_s": 0.0362,
+ "rise_ms": 29.8,
+ "centroid_hz": 52,
+ "below150": 1.0,
+ "above6k": 0.0,
+ "flatness": 0.09,
+ "note": null,
+ "start_floor_db": -94.0,
+ "source": {
+  "id": "81147",
+  "type": "boom",
+  "title": "SUB OCEANO C.wav",
+  "creator": "uzerx",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/81/81147_704648-hq.mp3",
+  "landing": "https://freesound.org/people/uzerx/sounds/81147",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "sub",
+   "drop"
+  ]
+ }
+}

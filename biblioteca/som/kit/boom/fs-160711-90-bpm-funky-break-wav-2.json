@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-160711-90-bpm-funky-break-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -19.3,
+ "start_db": -0.0,
+ "end_db": -31.1,
+ "spikiness": 1.65,
+ "dur_s": 1.242,
+ "peak_offset_s": 0.0232,
+ "rise_ms": 8.3,
+ "centroid_hz": 149,
+ "below150": 0.816,
+ "above6k": 0.002,
+ "flatness": 0.042,
+ "note": null,
+ "start_floor_db": -240.0,
+ "source": {
+  "id": "160711",
+  "type": "boom",
+  "title": "90 bpm funky break.wav",
+  "creator": "Snapper4298",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/160/160711_33044-hq.mp3",
+  "landing": "https://freesound.org/people/Snapper4298/sounds/160711",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "sub",
+   "boom"
+  ]
+ }
+}

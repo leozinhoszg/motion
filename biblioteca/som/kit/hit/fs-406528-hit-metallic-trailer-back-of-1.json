@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-406528-hit-metallic-trailer-back-of-1.wav",
+ "verdict": "ok",
+ "build_db": -37.3,
+ "start_db": -0.0,
+ "end_db": -58.6,
+ "spikiness": 2.02,
+ "dur_s": 2.99,
+ "peak_offset_s": 0.005,
+ "rise_ms": 4.6,
+ "centroid_hz": 3103,
+ "below150": 0.052,
+ "above6k": 0.177,
+ "flatness": 0.178,
+ "note": 66.5,
+ "start_floor_db": -4.2,
+ "source": {
+  "id": "406528",
+  "type": "hit",
+  "title": "hit - metallic - trailer - back of metal trailer 01.wav",
+  "creator": "Anthousai",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/406/406528_5923045-hq.mp3",
+  "landing": "https://freesound.org/people/Anthousai/sounds/406528",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "trailer",
+   "hit"
+  ]
+ }
+}

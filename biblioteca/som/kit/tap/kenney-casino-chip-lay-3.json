@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-casino-chip-lay-3.wav",
+ "verdict": "ok",
+ "build_db": -23.7,
+ "start_db": -0.4,
+ "end_db": -37.7,
+ "spikiness": 3.19,
+ "dur_s": 0.164,
+ "peak_offset_s": 0.0162,
+ "rise_ms": 10.7,
+ "centroid_hz": 534,
+ "below150": 0.031,
+ "above6k": 0.002,
+ "flatness": 0.011,
+ "note": 54.9,
+ "start_floor_db": -52.3,
+ "source": {
+  "pack": "casino",
+  "file": "Audio/chip-lay-3.ogg"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-phase-jump4.wav",
+ "verdict": "ok",
+ "build_db": -27.8,
+ "start_db": -0.0,
+ "end_db": -38.5,
+ "spikiness": 1.19,
+ "dur_s": 0.189,
+ "peak_offset_s": 0.0074,
+ "rise_ms": 1.8,
+ "centroid_hz": 1291,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 83.1,
+ "start_floor_db": -37.9,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/phaseJump4.ogg"
+ }
+}

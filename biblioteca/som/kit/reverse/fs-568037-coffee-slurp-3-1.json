@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-568037-coffee-slurp-3-1.wav",
+ "verdict": "ok",
+ "build_db": 9.7,
+ "start_db": -12.5,
+ "end_db": -7.1,
+ "spikiness": 1.73,
+ "dur_s": 1.054,
+ "peak_offset_s": 0.8655,
+ "rise_ms": 579.7,
+ "centroid_hz": 1912,
+ "below150": 0.005,
+ "above6k": 0.096,
+ "flatness": 0.077,
+ "note": null,
+ "start_floor_db": -41.3,
+ "source": {
+  "id": "568037",
+  "type": "reverse",
+  "title": "coffee slurp 3",
+  "creator": "benken.23",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/568/568037_12771108-hq.mp3",
+  "landing": "https://freesound.org/people/benken.23/sounds/568037",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "suck",
+   "in"
+  ]
+ }
+}

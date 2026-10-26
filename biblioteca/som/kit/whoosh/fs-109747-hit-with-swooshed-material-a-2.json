@@ -1,0 +1,34 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-109747-hit-with-swooshed-material-a-2.wav",
+ "verdict": "ok",
+ "build_db": -2.9,
+ "start_db": -14.9,
+ "end_db": -17.0,
+ "spikiness": 1.73,
+ "dur_s": 0.427,
+ "peak_offset_s": 0.2975,
+ "rise_ms": 285.8,
+ "centroid_hz": 331,
+ "below150": 0.156,
+ "above6k": 0.002,
+ "flatness": 0.004,
+ "note": null,
+ "start_floor_db": -29.5,
+ "source": {
+  "id": "109747",
+  "type": "whoosh",
+  "title": "hit with swooshed material.aiff",
+  "creator": "SoundCollectah",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/109/109747_1868848-hq.mp3",
+  "landing": "https://freesound.org/people/SoundCollectah/sounds/109747",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "swoosh"
+  ]
+ }
+}

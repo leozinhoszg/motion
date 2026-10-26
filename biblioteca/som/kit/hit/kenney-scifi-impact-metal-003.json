@@ -1,0 +1,22 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\kenney-scifi-impact-metal-003.wav",
+ "verdict": "ok",
+ "build_db": -21.7,
+ "start_db": -0.0,
+ "end_db": -29.7,
+ "spikiness": 1.95,
+ "dur_s": 0.532,
+ "peak_offset_s": 0.0316,
+ "rise_ms": 31.0,
+ "centroid_hz": 194,
+ "below150": 0.257,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -2.4,
+ "source": {
+  "pack": "scifi",
+  "file": "Audio/impactMetal_003.ogg"
+ }
+}

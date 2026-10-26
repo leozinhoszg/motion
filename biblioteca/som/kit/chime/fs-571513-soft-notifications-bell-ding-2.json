@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-571513-soft-notifications-bell-ding-2.wav",
+ "verdict": "ok",
+ "build_db": -20.3,
+ "start_db": -0.0,
+ "end_db": -30.3,
+ "spikiness": 1.7,
+ "dur_s": 0.605,
+ "peak_offset_s": 0.055,
+ "rise_ms": 53.1,
+ "centroid_hz": 2177,
+ "below150": 0.0,
+ "above6k": 0.125,
+ "flatness": 0.007,
+ "note": 86.2,
+ "start_floor_db": -12.4,
+ "source": {
+  "id": "571513",
+  "type": "chime",
+  "title": "Soft-Notifications - Bell - Ding-Dong.mp3",
+  "creator": "LegitCheese",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/571/571513_2226836-hq.mp3",
+  "landing": "https://freesound.org/people/LegitCheese/sounds/571513",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "bell",
+   "ding"
+  ]
+ }
+}

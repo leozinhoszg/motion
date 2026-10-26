@@ -1,0 +1,34 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-60002-swoosh-15-windy-1.wav",
+ "verdict": "ok",
+ "build_db": -10.2,
+ "start_db": -18.4,
+ "end_db": -15.4,
+ "spikiness": 1.6,
+ "dur_s": 0.163,
+ "peak_offset_s": 0.0597,
+ "rise_ms": 50.4,
+ "centroid_hz": 467,
+ "below150": 0.0,
+ "above6k": 0.001,
+ "flatness": 0.004,
+ "note": null,
+ "start_floor_db": -24.4,
+ "source": {
+  "id": "60002",
+  "type": "whoosh",
+  "title": "Swoosh 15 Windy",
+  "creator": "qubodup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/60/60002_71257-hq.mp3",
+  "landing": "https://freesound.org/people/qubodup/sounds/60002",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "swoosh"
+  ]
+ }
+}

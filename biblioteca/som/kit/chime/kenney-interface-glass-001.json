@@ -1,0 +1,22 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\kenney-interface-glass-001.wav",
+ "verdict": "ok",
+ "build_db": -28.9,
+ "start_db": -0.0,
+ "end_db": -38.3,
+ "spikiness": 1.49,
+ "dur_s": 0.242,
+ "peak_offset_s": 0.0134,
+ "rise_ms": 11.3,
+ "centroid_hz": 1932,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 94.5,
+ "start_floor_db": -3.8,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/glass_001.ogg"
+ }
+}

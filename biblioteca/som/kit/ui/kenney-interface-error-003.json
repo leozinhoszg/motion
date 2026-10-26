@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-error-003.wav",
+ "verdict": "ok",
+ "build_db": -27.3,
+ "start_db": -0.1,
+ "end_db": -34.0,
+ "spikiness": 1.57,
+ "dur_s": 0.333,
+ "peak_offset_s": 0.0081,
+ "rise_ms": 2.4,
+ "centroid_hz": 2347,
+ "below150": 0.0,
+ "above6k": 0.091,
+ "flatness": 0.099,
+ "note": null,
+ "start_floor_db": -38.8,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/error_003.ogg"
+ }
+}

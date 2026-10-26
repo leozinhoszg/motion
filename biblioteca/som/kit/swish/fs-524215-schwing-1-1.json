@@ -1,0 +1,35 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-524215-schwing-1-1.wav",
+ "verdict": "ok",
+ "build_db": -11.7,
+ "start_db": -12.4,
+ "end_db": -16.9,
+ "spikiness": 1.28,
+ "dur_s": 0.435,
+ "peak_offset_s": 0.1294,
+ "rise_ms": 122.4,
+ "centroid_hz": 5293,
+ "below150": 0.0,
+ "above6k": 0.321,
+ "flatness": 0.208,
+ "note": 109.7,
+ "start_floor_db": -26.0,
+ "source": {
+  "id": "524215",
+  "type": "swish",
+  "title": "Schwing 1",
+  "creator": "magnuswaker",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/524/524215_11537497-hq.mp3",
+  "landing": "https://freesound.org/people/magnuswaker/sounds/524215",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "sword",
+   "swish"
+  ]
+ }
+}

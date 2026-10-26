@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-30392-79937-glitchy-scratch-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 1.6,
+ "start_db": -3.3,
+ "end_db": -1.6,
+ "spikiness": 1.61,
+ "dur_s": 0.645,
+ "peak_offset_s": 0.2504,
+ "rise_ms": 235.6,
+ "centroid_hz": 563,
+ "below150": 0.1,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": null,
+ "start_floor_db": -23.6,
+ "source": {
+  "id": "30392",
+  "type": "glitch",
+  "title": "79937_Glitchy_Scratch.wav",
+  "creator": "hello_flowers",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/30/30392_199517-hq.mp3",
+  "landing": "https://freesound.org/people/hello_flowers/sounds/30392",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "data",
+   "glitch"
+  ]
+ }
+}

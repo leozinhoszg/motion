@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-611113-bell-ding-1-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -22.6,
+ "start_db": -0.0,
+ "end_db": -33.0,
+ "spikiness": 1.71,
+ "dur_s": 1.125,
+ "peak_offset_s": 0.0131,
+ "rise_ms": 7.3,
+ "centroid_hz": 4704,
+ "below150": 0.0,
+ "above6k": 0.522,
+ "flatness": 0.003,
+ "note": 104.8,
+ "start_floor_db": -32.3,
+ "source": {
+  "id": "611113",
+  "type": "chime",
+  "title": "bell ding 1.wav",
+  "creator": "5ro4",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/611/611113_1629501-hq.mp3",
+  "landing": "https://freesound.org/people/5ro4/sounds/611113",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "bell",
+   "ding"
+  ]
+ }
+}

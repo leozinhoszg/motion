@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-maximize-007.wav",
+ "verdict": "ok",
+ "build_db": -17.6,
+ "start_db": -0.0,
+ "end_db": -29.3,
+ "spikiness": 1.41,
+ "dur_s": 0.082,
+ "peak_offset_s": 0.0058,
+ "rise_ms": 4.5,
+ "centroid_hz": 2277,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": null,
+ "start_floor_db": -3.9,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/maximize_007.ogg"
+ }
+}

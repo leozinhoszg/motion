@@ -1,0 +1,34 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-244249-impact-riser-01-1.wav",
+ "verdict": "ok",
+ "build_db": 12.8,
+ "start_db": -12.8,
+ "end_db": -1.6,
+ "spikiness": 1.7,
+ "dur_s": 6.2,
+ "peak_offset_s": 5.3834,
+ "rise_ms": 5070.7,
+ "centroid_hz": 324,
+ "below150": 0.762,
+ "above6k": 0.001,
+ "flatness": 0.013,
+ "note": null,
+ "start_floor_db": -33.3,
+ "source": {
+  "id": "244249",
+  "type": "riser",
+  "title": "impact riser 01",
+  "creator": "soramoosic",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/244/244249_3986112-hq.mp3",
+  "landing": "https://freesound.org/people/soramoosic/sounds/244249",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "riser"
+  ]
+ }
+}

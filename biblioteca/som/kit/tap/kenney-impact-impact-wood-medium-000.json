@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-wood-medium-000.wav",
+ "verdict": "ok",
+ "build_db": -53.9,
+ "start_db": -0.0,
+ "end_db": -72.5,
+ "spikiness": 2.28,
+ "dur_s": 0.324,
+ "peak_offset_s": 0.0094,
+ "rise_ms": 7.6,
+ "centroid_hz": 212,
+ "below150": 0.118,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": null,
+ "start_floor_db": -4.2,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactWood_medium_000.ogg"
+ }
+}

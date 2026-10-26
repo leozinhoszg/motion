@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-51117-sounds-for-earthquakes-spoon-3.wav",
+ "verdict": "ok",
+ "build_db": -8.4,
+ "start_db": -0.0,
+ "end_db": -10.0,
+ "spikiness": 1.46,
+ "dur_s": 1.5,
+ "peak_offset_s": 0.0553,
+ "rise_ms": 53.8,
+ "centroid_hz": 1675,
+ "below150": 0.004,
+ "above6k": 0.011,
+ "flatness": 0.024,
+ "note": null,
+ "start_floor_db": -14.2,
+ "source": {
+  "id": "51117",
+  "type": "glitch",
+  "title": "Sounds For Earthquakes - Spoon Cup Plate.wav",
+  "creator": "RutgerMuller",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/51/51117_179538-hq.mp3",
+  "landing": "https://freesound.org/people/RutgerMuller/sounds/51117",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

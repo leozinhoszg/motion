@@ -1,0 +1,36 @@
+{
+ "type": "key",
+ "file": "kit\\key\\fs-539146-keyboard-typing-001-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -36.2,
+ "start_db": -5.9,
+ "end_db": -38.4,
+ "spikiness": 2.53,
+ "dur_s": 0.067,
+ "peak_offset_s": 0.0163,
+ "rise_ms": 10.9,
+ "centroid_hz": 3281,
+ "below150": 0.0,
+ "above6k": 0.053,
+ "flatness": 0.157,
+ "note": null,
+ "start_floor_db": -65.2,
+ "source": {
+  "id": "539146",
+  "type": "key",
+  "title": "Keyboard Typing 001.wav",
+  "creator": "ristooooo1",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/539/539146_6205597-hq.mp3",
+  "landing": "https://freesound.org/people/ristooooo1/sounds/539146",
+  "k": 3,
+  "keep": [
+   1,
+   2
+  ],
+  "tags": [
+   "typewriter",
+   "key"
+  ]
+ }
+}

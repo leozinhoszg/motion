@@ -1,0 +1,34 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-320827-snare-stutter-slice-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -0.2,
+ "start_db": -2.0,
+ "end_db": -17.6,
+ "spikiness": 1.61,
+ "dur_s": 0.486,
+ "peak_offset_s": 0.427,
+ "rise_ms": 130.6,
+ "centroid_hz": 229,
+ "below150": 0.294,
+ "above6k": 0.001,
+ "flatness": 0.003,
+ "note": 53.0,
+ "start_floor_db": -16.5,
+ "source": {
+  "id": "320827",
+  "type": "glitch",
+  "title": "Snare Stutter Slice.wav",
+  "creator": "johnnypanic",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/320/320827_24119-hq.mp3",
+  "landing": "https://freesound.org/people/johnnypanic/sounds/320827",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

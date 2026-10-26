@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-369145-glitch-noise-1-electrical-tr-2.wav",
+ "verdict": "ok",
+ "build_db": -2.9,
+ "start_db": -0.0,
+ "end_db": -2.4,
+ "spikiness": 2.13,
+ "dur_s": 1.383,
+ "peak_offset_s": 0.056,
+ "rise_ms": 52.3,
+ "centroid_hz": 7985,
+ "below150": 0.006,
+ "above6k": 0.607,
+ "flatness": 0.33,
+ "note": 119.4,
+ "start_floor_db": -19.3,
+ "source": {
+  "id": "369145",
+  "type": "glitch",
+  "title": "Glitch Noise 1 - (Electrical, Transmission, Perturbation...)",
+  "creator": "Flying_Deer_Fx",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/369/369145_6812364-hq.mp3",
+  "landing": "https://freesound.org/people/Flying_Deer_Fx/sounds/369145",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

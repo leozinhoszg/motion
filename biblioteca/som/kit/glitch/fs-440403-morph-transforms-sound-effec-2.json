@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-440403-morph-transforms-sound-effec-2.wav",
+ "verdict": "ok",
+ "build_db": -9.3,
+ "start_db": -0.0,
+ "end_db": -20.0,
+ "spikiness": 1.8,
+ "dur_s": 1.5,
+ "peak_offset_s": 0.0606,
+ "rise_ms": 38.8,
+ "centroid_hz": 631,
+ "below150": 0.061,
+ "above6k": 0.001,
+ "flatness": 0.005,
+ "note": 54.5,
+ "start_floor_db": -13.5,
+ "source": {
+  "id": "440403",
+  "type": "glitch",
+  "title": "Morph transforms sound effect 18.wav",
+  "creator": "AudioPapkin",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/440/440403_8698658-hq.mp3",
+  "landing": "https://freesound.org/people/AudioPapkin/sounds/440403",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch",
+   "hit"
+  ]
+ }
+}

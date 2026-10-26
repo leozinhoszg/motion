@@ -1,0 +1,35 @@
+{
+ "type": "paper",
+ "file": "kit\\paper\\fs-614080-page-turn-2-2.wav",
+ "verdict": "ok",
+ "build_db": -12.0,
+ "start_db": -18.4,
+ "end_db": -21.5,
+ "spikiness": 2.22,
+ "dur_s": 0.092,
+ "peak_offset_s": 0.042,
+ "rise_ms": 31.2,
+ "centroid_hz": 2757,
+ "below150": 0.0,
+ "above6k": 0.006,
+ "flatness": 0.011,
+ "note": null,
+ "start_floor_db": -34.9,
+ "source": {
+  "id": "614080",
+  "type": "paper",
+  "title": "Page Turn 2",
+  "creator": "mateusboga",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/614/614080_2476748-hq.mp3",
+  "landing": "https://freesound.org/people/mateusboga/sounds/614080",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "page",
+   "turn"
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-349314-brown-noise-10s-wav-3.wav",
+ "verdict": "ok",
+ "build_db": 0.3,
+ "start_db": -1.2,
+ "end_db": -0.1,
+ "spikiness": 2.0,
+ "dur_s": 0.884,
+ "peak_offset_s": 0.4464,
+ "rise_ms": 349.4,
+ "centroid_hz": 444,
+ "below150": 0.392,
+ "above6k": 0.01,
+ "flatness": 0.028,
+ "note": null,
+ "start_floor_db": -9.7,
+ "source": {
+  "id": "349314",
+  "type": "glitch",
+  "title": "BROWN_NOISE-10s.wav",
+  "creator": "newagesoup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/349/349314_4067257-hq.mp3",
+  "landing": "https://freesound.org/people/newagesoup/sounds/349314",
+  "k": 3,
+  "keep": [
+   0,
+   2
+  ],
+  "tags": [
+   "digital",
+   "glitch"
+  ]
+ }
+}

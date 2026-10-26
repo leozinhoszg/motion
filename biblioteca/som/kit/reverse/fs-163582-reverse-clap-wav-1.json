@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-163582-reverse-clap-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 8.2,
+ "start_db": -16.1,
+ "end_db": -0.0,
+ "spikiness": 1.45,
+ "dur_s": 2.852,
+ "peak_offset_s": 2.6274,
+ "rise_ms": 2531.3,
+ "centroid_hz": 3789,
+ "below150": 0.0,
+ "above6k": 0.166,
+ "flatness": 0.154,
+ "note": 85.4,
+ "start_floor_db": -25.6,
+ "source": {
+  "id": "163582",
+  "type": "reverse",
+  "title": "reverse clap.wav",
+  "creator": ".Andre_Onate",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/163/163582_2448533-hq.mp3",
+  "landing": "https://freesound.org/people/.Andre_Onate/sounds/163582",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "whoosh"
+  ]
+ }
+}

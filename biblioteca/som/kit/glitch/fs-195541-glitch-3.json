@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-195541-glitch-3.wav",
+ "verdict": "ok",
+ "build_db": -0.2,
+ "start_db": -0.0,
+ "end_db": -1.0,
+ "spikiness": 1.37,
+ "dur_s": 1.5,
+ "peak_offset_s": 0.055,
+ "rise_ms": 54.1,
+ "centroid_hz": 4280,
+ "below150": 0.0,
+ "above6k": 0.188,
+ "flatness": 0.002,
+ "note": 108.9,
+ "start_floor_db": -7.9,
+ "source": {
+  "id": "195541",
+  "type": "glitch",
+  "title": "glitch",
+  "creator": "mjan1",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/195/195541_3336016-hq.mp3",
+  "landing": "https://freesound.org/people/mjan1/sounds/195541",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

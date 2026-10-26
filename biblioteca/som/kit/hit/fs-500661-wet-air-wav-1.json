@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-500661-wet-air-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -19.1,
+ "start_db": -0.0,
+ "end_db": -24.1,
+ "spikiness": 1.4,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.055,
+ "rise_ms": 36.4,
+ "centroid_hz": 836,
+ "below150": 0.313,
+ "above6k": 0.005,
+ "flatness": 0.011,
+ "note": 42.0,
+ "start_floor_db": -9.4,
+ "source": {
+  "id": "500661",
+  "type": "hit",
+  "title": "Wet Air.wav",
+  "creator": "Reg1n0ld",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/500/500661_10846245-hq.mp3",
+  "landing": "https://freesound.org/people/Reg1n0ld/sounds/500661",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

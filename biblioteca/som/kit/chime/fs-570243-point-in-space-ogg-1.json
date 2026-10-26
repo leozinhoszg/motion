@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-570243-point-in-space-ogg-1.wav",
+ "verdict": "ok",
+ "build_db": -25.5,
+ "start_db": -0.0,
+ "end_db": -34.5,
+ "spikiness": 1.38,
+ "dur_s": 0.719,
+ "peak_offset_s": 0.0208,
+ "rise_ms": 14.3,
+ "centroid_hz": 890,
+ "below150": 0.015,
+ "above6k": 0.003,
+ "flatness": 0.005,
+ "note": 65.9,
+ "start_floor_db": -53.0,
+ "source": {
+  "id": "570243",
+  "type": "chime",
+  "title": "point-in-space.ogg",
+  "creator": "bluetshirt",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/570/570243_7046-hq.mp3",
+  "landing": "https://freesound.org/people/bluetshirt/sounds/570243",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "notification",
+   "chime"
+  ]
+ }
+}

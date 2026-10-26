@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-392602-glitch-2.wav",
+ "verdict": "ok",
+ "build_db": 0.3,
+ "start_db": -0.0,
+ "end_db": -0.5,
+ "spikiness": 1.52,
+ "dur_s": 1.5,
+ "peak_offset_s": 0.1134,
+ "rise_ms": 111.3,
+ "centroid_hz": 1103,
+ "below150": 0.003,
+ "above6k": 0.037,
+ "flatness": 0.012,
+ "note": 64.8,
+ "start_floor_db": -16.2,
+ "source": {
+  "id": "392602",
+  "type": "glitch",
+  "title": "Glitch",
+  "creator": "Poligonstudio",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/392/392602_7383104-hq.mp3",
+  "landing": "https://freesound.org/people/Poligonstudio/sounds/392602",
+  "k": 3,
+  "keep": [
+   1,
+   2
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

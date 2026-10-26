@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-63138-sub-a-2-secs-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -16.0,
+ "start_db": -1.6,
+ "end_db": -27.0,
+ "spikiness": 1.29,
+ "dur_s": 0.488,
+ "peak_offset_s": 0.0758,
+ "rise_ms": 51.1,
+ "centroid_hz": 23,
+ "below150": 1.0,
+ "above6k": 0.0,
+ "flatness": 0.019,
+ "note": null,
+ "start_floor_db": -18.8,
+ "source": {
+  "id": "63138",
+  "type": "boom",
+  "title": "SUB A# 2 secs.wav",
+  "creator": "uzerx",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/63/63138_704648-hq.mp3",
+  "landing": "https://freesound.org/people/uzerx/sounds/63138",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "sub",
+   "drop"
+  ]
+ }
+}

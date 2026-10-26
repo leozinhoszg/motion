@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-wood-light-003.wav",
+ "verdict": "ok",
+ "build_db": -74.0,
+ "start_db": -0.0,
+ "end_db": -86.6,
+ "spikiness": 2.97,
+ "dur_s": 0.263,
+ "peak_offset_s": 0.0049,
+ "rise_ms": 3.3,
+ "centroid_hz": 312,
+ "below150": 0.002,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": 59.8,
+ "start_floor_db": -7.5,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactWood_light_003.ogg"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-133282-thump-on-carpet-2.wav",
+ "verdict": "ok",
+ "build_db": -27.4,
+ "start_db": -0.0,
+ "end_db": -38.0,
+ "spikiness": 1.94,
+ "dur_s": 0.311,
+ "peak_offset_s": 0.0161,
+ "rise_ms": 7.8,
+ "centroid_hz": 196,
+ "below150": 0.506,
+ "above6k": 0.0,
+ "flatness": 0.006,
+ "note": null,
+ "start_floor_db": -27.7,
+ "source": {
+  "id": "133282",
+  "type": "thump",
+  "title": "thump (on carpet)",
+  "creator": "animationIsaac",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/133/133282_2368212-hq.mp3",
+  "landing": "https://freesound.org/people/animationIsaac/sounds/133282",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "thump"
+  ]
+ }
+}

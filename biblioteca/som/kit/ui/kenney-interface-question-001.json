@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-question-001.wav",
+ "verdict": "ok",
+ "build_db": -20.8,
+ "start_db": -0.9,
+ "end_db": -28.4,
+ "spikiness": 1.07,
+ "dur_s": 0.365,
+ "peak_offset_s": 0.055,
+ "rise_ms": 37.9,
+ "centroid_hz": 1307,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 88.0,
+ "start_floor_db": -7.6,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/question_001.ogg"
+ }
+}

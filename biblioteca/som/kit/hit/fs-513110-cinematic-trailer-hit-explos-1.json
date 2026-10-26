@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-513110-cinematic-trailer-hit-explos-1.wav",
+ "verdict": "ok",
+ "build_db": -17.8,
+ "start_db": -0.0,
+ "end_db": -32.3,
+ "spikiness": 1.72,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0817,
+ "rise_ms": 39.0,
+ "centroid_hz": 56,
+ "below150": 0.995,
+ "above6k": 0.0,
+ "flatness": 0.007,
+ "note": null,
+ "start_floor_db": -16.5,
+ "source": {
+  "id": "513110",
+  "type": "hit",
+  "title": "Cinematic Trailer Hit Explosion CC0.mp3",
+  "creator": "Wakerone",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/513/513110_7399650-hq.mp3",
+  "landing": "https://freesound.org/people/Wakerone/sounds/513110",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

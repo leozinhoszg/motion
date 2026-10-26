@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-rpg-metal-latch.wav",
+ "verdict": "ok",
+ "build_db": -25.0,
+ "start_db": -0.0,
+ "end_db": -36.1,
+ "spikiness": 2.41,
+ "dur_s": 0.135,
+ "peak_offset_s": 0.0071,
+ "rise_ms": 1.6,
+ "centroid_hz": 5172,
+ "below150": 0.0,
+ "above6k": 0.316,
+ "flatness": 0.3,
+ "note": 94.4,
+ "start_floor_db": -34.8,
+ "source": {
+  "pack": "rpg",
+  "file": "Audio/metalLatch.ogg"
+ }
+}

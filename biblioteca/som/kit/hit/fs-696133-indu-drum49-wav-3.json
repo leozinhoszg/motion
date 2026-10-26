@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-696133-indu-drum49-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -24.3,
+ "start_db": -0.0,
+ "end_db": -30.6,
+ "spikiness": 1.12,
+ "dur_s": 2.405,
+ "peak_offset_s": 0.055,
+ "rise_ms": 36.6,
+ "centroid_hz": 263,
+ "below150": 0.001,
+ "above6k": 0.0,
+ "flatness": 0.02,
+ "note": 59.6,
+ "start_floor_db": -4.8,
+ "source": {
+  "id": "696133",
+  "type": "hit",
+  "title": "InduDrum49.wav",
+  "creator": "piwilliwillski",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/696/696133_3049306-hq.mp3",
+  "landing": "https://freesound.org/people/piwilliwillski/sounds/696133",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "drum",
+   "hit",
+   "cinematic"
+  ]
+ }
+}

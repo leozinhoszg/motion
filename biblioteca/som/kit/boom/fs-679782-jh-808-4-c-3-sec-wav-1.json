@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-679782-jh-808-4-c-3-sec-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -14.1,
+ "start_db": -0.0,
+ "end_db": -22.0,
+ "spikiness": 1.73,
+ "dur_s": 2.949,
+ "peak_offset_s": 0.0284,
+ "rise_ms": 18.3,
+ "centroid_hz": 34,
+ "below150": 0.999,
+ "above6k": 0.0,
+ "flatness": 0.012,
+ "note": 43.0,
+ "start_floor_db": -39.8,
+ "source": {
+  "id": "679782",
+  "type": "boom",
+  "title": "JH 808 4 C (3 sec).wav",
+  "creator": "Johnnie_Holiday",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/679/679782_4819210-hq.mp3",
+  "landing": "https://freesound.org/people/Johnnie_Holiday/sounds/679782",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "sub",
+   "boom"
+  ]
+ }
+}

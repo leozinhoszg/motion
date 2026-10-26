@@ -1,0 +1,162 @@
+<!doctype html>
+<!-- Launch clip de uma ação: reveal → press → result → hold → cut.
+     node render.mjs --page exemplos/launch-clip.html --fps 30 --sub 4 --out out/launch-clip.mp4   (duração vem de window.DUR)
+     .\qa.ps1 -Video out\launch-clip.mp4 -Frames 'opening=0.6,press=3.92,result=4.6,hold=5.6,closing=8.5' -Cover 5.6 -->
+
+<meta charset="utf-8">
+<style>html,body{margin:0;background:#141413}canvas{display:block}</style>
+<canvas id="c"></canvas>
+<script src="../lib/motion.js"></script>
+<script src="../lib/components.js"></script>
+<script>
+const { clamp, interpolate, spring, sp, track, rng } = Motion;
+const { timeline, readingHold, entrance, exitAlpha, drawText, drawLines, cursor, drawCursor } = Comp;
+
+const q = new URLSearchParams(location.search);
+const W = +q.get('w') || 1080, H = +q.get('h') || 1920;
+const cv = document.getElementById('c'); cv.width = W; cv.height = H;
+const g = cv.getContext('2d');
+const U = Math.min(W, H) / 1080;
+
+const HEADLINE = ['One action.', 'One launch clip.'];
+const RESULT = 'Rendered in 4.2 s.';
+const PROMPT = 'make a 15s launch reel';
+
+// Eventos em frames a 30 fps. Revisão = editar só esta tabela ("press 6 frames depois").
+// O corte vem da janela de leitura do resultado (+0,3 s de margem): sem hold curto nem tempo morto.
+const HOLD = 147, CUT = HOLD + Math.ceil((readingHold(RESULT) + 0.3) * 30);
+const E = timeline(30, { open: 0, reveal: 36, type: 51, move: 84, press: 117, result: 123, hold: HOLD, cut: CUT, end: CUT + 66 });
+const DUR = E.dur;
+
+const C = { bg: '#141413', card: '#1F1E1C', line: '#2E2D2A', ink: '#F0EEE6', mute: '#8A877E', accent: '#D97757' };
+const SERIF = 'Georgia, "Source Serif 4", serif', SANS = '"Segoe UI", system-ui, sans-serif', MONO = 'Consolas, ui-monospace, monospace';
+
+// Layout relativo: tudo derivado de W/H/U. Conteúdo crítico fora dos ~18% de baixo (UI do Reels/TikTok).
+const M = 90 * U, cardW = W - 2 * M, cardH = 820 * U, cardX = M, cardY = H * 0.5 - cardH / 2 - 20 * U;
+const btn = { cx: W / 2, cy: cardY + 400 * U };
+const bars = (() => { const r = rng(11); return Array.from({ length: 7 }, () => 0.35 + 0.65 * r()); })();
+
+function card(t) {
+  if (t < E('reveal')) return;
+  const e = entrance(t - E('reveal'), 'rise', 'default');
+  const out = exitAlpha(t, E('cut'));
+  if (out <= 0) return;
+  const ct = cursor(t, CURSOR, [E('press')]);
+  g.save();
+  g.globalAlpha = e.alpha * out;
+  g.translate(0, e.dy * U + (1 - out) * 40 * U);
+  g.fillStyle = C.card; g.strokeStyle = C.line; g.lineWidth = 2 * U;
+  g.beginPath(); g.roundRect(cardX, cardY, cardW, cardH, 36 * U); g.fill(); g.stroke();
+  for (let i = 0; i < 3; i++) { g.fillStyle = C.line; g.beginPath(); g.arc(cardX + (50 + i * 34) * U, cardY + 50 * U, 9 * U, 0, 7); g.fill(); }
+
+  // Campo de prompt digitado
+  g.fillStyle = C.mute; g.font = `600 ${30 * U}px ${SANS}`; g.fillText('PROMPT', cardX + 60 * U, cardY + 135 * U);
+  g.fillStyle = C.bg; g.beginPath(); g.roundRect(cardX + 50 * U, cardY + 160 * U, cardW - 100 * U, 110 * U, 18 * U); g.fill();
+  const n = Math.floor(interpolate(t, [E('type'), E('move') - 0.1], [0, PROMPT.length]));
+  g.fillStyle = C.ink; g.font = `${42 * U}px ${MONO}`;
+  const typed = PROMPT.slice(0, n);
+  g.fillText(typed, cardX + 85 * U, cardY + 230 * U);
+  if (t < E('press') && Math.floor(t * 2.5) % 2 === 0) {
+    g.fillStyle = C.accent; g.fillRect(cardX + 90 * U + g.measureText(typed).width, cardY + 192 * U, 4 * U, 50 * U);
+  }
+
+  // Botão que vira check: largura com spring a partir do result
+  const m = sp(t - E('result'), 'snappy');
+  const bw = (360 - 250 * m) * U, bh = 110 * U, press = 1 - 0.05 * ct.press;
+  g.save(); g.translate(btn.cx, btn.cy); g.scale(press, press);
+  g.fillStyle = C.accent; g.beginPath(); g.roundRect(-bw / 2, -bh / 2, bw, bh, bh / 2); g.fill();
+  const label = 1 - clamp((t - E('result')) / 0.08);
+  if (label > 0) { g.globalAlpha *= label; g.fillStyle = C.bg; g.font = `700 ${44 * U}px ${SANS}`; g.textAlign = 'center'; g.fillText('Render', 0, 15 * U); }
+  const chk = clamp((t - E('result') - 0.12) / 0.22);
+  if (chk > 0) {
+    g.globalAlpha = e.alpha * out; g.strokeStyle = C.bg; g.lineWidth = 10 * U; g.lineCap = 'round'; g.lineJoin = 'round';
+    const pts = [[-20, 2], [-5, 18], [24, -16]].map(([x, y]) => [x * U, y * U]);
+    const seg1 = clamp(chk / 0.4), seg2 = clamp((chk - 0.4) / 0.6);
+    g.beginPath(); g.moveTo(...pts[0]);
+    g.lineTo(pts[0][0] + (pts[1][0] - pts[0][0]) * seg1, pts[0][1] + (pts[1][1] - pts[0][1]) * seg1);
+    if (seg2 > 0) g.lineTo(pts[1][0] + (pts[2][0] - pts[1][0]) * seg2, pts[1][1] + (pts[2][1] - pts[1][1]) * seg2);
+    g.stroke();
+  }
+  g.restore();
+
+  // Resultado: barras em stagger
+  const baseY = cardY + cardH - 70 * U, maxH = 220 * U, gap = 24 * U, bwid = (cardW - 100 * U - gap * 6) / 7;
+  bars.forEach((v, i) => {
+    const s = spring(t - E('result') - 0.15 - i * 0.05, 260, 20);
+    if (s <= 0) return;
+    g.fillStyle = i === 4 ? C.accent : C.ink;
+    g.fillRect(cardX + 50 * U + i * (bwid + gap), baseY - v * maxH * s, bwid, v * maxH * s);
+  });
+  g.fillStyle = C.mute; g.font = `600 ${28 * U}px ${SANS}`;
+  g.globalAlpha *= clamp((t - E('result') - 0.3) / 0.2);
+  g.fillText('FRAMES RENDERED', cardX + 50 * U, cardY + 520 * U);
+  g.restore();
+}
+
+// Trajeto do cursor: fora da tela → botão → descansa à direita, longe do resultado
+const CURSOR = [[0, W + 80 * U, H * 0.92], [E('move'), btn.cx + 20 * U, btn.cy + 10 * U], [E('result') + 0.35, W - 150 * U, btn.cy + 30 * U]];
+
+function closing(t) {
+  const t0 = E('cut') + 0.1;
+  if (t < t0) return;
+  const y = H * 0.48;
+  const e = entrance(t - t0, 'scale', 'heavy');
+  g.save(); g.globalAlpha = e.alpha;
+  g.translate(M + 70 * U, y - 35 * U); g.scale(e.scale, e.scale);
+  g.fillStyle = C.accent; g.beginPath(); g.roundRect(-70 * U, -70 * U, 140 * U, 140 * U, 32 * U); g.fill();
+  g.restore();
+  drawText(g, 'motion studio', M + 190 * U, y, t, { font: `700 ${104 * U}px ${SERIF}`, tIn: t0 + 0.12, U });
+  drawText(g, 'brief → build → review → reuse', M + 4 * U, y + 170 * U, t, { font: `500 ${40 * U}px ${SANS}`, color: C.mute, kind: 'rise', preset: 'default', tIn: t0 + 0.4, U });
+}
+
+function draw(t) {
+  g.fillStyle = C.bg; g.fillRect(0, 0, W, H);
+  drawLines(g, HEADLINE, M, cardY - 260 * U, 118 * U, t, { font: `700 ${112 * U}px ${SERIF}`, tIn: 0, tOut: E('cut'), U });
+  card(t);
+  drawText(g, RESULT, M, cardY + cardH + 135 * U, t, { font: `700 ${84 * U}px ${SERIF}`, tIn: E('hold'), tOut: E('cut'), U });
+  drawText(g, 'same timeline → 9:16 · 1:1 · 16:9', M, cardY + cardH + 205 * U, t, { font: `500 ${36 * U}px ${SANS}`, color: C.mute, kind: 'rise', preset: 'default', tIn: E('hold') + 0.15, tOut: E('cut'), U });
+  if (t > E('move') - 0.1 && t < E('cut') + 0.25) drawCursor(g, cursor(t, CURSOR, [E('press')]), U, { alpha: exitAlpha(t, E('cut')) });
+  closing(t);
+}
+
+// Cues de som (opus-sound-layer), derivados da timeline e dos springs — nunca frames digitados.
+// Só ações reais. visual: move = pico de velocidade · land = movimento para · appear = elemento surge.
+// Família sonora: plástico macio de UI + papel + baque macio. Ids escolhidos com sfx.py browse.
+const { springPeakSpeed: peak, springSettle: settle } = Comp;
+// Teclas a ≥ 0,15 s umas das outras (abaixo disso o mix.py atenua cues agrupados em x0.6)
+const typeEnd = E('move') - 0.1, keyEvery = 4;
+// O movimento visível do resultado são as barras (stagger 0,05 s, spring 260/20): pico na barra do meio
+const barsPeak = E('result') + 0.15 + 3 * 0.05 + peak(260, 20);
+const SND = {
+  // keyboard5 (~2 kHz) sumia sob a guitarra em 1-2 kHz (QA: 1,3 dB); typing-001 (~3,4 kHz) fica acima dela
+  key: ['key/fs-539146-keyboard-typing-001-wav-3', 'key/fs-180974-key-1'],
+  click: 'click/fs-399443-mouse-clicks',
+  card: 'swish/kenney-casino-card-slide-4',
+  page: 'paper/fs-151221-page-turn-2-2',
+  heroResult: 'thump/fs-496187-light-body-thud-on-clothing-1+tap/kenney-casino-dice-shake-3',
+  heroLogo: 'thump/fs-187136-body-fall-wav-1+tap/kenney-casino-chips-collide-3',
+  swell: 'reverse/fs-503808-reverse-fx-5-wav-1',
+};
+const CUES = [
+  { id: 'card', t: E('reveal') + peak(170, 26), sound: SND.card, visual: 'move' },
+  ...Array.from({ length: Math.floor(PROMPT.length / keyEvery) }, (_, i) => ({
+    id: `key${i + 1}`, t: interpolate((i + 1) * keyEvery, [0, PROMPT.length], [E('type'), typeEnd]), sound: SND.key[i % 2] })),
+  { id: 'click', t: E('press'), sound: SND.click },
+  // Hero: o resultado. stop_before = música para 0,4 s antes (pausa antes do reveal)
+  { id: 'result', t: barsPeak, sound: SND.heroResult, weight: 'hero', visual: 'move', stop_before: true },
+  { id: 'line', t: E('hold') + peak(220, 22), sound: SND.page, visual: 'move' },
+  // Um hero a cada ~4 s: o logo entra a 2,4 s do resultado, então é support. Ele surge (appear) junto com a saída do card.
+  { id: 'logo', t: E('cut') + 0.1, sound: SND.heroLogo, visual: 'appear', stop_before: true, build: true },
+  { id: 'logo-rise', t: E('cut') + 0.1, sound: SND.swell },
+];
+
+window.DUR = DUR;
+window.FPS = E.fps;
+window.CUES = CUES;
+window.EVENTS = E.frames;
+window.seek = (t) => { draw(t); return true; };
+if (!navigator.webdriver) {
+  const t0 = performance.now();
+  (function loop() { draw(((performance.now() - t0) / 1000) % DUR); requestAnimationFrame(loop); })();
+}
+</script>

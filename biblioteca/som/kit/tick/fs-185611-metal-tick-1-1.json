@@ -1,0 +1,34 @@
+{
+ "type": "tick",
+ "file": "kit\\tick\\fs-185611-metal-tick-1-1.wav",
+ "verdict": "ok",
+ "build_db": -26.5,
+ "start_db": -5.4,
+ "end_db": -37.5,
+ "spikiness": 1.7,
+ "dur_s": 0.123,
+ "peak_offset_s": 0.0216,
+ "rise_ms": 16.4,
+ "centroid_hz": 6114,
+ "below150": 0.0,
+ "above6k": 0.456,
+ "flatness": 0.278,
+ "note": 112.6,
+ "start_floor_db": -24.5,
+ "source": {
+  "id": "185611",
+  "type": "tick",
+  "title": "Metal tick 1",
+  "creator": "kubawolanin",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/185/185611_349289-hq.mp3",
+  "landing": "https://freesound.org/people/kubawolanin/sounds/185611",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "tick"
+  ]
+ }
+}

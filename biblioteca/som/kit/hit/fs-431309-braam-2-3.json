@@ -1,0 +1,34 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-431309-braam-2-3.wav",
+ "verdict": "ok",
+ "build_db": -22.4,
+ "start_db": -0.0,
+ "end_db": -29.3,
+ "spikiness": 1.89,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0135,
+ "rise_ms": 12.5,
+ "centroid_hz": 249,
+ "below150": 0.523,
+ "above6k": 0.0,
+ "flatness": 0.011,
+ "note": 43.3,
+ "start_floor_db": -8.4,
+ "source": {
+  "id": "431309",
+  "type": "hit",
+  "title": "BRAAM-2",
+  "creator": "vykroft",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/431/431309_6802113-hq.mp3",
+  "landing": "https://freesound.org/people/vykroft/sounds/431309",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "braam"
+  ]
+ }
+}

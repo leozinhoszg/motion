@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-380706-lord-boner101-s-reverse-door-3.wav",
+ "verdict": "ok",
+ "build_db": -19.0,
+ "start_db": -0.0,
+ "end_db": -39.8,
+ "spikiness": 1.62,
+ "dur_s": 2.999,
+ "peak_offset_s": 0.4846,
+ "rise_ms": 30.6,
+ "centroid_hz": 40,
+ "below150": 0.997,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": null,
+ "start_floor_db": -18.6,
+ "source": {
+  "id": "380706",
+  "type": "hit",
+  "title": "LordBoner101's Reverse Door Slam but THICC.wav",
+  "creator": "coolernow123",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/380/380706_2891553-hq.mp3",
+  "landing": "https://freesound.org/people/coolernow123/sounds/380706",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

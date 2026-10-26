@@ -1,0 +1,34 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-649825-riser-hit-sfx-045-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 7.5,
+ "start_db": -12.1,
+ "end_db": -0.0,
+ "spikiness": 1.8,
+ "dur_s": 6.2,
+ "peak_offset_s": 5.8424,
+ "rise_ms": 4333.6,
+ "centroid_hz": 546,
+ "below150": 0.291,
+ "above6k": 0.003,
+ "flatness": 0.011,
+ "note": 59.8,
+ "start_floor_db": -25.6,
+ "source": {
+  "id": "649825",
+  "type": "riser",
+  "title": "Riser Hit sfx 045.wav",
+  "creator": "AudioPapkin",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/649/649825_8698658-hq.mp3",
+  "landing": "https://freesound.org/people/AudioPapkin/sounds/649825",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "riser"
+  ]
+ }
+}

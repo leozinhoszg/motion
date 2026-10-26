@@ -1,0 +1,36 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-148930-cymbal-hits-reversed-wav-2.wav",
+ "verdict": "ok",
+ "build_db": 18.8,
+ "start_db": -27.9,
+ "end_db": -0.0,
+ "spikiness": 1.34,
+ "dur_s": 1.117,
+ "peak_offset_s": 1.0546,
+ "rise_ms": 675.1,
+ "centroid_hz": 4007,
+ "below150": 0.0,
+ "above6k": 0.147,
+ "flatness": 0.073,
+ "note": 102.5,
+ "start_floor_db": -36.3,
+ "source": {
+  "id": "148930",
+  "type": "reverse",
+  "title": "Cymbal Hits Reversed.wav",
+  "creator": "HUMANOISEMAKER",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/148/148930_2259717-hq.mp3",
+  "landing": "https://freesound.org/people/HUMANOISEMAKER/sounds/148930",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "reverse",
+   "cymbal"
+  ]
+ }
+}

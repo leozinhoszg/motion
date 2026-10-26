@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-321482-metal-hit-2-1.wav",
+ "verdict": "ok",
+ "build_db": -24.1,
+ "start_db": -0.0,
+ "end_db": -35.5,
+ "spikiness": 1.56,
+ "dur_s": 0.877,
+ "peak_offset_s": 0.0119,
+ "rise_ms": 6.4,
+ "centroid_hz": 743,
+ "below150": 0.039,
+ "above6k": 0.007,
+ "flatness": 0.021,
+ "note": 60.4,
+ "start_floor_db": -53.2,
+ "source": {
+  "id": "321482",
+  "type": "hit",
+  "title": "Metal Hit 2",
+  "creator": "dslrguide",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/321/321482_5485024-hq.mp3",
+  "landing": "https://freesound.org/people/dslrguide/sounds/321482",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "metal",
+   "hit"
+  ]
+ }
+}

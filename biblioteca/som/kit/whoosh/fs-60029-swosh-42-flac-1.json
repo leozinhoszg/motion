@@ -1,0 +1,35 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-60029-swosh-42-flac-1.wav",
+ "verdict": "ok",
+ "build_db": -9.8,
+ "start_db": -12.1,
+ "end_db": -15.3,
+ "spikiness": 1.77,
+ "dur_s": 0.137,
+ "peak_offset_s": 0.0422,
+ "rise_ms": 32.8,
+ "centroid_hz": 281,
+ "below150": 0.011,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -27.1,
+ "source": {
+  "id": "60029",
+  "type": "whoosh",
+  "title": "swosh-42.flac",
+  "creator": "qubodup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/60/60029_71257-hq.mp3",
+  "landing": "https://freesound.org/people/qubodup/sounds/60029",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "air",
+   "whoosh"
+  ]
+ }
+}

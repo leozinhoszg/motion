@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-ui-audio-rollover1.wav",
+ "verdict": "ok",
+ "build_db": -25.0,
+ "start_db": -0.0,
+ "end_db": -38.9,
+ "spikiness": 3.0,
+ "dur_s": 0.132,
+ "peak_offset_s": 0.0081,
+ "rise_ms": 1.7,
+ "centroid_hz": 3824,
+ "below150": 0.0,
+ "above6k": 0.197,
+ "flatness": 0.054,
+ "note": null,
+ "start_floor_db": -28.9,
+ "source": {
+  "pack": "ui-audio",
+  "file": "Audio/rollover1.ogg"
+ }
+}

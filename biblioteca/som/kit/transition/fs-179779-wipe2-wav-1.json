@@ -1,0 +1,35 @@
+{
+ "type": "transition",
+ "file": "kit\\transition\\fs-179779-wipe2-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -8.0,
+ "start_db": -13.3,
+ "end_db": -12.3,
+ "spikiness": 1.64,
+ "dur_s": 0.586,
+ "peak_offset_s": 0.2618,
+ "rise_ms": 237.6,
+ "centroid_hz": 442,
+ "below150": 0.608,
+ "above6k": 0.004,
+ "flatness": 0.009,
+ "note": null,
+ "start_floor_db": -32.7,
+ "source": {
+  "id": "179779",
+  "type": "transition",
+  "title": "wipe2.wav",
+  "creator": "Sclolex",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/179/179779_985466-hq.mp3",
+  "landing": "https://freesound.org/people/Sclolex/sounds/179779",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "transition",
+   "whoosh"
+  ]
+ }
+}

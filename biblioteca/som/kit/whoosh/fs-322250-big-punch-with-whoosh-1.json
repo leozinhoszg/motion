@@ -1,0 +1,34 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-322250-big-punch-with-whoosh-1.wav",
+ "verdict": "ok",
+ "build_db": -13.2,
+ "start_db": -13.4,
+ "end_db": -24.2,
+ "spikiness": 1.34,
+ "dur_s": 0.372,
+ "peak_offset_s": 0.1943,
+ "rise_ms": 181.7,
+ "centroid_hz": 909,
+ "below150": 0.14,
+ "above6k": 0.022,
+ "flatness": 0.046,
+ "note": 63.2,
+ "start_floor_db": -28.3,
+ "source": {
+  "id": "322250",
+  "type": "whoosh",
+  "title": "Big Punch with whoosh",
+  "creator": "Paul368",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/322/322250_2971294-hq.mp3",
+  "landing": "https://freesound.org/people/Paul368/sounds/322250",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "whoosh"
+  ]
+ }
+}

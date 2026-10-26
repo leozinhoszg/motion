@@ -1,0 +1,35 @@
+{
+ "type": "paper",
+ "file": "kit\\paper\\fs-397550-page-turn-03-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -20.8,
+ "start_db": -29.0,
+ "end_db": -26.9,
+ "spikiness": 1.4,
+ "dur_s": 0.17,
+ "peak_offset_s": 0.0471,
+ "rise_ms": 7.1,
+ "centroid_hz": 4740,
+ "below150": 0.003,
+ "above6k": 0.372,
+ "flatness": 0.404,
+ "note": null,
+ "start_floor_db": -34.4,
+ "source": {
+  "id": "397550",
+  "type": "paper",
+  "title": "Page Turn 03.wav",
+  "creator": "MATRIXXX_",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/397/397550_6142149-hq.mp3",
+  "landing": "https://freesound.org/people/MATRIXXX_/sounds/397550",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "page",
+   "turn"
+  ]
+ }
+}

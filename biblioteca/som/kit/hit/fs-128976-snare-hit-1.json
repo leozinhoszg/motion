@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-128976-snare-hit-1.wav",
+ "verdict": "ok",
+ "build_db": -16.0,
+ "start_db": -0.0,
+ "end_db": -26.5,
+ "spikiness": 1.46,
+ "dur_s": 0.679,
+ "peak_offset_s": 0.0099,
+ "rise_ms": 2.5,
+ "centroid_hz": 489,
+ "below150": 0.511,
+ "above6k": 0.007,
+ "flatness": 0.019,
+ "note": null,
+ "start_floor_db": -3.6,
+ "source": {
+  "id": "128976",
+  "type": "hit",
+  "title": "Snare Hit",
+  "creator": "deadpoetsocietyband",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/128/128976_2354572-hq.mp3",
+  "landing": "https://freesound.org/people/deadpoetsocietyband/sounds/128976",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "boom",
+   "hit"
+  ]
+ }
+}

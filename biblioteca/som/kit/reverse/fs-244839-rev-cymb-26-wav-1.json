@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-244839-rev-cymb-26-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 12.0,
+ "start_db": -25.7,
+ "end_db": -0.0,
+ "spikiness": 1.27,
+ "dur_s": 1.251,
+ "peak_offset_s": 1.1459,
+ "rise_ms": 908.1,
+ "centroid_hz": 4568,
+ "below150": 0.0,
+ "above6k": 0.134,
+ "flatness": 0.045,
+ "note": 105.8,
+ "start_floor_db": -35.5,
+ "source": {
+  "id": "244839",
+  "type": "reverse",
+  "title": "Rev Cymb 26.wav",
+  "creator": "JarredGibb",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/244/244839_4056007-hq.mp3",
+  "landing": "https://freesound.org/people/JarredGibb/sounds/244839",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "cymbal"
+  ]
+ }
+}

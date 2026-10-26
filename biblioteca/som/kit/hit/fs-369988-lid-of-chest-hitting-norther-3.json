@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-369988-lid-of-chest-hitting-norther-3.wav",
+ "verdict": "ok",
+ "build_db": -44.3,
+ "start_db": -0.0,
+ "end_db": -55.5,
+ "spikiness": 1.82,
+ "dur_s": 0.384,
+ "peak_offset_s": 0.029,
+ "rise_ms": 7.8,
+ "centroid_hz": 67,
+ "below150": 0.968,
+ "above6k": 0.0,
+ "flatness": 0.009,
+ "note": null,
+ "start_floor_db": -37.4,
+ "source": {
+  "id": "369988",
+  "type": "hit",
+  "title": "Lid of chest hitting_northern87",
+  "creator": "northern87",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/369/369988_1196518-hq.mp3",
+  "landing": "https://freesound.org/people/northern87/sounds/369988",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "boom",
+   "hit"
+  ]
+ }
+}

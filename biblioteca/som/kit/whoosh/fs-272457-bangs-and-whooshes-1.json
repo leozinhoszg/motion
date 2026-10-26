@@ -1,0 +1,34 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-272457-bangs-and-whooshes-1.wav",
+ "verdict": "ok",
+ "build_db": -9.5,
+ "start_db": -14.0,
+ "end_db": -16.2,
+ "spikiness": 1.51,
+ "dur_s": 0.446,
+ "peak_offset_s": 0.16,
+ "rise_ms": 132.6,
+ "centroid_hz": 861,
+ "below150": 0.068,
+ "above6k": 0.029,
+ "flatness": 0.05,
+ "note": null,
+ "start_floor_db": -29.5,
+ "source": {
+  "id": "272457",
+  "type": "whoosh",
+  "title": "bangs and whooshes",
+  "creator": "Rollo145",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/272/272457_2932318-hq.mp3",
+  "landing": "https://freesound.org/people/Rollo145/sounds/272457",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "whoosh"
+  ]
+ }
+}

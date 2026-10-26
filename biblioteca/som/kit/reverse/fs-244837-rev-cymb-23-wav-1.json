@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-244837-rev-cymb-23-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 11.5,
+ "start_db": -23.5,
+ "end_db": -0.0,
+ "spikiness": 1.39,
+ "dur_s": 2.466,
+ "peak_offset_s": 2.3966,
+ "rise_ms": 1818.3,
+ "centroid_hz": 4182,
+ "below150": 0.0,
+ "above6k": 0.179,
+ "flatness": 0.039,
+ "note": 72.4,
+ "start_floor_db": -37.2,
+ "source": {
+  "id": "244837",
+  "type": "reverse",
+  "title": "Rev Cymb 23.wav",
+  "creator": "JarredGibb",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/244/244837_4056007-hq.mp3",
+  "landing": "https://freesound.org/people/JarredGibb/sounds/244837",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "cymbal"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-272065-thrown-object-3.wav",
+ "verdict": "ok",
+ "build_db": -8.4,
+ "start_db": -0.0,
+ "end_db": -28.3,
+ "spikiness": 2.03,
+ "dur_s": 0.413,
+ "peak_offset_s": 0.0078,
+ "rise_ms": 1.7,
+ "centroid_hz": 3094,
+ "below150": 0.0,
+ "above6k": 0.063,
+ "flatness": 0.043,
+ "note": 93.8,
+ "start_floor_db": -29.4,
+ "source": {
+  "id": "272065",
+  "type": "hit",
+  "title": "Thrown Object",
+  "creator": "Bexhillcollege",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/272/272065_4683710-hq.mp3",
+  "landing": "https://freesound.org/people/Bexhillcollege/sounds/272065",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

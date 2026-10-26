@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-187535-drums-crash-cymbol-3.wav",
+ "verdict": "ok",
+ "build_db": -17.4,
+ "start_db": -0.0,
+ "end_db": -26.9,
+ "spikiness": 1.51,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0546,
+ "rise_ms": 53.0,
+ "centroid_hz": 354,
+ "below150": 0.021,
+ "above6k": 0.008,
+ "flatness": 0.017,
+ "note": 51.8,
+ "start_floor_db": -12.0,
+ "source": {
+  "id": "187535",
+  "type": "hit",
+  "title": "[Drums] Crash cymbol",
+  "creator": "waveplaySFX",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/187/187535_1676145-hq.mp3",
+  "landing": "https://freesound.org/people/waveplaySFX/sounds/187535",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

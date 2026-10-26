@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-560013-remixed-static-with-verb-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -2.1,
+ "start_db": -1.1,
+ "end_db": -3.7,
+ "spikiness": 1.36,
+ "dur_s": 0.157,
+ "peak_offset_s": 0.055,
+ "rise_ms": 53.7,
+ "centroid_hz": 3526,
+ "below150": 0.0,
+ "above6k": 0.165,
+ "flatness": 0.202,
+ "note": 76.3,
+ "start_floor_db": -7.8,
+ "source": {
+  "id": "560013",
+  "type": "glitch",
+  "title": "Remixed static with verb.wav",
+  "creator": "VonKrapFamily",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/560/560013_4927274-hq.mp3",
+  "landing": "https://freesound.org/people/VonKrapFamily/sounds/560013",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "static",
+   "burst"
+  ]
+ }
+}

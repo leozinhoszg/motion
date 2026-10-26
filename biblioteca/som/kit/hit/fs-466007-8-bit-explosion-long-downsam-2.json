@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-466007-8-bit-explosion-long-downsam-2.wav",
+ "verdict": "ok",
+ "build_db": -17.4,
+ "start_db": -0.0,
+ "end_db": -20.9,
+ "spikiness": 1.7,
+ "dur_s": 2.009,
+ "peak_offset_s": 0.0575,
+ "rise_ms": 31.5,
+ "centroid_hz": 420,
+ "below150": 0.521,
+ "above6k": 0.007,
+ "flatness": 0.026,
+ "note": 45.5,
+ "start_floor_db": -12.6,
+ "source": {
+  "id": "466007",
+  "type": "hit",
+  "title": "8-bit explosion long downsampling.wav",
+  "creator": "s9menine",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/466/466007_9161216-hq.mp3",
+  "landing": "https://freesound.org/people/s9menine/sounds/466007",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "heavy",
+   "impact"
+  ]
+ }
+}

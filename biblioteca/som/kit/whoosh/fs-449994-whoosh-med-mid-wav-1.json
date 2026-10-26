@@ -1,0 +1,35 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-449994-whoosh-med-mid-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -8.2,
+ "start_db": -20.7,
+ "end_db": -16.2,
+ "spikiness": 1.54,
+ "dur_s": 0.487,
+ "peak_offset_s": 0.219,
+ "rise_ms": 149.8,
+ "centroid_hz": 729,
+ "below150": 0.105,
+ "above6k": 0.012,
+ "flatness": 0.036,
+ "note": null,
+ "start_floor_db": -39.6,
+ "source": {
+  "id": "449994",
+  "type": "whoosh",
+  "title": "whoosh_med_mid.wav",
+  "creator": "DJT4NN3R",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/449/449994_3217484-hq.mp3",
+  "landing": "https://freesound.org/people/DJT4NN3R/sounds/449994",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "fast",
+   "whoosh"
+  ]
+ }
+}

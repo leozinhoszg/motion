@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-371603-odd-glitch-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -2.9,
+ "start_db": -13.7,
+ "end_db": -12.0,
+ "spikiness": 1.77,
+ "dur_s": 0.05,
+ "peak_offset_s": 0.0153,
+ "rise_ms": 11.1,
+ "centroid_hz": 4332,
+ "below150": 0.077,
+ "above6k": 0.437,
+ "flatness": 0.232,
+ "note": 61.1,
+ "start_floor_db": -21.6,
+ "source": {
+  "id": "371603",
+  "type": "glitch",
+  "title": "Odd glitch .wav",
+  "creator": "JacksonMiller0",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/371/371603_3717478-hq.mp3",
+  "landing": "https://freesound.org/people/JacksonMiller0/sounds/371603",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-264066-title-hits-layered-3.wav",
+ "verdict": "ok",
+ "build_db": -15.5,
+ "start_db": -0.0,
+ "end_db": -20.9,
+ "spikiness": 1.55,
+ "dur_s": 3.148,
+ "peak_offset_s": 0.2416,
+ "rise_ms": 57.4,
+ "centroid_hz": 143,
+ "below150": 0.912,
+ "above6k": 0.003,
+ "flatness": 0.031,
+ "note": null,
+ "start_floor_db": -11.9,
+ "source": {
+  "id": "264066",
+  "type": "hit",
+  "title": "Title Hits Layered",
+  "creator": "Paul368",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/264/264066_2971294-hq.mp3",
+  "landing": "https://freesound.org/people/Paul368/sounds/264066",
+  "k": 3,
+  "keep": [
+   0,
+   2
+  ],
+  "tags": [
+   "trailer",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-337871-small-metal-hit-08-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -21.7,
+ "start_db": -0.0,
+ "end_db": -29.7,
+ "spikiness": 1.5,
+ "dur_s": 1.031,
+ "peak_offset_s": 0.0539,
+ "rise_ms": 36.6,
+ "centroid_hz": 426,
+ "below150": 0.185,
+ "above6k": 0.001,
+ "flatness": 0.003,
+ "note": 63.6,
+ "start_floor_db": -37.4,
+ "source": {
+  "id": "337871",
+  "type": "hit",
+  "title": "small-metal-hit-08.wav",
+  "creator": "newagesoup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/337/337871_4067257-hq.mp3",
+  "landing": "https://freesound.org/people/newagesoup/sounds/337871",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "metal",
+   "hit"
+  ]
+ }
+}

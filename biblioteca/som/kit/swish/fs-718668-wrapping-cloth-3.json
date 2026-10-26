@@ -1,0 +1,36 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-718668-wrapping-cloth-3.wav",
+ "verdict": "ok",
+ "build_db": -2.0,
+ "start_db": -17.4,
+ "end_db": -17.1,
+ "spikiness": 1.94,
+ "dur_s": 0.249,
+ "peak_offset_s": 0.1618,
+ "rise_ms": 149.6,
+ "centroid_hz": 869,
+ "below150": 0.013,
+ "above6k": 0.017,
+ "flatness": 0.058,
+ "note": 53.6,
+ "start_floor_db": -31.8,
+ "source": {
+  "id": "718668",
+  "type": "swish",
+  "title": "Wrapping cloth",
+  "creator": "ChuckleNutsDev",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/718/718668_15554378-hq.mp3",
+  "landing": "https://freesound.org/people/ChuckleNutsDev/sounds/718668",
+  "k": 3,
+  "keep": [
+   1,
+   2
+  ],
+  "tags": [
+   "cloth",
+   "swish"
+  ]
+ }
+}

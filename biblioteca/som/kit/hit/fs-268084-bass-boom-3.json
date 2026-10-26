@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-268084-bass-boom-3.wav",
+ "verdict": "ok",
+ "build_db": -19.9,
+ "start_db": -0.0,
+ "end_db": -28.1,
+ "spikiness": 1.77,
+ "dur_s": 3.76,
+ "peak_offset_s": 0.0398,
+ "rise_ms": 37.0,
+ "centroid_hz": 86,
+ "below150": 0.942,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -12.8,
+ "source": {
+  "id": "268084",
+  "type": "hit",
+  "title": "Bass Boom",
+  "creator": "LordHannes",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/268/268084_3812550-hq.mp3",
+  "landing": "https://freesound.org/people/LordHannes/sounds/268084",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "trailer",
+   "hit"
+  ]
+ }
+}

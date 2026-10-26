@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-261415-percusive-noise-riser-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 12.3,
+ "start_db": -16.0,
+ "end_db": -0.0,
+ "spikiness": 1.51,
+ "dur_s": 2.263,
+ "peak_offset_s": 1.9938,
+ "rise_ms": 1932.8,
+ "centroid_hz": 2732,
+ "below150": 0.001,
+ "above6k": 0.086,
+ "flatness": 0.178,
+ "note": null,
+ "start_floor_db": -36.1,
+ "source": {
+  "id": "261415",
+  "type": "riser",
+  "title": "Percusive Noise Riser.wav",
+  "creator": "Stereo Surgeon",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/261/261415_2297168-hq.mp3",
+  "landing": "https://freesound.org/people/Stereo%20Surgeon/sounds/261415",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "noise",
+   "riser"
+  ]
+ }
+}

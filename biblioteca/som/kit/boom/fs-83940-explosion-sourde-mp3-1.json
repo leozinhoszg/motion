@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-83940-explosion-sourde-mp3-1.wav",
+ "verdict": "ok",
+ "build_db": -18.5,
+ "start_db": -0.2,
+ "end_db": -30.2,
+ "spikiness": 1.51,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0491,
+ "rise_ms": 12.6,
+ "centroid_hz": 36,
+ "below150": 1.0,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 41.2,
+ "start_floor_db": -23.8,
+ "source": {
+  "id": "83940",
+  "type": "boom",
+  "title": "explosion_sourde.mp3",
+  "creator": "Schnaffon",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/83/83940_1344936-hq.mp3",
+  "landing": "https://freesound.org/people/Schnaffon/sounds/83940",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "low",
+   "boom"
+  ]
+ }
+}

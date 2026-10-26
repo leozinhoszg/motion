@@ -1,0 +1,34 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-458877-thump-1.wav",
+ "verdict": "ok",
+ "build_db": -23.8,
+ "start_db": -1.2,
+ "end_db": -30.7,
+ "spikiness": 1.97,
+ "dur_s": 0.093,
+ "peak_offset_s": 0.0129,
+ "rise_ms": 4.9,
+ "centroid_hz": 182,
+ "below150": 0.062,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": 54.8,
+ "start_floor_db": -27.8,
+ "source": {
+  "id": "458877",
+  "type": "thump",
+  "title": "Thump",
+  "creator": "DigestContent",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/458/458877_8541784-hq.mp3",
+  "landing": "https://freesound.org/people/DigestContent/sounds/458877",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "thump"
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+[submodule "biblioteca/refs/repos/Battle-of-Austerlitz-Film"]
+	path = biblioteca/refs/repos/Battle-of-Austerlitz-Film
+	url = https://github.com/WinterArc21/Battle-of-Austerlitz-Film.git
+[submodule "biblioteca/refs/repos/ClaudeAnimationBase"]
+	path = biblioteca/refs/repos/ClaudeAnimationBase
+	url = https://github.com/JohnHeibel/ClaudeAnimationBase.git
+[submodule "biblioteca/refs/repos/PDoomVideo"]
+	path = biblioteca/refs/repos/PDoomVideo
+	url = https://github.com/JohnHeibel/PDoomVideo.git
+[submodule "biblioteca/refs/repos/awesome-ai-motion"]
+	path = biblioteca/refs/repos/awesome-ai-motion
+	url = https://github.com/guanmo-ai/awesome-ai-motion.git
+[submodule "biblioteca/refs/repos/awesome-opus-5-5-videos"]
+	path = biblioteca/refs/repos/awesome-opus-5-5-videos
+	url = https://github.com/athemeroy/awesome-opus-5-5-videos.git
+[submodule "biblioteca/refs/repos/claude-animation-skill"]
+	path = biblioteca/refs/repos/claude-animation-skill
+	url = https://github.com/buildwithhanif/claude-animation-skill.git
+[submodule "biblioteca/refs/repos/hyperframes"]
+	path = biblioteca/refs/repos/hyperframes
+	url = https://github.com/heygen-com/hyperframes.git
+[submodule "biblioteca/refs/repos/opus-sound-layer"]
+	path = biblioteca/refs/repos/opus-sound-layer
+	url = https://github.com/Bodila51/opus-sound-layer.git
+[submodule "biblioteca/refs/repos/skills"]
+	path = biblioteca/refs/repos/skills
+	url = https://github.com/remotion-dev/skills.git

@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-80997-ding-mp3-1.wav",
+ "verdict": "ok",
+ "build_db": -19.9,
+ "start_db": -0.0,
+ "end_db": -31.9,
+ "spikiness": 1.18,
+ "dur_s": 2.5,
+ "peak_offset_s": 0.0292,
+ "rise_ms": 22.4,
+ "centroid_hz": 2437,
+ "below150": 0.0,
+ "above6k": 0.002,
+ "flatness": 0.013,
+ "note": 102.3,
+ "start_floor_db": -37.3,
+ "source": {
+  "id": "80997",
+  "type": "chime",
+  "title": "Ding.mp3",
+  "creator": "payattention",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/80/80997_1254612-hq.mp3",
+  "landing": "https://freesound.org/people/payattention/sounds/80997",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "bell",
+   "ding"
+  ]
+ }
+}

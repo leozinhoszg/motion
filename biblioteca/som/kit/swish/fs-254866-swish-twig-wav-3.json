@@ -1,0 +1,36 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-254866-swish-twig-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -14.3,
+ "start_db": -14.8,
+ "end_db": -18.7,
+ "spikiness": 1.88,
+ "dur_s": 0.12,
+ "peak_offset_s": 0.043,
+ "rise_ms": 37.9,
+ "centroid_hz": 2685,
+ "below150": 0.0,
+ "above6k": 0.041,
+ "flatness": 0.127,
+ "note": null,
+ "start_floor_db": -25.3,
+ "source": {
+  "id": "254866",
+  "type": "swish",
+  "title": "swish twig.wav",
+  "creator": "blukotek",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/254/254866_4451798-hq.mp3",
+  "landing": "https://freesound.org/people/blukotek/sounds/254866",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "swish"
+  ]
+ }
+}

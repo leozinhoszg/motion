@@ -1,0 +1,34 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-368606-thump-1.wav",
+ "verdict": "ok",
+ "build_db": -34.6,
+ "start_db": -1.3,
+ "end_db": -42.8,
+ "spikiness": 1.79,
+ "dur_s": 0.112,
+ "peak_offset_s": 0.0266,
+ "rise_ms": 23.3,
+ "centroid_hz": 175,
+ "below150": 0.566,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": null,
+ "start_floor_db": -14.7,
+ "source": {
+  "id": "368606",
+  "type": "thump",
+  "title": "Thump",
+  "creator": "SamsterBirdies",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/368/368606_5487341-hq.mp3",
+  "landing": "https://freesound.org/people/SamsterBirdies/sounds/368606",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "thump"
+  ]
+ }
+}

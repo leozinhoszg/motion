@@ -1,0 +1,22 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\kenney-impact-impact-bell-heavy-001.wav",
+ "verdict": "ok",
+ "build_db": -18.7,
+ "start_db": -0.0,
+ "end_db": -32.7,
+ "spikiness": 1.77,
+ "dur_s": 1.272,
+ "peak_offset_s": 0.0072,
+ "rise_ms": 4.0,
+ "centroid_hz": 359,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.007,
+ "note": 58.5,
+ "start_floor_db": -5.4,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactBell_heavy_001.ogg"
+ }
+}

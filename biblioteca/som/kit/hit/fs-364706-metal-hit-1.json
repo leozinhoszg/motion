@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-364706-metal-hit-1.wav",
+ "verdict": "ok",
+ "build_db": -18.9,
+ "start_db": -0.0,
+ "end_db": -29.0,
+ "spikiness": 2.32,
+ "dur_s": 0.469,
+ "peak_offset_s": 0.0128,
+ "rise_ms": 7.2,
+ "centroid_hz": 88,
+ "below150": 0.892,
+ "above6k": 0.001,
+ "flatness": 0.005,
+ "note": null,
+ "start_floor_db": -39.7,
+ "source": {
+  "id": "364706",
+  "type": "hit",
+  "title": "Metal Hit",
+  "creator": "alegemaate",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/364/364706_2531187-hq.mp3",
+  "landing": "https://freesound.org/people/alegemaate/sounds/364706",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "metal",
+   "hit"
+  ]
+ }
+}

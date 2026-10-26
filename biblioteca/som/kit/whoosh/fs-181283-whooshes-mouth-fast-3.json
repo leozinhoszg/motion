@@ -1,0 +1,35 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-181283-whooshes-mouth-fast-3.wav",
+ "verdict": "ok",
+ "build_db": -7.0,
+ "start_db": -14.6,
+ "end_db": -14.2,
+ "spikiness": 1.91,
+ "dur_s": 0.152,
+ "peak_offset_s": 0.0717,
+ "rise_ms": 65.0,
+ "centroid_hz": 662,
+ "below150": 0.416,
+ "above6k": 0.019,
+ "flatness": 0.027,
+ "note": null,
+ "start_floor_db": -31.1,
+ "source": {
+  "id": "181283",
+  "type": "whoosh",
+  "title": "Whooshes (mouth) (fast)",
+  "creator": "asbestos bill",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/181/181283_478491-hq.mp3",
+  "landing": "https://freesound.org/people/asbestos%20bill/sounds/181283",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "fast",
+   "whoosh"
+  ]
+ }
+}

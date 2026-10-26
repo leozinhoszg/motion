@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-generic-light-004.wav",
+ "verdict": "ok",
+ "build_db": -49.3,
+ "start_db": -0.0,
+ "end_db": -62.4,
+ "spikiness": 2.03,
+ "dur_s": 0.137,
+ "peak_offset_s": 0.0055,
+ "rise_ms": 4.4,
+ "centroid_hz": 1029,
+ "below150": 0.018,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 81.8,
+ "start_floor_db": -1.8,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactGeneric_light_004.ogg"
+ }
+}

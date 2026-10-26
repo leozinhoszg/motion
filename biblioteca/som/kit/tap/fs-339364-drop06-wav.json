@@ -1,0 +1,30 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\fs-339364-drop06-wav.wav",
+ "verdict": "ok",
+ "build_db": -26.3,
+ "start_db": -0.7,
+ "end_db": -35.4,
+ "spikiness": 2.29,
+ "dur_s": 0.1,
+ "peak_offset_s": 0.0124,
+ "rise_ms": 6.5,
+ "centroid_hz": 366,
+ "below150": 0.444,
+ "above6k": 0.008,
+ "flatness": 0.021,
+ "note": 43.4,
+ "start_floor_db": -33.6,
+ "source": {
+  "id": "339364",
+  "type": "tap",
+  "title": "drop06.wav",
+  "creator": "newagesoup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/339/339364_4067257-hq.mp3",
+  "landing": "https://freesound.org/people/newagesoup/sounds/339364",
+  "tags": [
+   "classic"
+  ]
+ }
+}

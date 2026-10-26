@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-387552-sweep-downwards-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 7.6,
+ "start_db": -17.0,
+ "end_db": -1.4,
+ "spikiness": 1.29,
+ "dur_s": 2.233,
+ "peak_offset_s": 1.7133,
+ "rise_ms": 1202.3,
+ "centroid_hz": 3810,
+ "below150": 0.017,
+ "above6k": 0.189,
+ "flatness": 0.206,
+ "note": 102.6,
+ "start_floor_db": -36.3,
+ "source": {
+  "id": "387552",
+  "type": "riser",
+  "title": "Sweep Downwards.wav",
+  "creator": "stair",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/387/387552_236950-hq.mp3",
+  "landing": "https://freesound.org/people/stair/sounds/387552",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "noise",
+   "riser"
+  ]
+ }
+}

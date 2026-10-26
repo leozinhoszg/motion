@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-laser6.wav",
+ "verdict": "ok",
+ "build_db": -23.9,
+ "start_db": -0.0,
+ "end_db": -31.8,
+ "spikiness": 1.31,
+ "dur_s": 0.615,
+ "peak_offset_s": 0.055,
+ "rise_ms": 46.2,
+ "centroid_hz": 483,
+ "below150": 0.237,
+ "above6k": 0.003,
+ "flatness": 0.009,
+ "note": 48.9,
+ "start_floor_db": -11.7,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/laser6.ogg"
+ }
+}

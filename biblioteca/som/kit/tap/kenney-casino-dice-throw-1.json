@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-casino-dice-throw-1.wav",
+ "verdict": "ok",
+ "build_db": -14.4,
+ "start_db": -0.0,
+ "end_db": -25.6,
+ "spikiness": 2.82,
+ "dur_s": 0.172,
+ "peak_offset_s": 0.0081,
+ "rise_ms": 1.7,
+ "centroid_hz": 1897,
+ "below150": 0.014,
+ "above6k": 0.089,
+ "flatness": 0.167,
+ "note": 56.2,
+ "start_floor_db": -49.4,
+ "source": {
+  "pack": "casino",
+  "file": "Audio/dice-throw-1.ogg"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-529925-whip-crack-m4a-1.wav",
+ "verdict": "ok",
+ "build_db": -11.2,
+ "start_db": -14.5,
+ "end_db": -16.8,
+ "spikiness": 1.59,
+ "dur_s": 0.108,
+ "peak_offset_s": 0.0306,
+ "rise_ms": 25.5,
+ "centroid_hz": 1029,
+ "below150": 0.0,
+ "above6k": 0.001,
+ "flatness": 0.005,
+ "note": 84.6,
+ "start_floor_db": -29.4,
+ "source": {
+  "id": "529925",
+  "type": "swish",
+  "title": "Whip Crack.m4a",
+  "creator": "SciFiSounds",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/529/529925_11751070-hq.mp3",
+  "landing": "https://freesound.org/people/SciFiSounds/sounds/529925",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "whip"
+  ]
+ }
+}

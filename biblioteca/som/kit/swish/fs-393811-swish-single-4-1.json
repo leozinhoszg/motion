@@ -1,0 +1,34 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-393811-swish-single-4-1.wav",
+ "verdict": "ok",
+ "build_db": -13.0,
+ "start_db": -12.7,
+ "end_db": -16.2,
+ "spikiness": 1.3,
+ "dur_s": 0.107,
+ "peak_offset_s": 0.0392,
+ "rise_ms": 32.6,
+ "centroid_hz": 1758,
+ "below150": 0.0,
+ "above6k": 0.015,
+ "flatness": 0.048,
+ "note": 89.0,
+ "start_floor_db": -31.1,
+ "source": {
+  "id": "393811",
+  "type": "swish",
+  "title": "Swish Single 4",
+  "creator": "deleted_user_6479820",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/393/393811_6479820-hq.mp3",
+  "landing": "https://freesound.org/people/deleted_user_6479820/sounds/393811",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "swish"
+  ]
+ }
+}

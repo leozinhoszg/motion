@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-452610-door-wood-old-with-inlaid-gl-3.wav",
+ "verdict": "ok",
+ "build_db": -23.3,
+ "start_db": -0.0,
+ "end_db": -29.6,
+ "spikiness": 1.55,
+ "dur_s": 0.768,
+ "peak_offset_s": 0.01,
+ "rise_ms": 4.5,
+ "centroid_hz": 244,
+ "below150": 0.819,
+ "above6k": 0.004,
+ "flatness": 0.015,
+ "note": null,
+ "start_floor_db": -49.0,
+ "source": {
+  "id": "452610",
+  "type": "hit",
+  "title": "door wood old with inlaid glass impact hit rattle from inside.wav",
+  "creator": "kyles",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/452/452610_612689-hq.mp3",
+  "landing": "https://freesound.org/people/kyles/sounds/452610",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

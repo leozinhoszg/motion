@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-349900-digital-glitches-2.wav",
+ "verdict": "ok",
+ "build_db": -26.2,
+ "start_db": -4.8,
+ "end_db": -42.9,
+ "spikiness": 1.44,
+ "dur_s": 0.076,
+ "peak_offset_s": 0.0268,
+ "rise_ms": 21.4,
+ "centroid_hz": 1918,
+ "below150": 0.063,
+ "above6k": 0.028,
+ "flatness": 0.044,
+ "note": null,
+ "start_floor_db": -24.4,
+ "source": {
+  "id": "349900",
+  "type": "glitch",
+  "title": "Digital Glitches",
+  "creator": "dotY21",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/349/349900_5048136-hq.mp3",
+  "landing": "https://freesound.org/people/dotY21/sounds/349900",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

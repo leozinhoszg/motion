@@ -1,0 +1,34 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-327990-processed-swish-swoosh-whoos-1.wav",
+ "verdict": "ok",
+ "build_db": -8.5,
+ "start_db": -12.5,
+ "end_db": -15.0,
+ "spikiness": 2.02,
+ "dur_s": 0.73,
+ "peak_offset_s": 0.2722,
+ "rise_ms": 253.2,
+ "centroid_hz": 638,
+ "below150": 0.006,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 76.7,
+ "start_floor_db": -30.5,
+ "source": {
+  "id": "327990",
+  "type": "whoosh",
+  "title": "processed swish, swoosh, whoosh",
+  "creator": "MadMaxSFX",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/327/327990_4799665-hq.mp3",
+  "landing": "https://freesound.org/people/MadMaxSFX/sounds/327990",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "whoosh"
+  ]
+ }
+}

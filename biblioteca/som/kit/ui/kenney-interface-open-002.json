@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-open-002.wav",
+ "verdict": "ok",
+ "build_db": -3.2,
+ "start_db": -1.5,
+ "end_db": -6.8,
+ "spikiness": 1.13,
+ "dur_s": 0.056,
+ "peak_offset_s": 0.0101,
+ "rise_ms": 4.9,
+ "centroid_hz": 8166,
+ "below150": 0.0,
+ "above6k": 0.519,
+ "flatness": 0.169,
+ "note": null,
+ "start_floor_db": -5.1,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/open_002.ogg"
+ }
+}

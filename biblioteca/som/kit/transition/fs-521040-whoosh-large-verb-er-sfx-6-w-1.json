@@ -1,0 +1,35 @@
+{
+ "type": "transition",
+ "file": "kit\\transition\\fs-521040-whoosh-large-verb-er-sfx-6-w-1.wav",
+ "verdict": "ok",
+ "build_db": -3.6,
+ "start_db": -12.5,
+ "end_db": -12.8,
+ "spikiness": 1.49,
+ "dur_s": 3.0,
+ "peak_offset_s": 1.7198,
+ "rise_ms": 1711.0,
+ "centroid_hz": 942,
+ "below150": 0.0,
+ "above6k": 0.004,
+ "flatness": 0.011,
+ "note": null,
+ "start_floor_db": -23.6,
+ "source": {
+  "id": "521040",
+  "type": "transition",
+  "title": "Whoosh_LargeVerb_ER_SFX_6.wav",
+  "creator": "Alex_hears_things",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/521/521040_2309965-hq.mp3",
+  "landing": "https://freesound.org/people/Alex_hears_things/sounds/521040",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "swoosh",
+   "transition"
+  ]
+ }
+}

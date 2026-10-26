@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-plank-medium-003.wav",
+ "verdict": "ok",
+ "build_db": -25.2,
+ "start_db": -0.5,
+ "end_db": -34.0,
+ "spikiness": 2.12,
+ "dur_s": 0.137,
+ "peak_offset_s": 0.0156,
+ "rise_ms": 13.0,
+ "centroid_hz": 180,
+ "below150": 0.416,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -13.2,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactPlank_medium_003.ogg"
+ }
+}

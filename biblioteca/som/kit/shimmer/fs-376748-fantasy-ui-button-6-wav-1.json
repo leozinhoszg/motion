@@ -1,0 +1,35 @@
+{
+ "type": "shimmer",
+ "file": "kit\\shimmer\\fs-376748-fantasy-ui-button-6-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -20.0,
+ "start_db": -0.0,
+ "end_db": -30.1,
+ "spikiness": 1.72,
+ "dur_s": 1.413,
+ "peak_offset_s": 0.0446,
+ "rise_ms": 38.0,
+ "centroid_hz": 4444,
+ "below150": 0.0,
+ "above6k": 0.153,
+ "flatness": 0.009,
+ "note": 98.5,
+ "start_floor_db": -26.3,
+ "source": {
+  "id": "376748",
+  "type": "shimmer",
+  "title": "Fantasy_ui_Button_6.wav",
+  "creator": "ZenithInfinitiveStudios",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/376/376748_5968849-hq.mp3",
+  "landing": "https://freesound.org/people/ZenithInfinitiveStudios/sounds/376748",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "magic",
+   "chime"
+  ]
+ }
+}

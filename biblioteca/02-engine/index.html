@@ -1,0 +1,52 @@
+<!doctype html>
+<!-- Engine seek(t) — rota A do curso Movez (seção 07). Formato via query: index.html?w=1080&h=1920 -->
+<meta charset="utf-8">
+<style>html,body{margin:0;background:#141413}canvas{display:block}</style>
+<canvas id="c"></canvas>
+<script src="lib/motion.js"></script>
+<script>
+const { clamp, spring, rng } = Motion;
+const q = new URLSearchParams(location.search);
+const W = +q.get('w') || 1080, H = +q.get('h') || 1920, DUR = +q.get('dur') || 6;
+const cv = document.getElementById('c'); cv.width = W; cv.height = H;
+const g = cv.getContext('2d');
+
+// Layout relativo ao formato (seção 12): cenas usam U e o centro, nunca pixels fixos.
+const U = Math.min(W, H) / 1080, CX = W / 2, CY = H / 2;
+
+const SCENES = [
+  { from: 0, to: 3, draw(t) {                        // título cinético
+      const s = spring(t - 0.1, 220, 22);
+      g.save(); g.translate(CX, CY); g.scale(0.6 + 0.4 * s, 0.6 + 0.4 * s);
+      g.globalAlpha = clamp(t * 4);
+      g.fillStyle = '#F0EEE6'; g.font = `700 ${190 * U}px "Source Serif 4", Georgia, serif`;
+      g.textAlign = 'center'; g.fillText('MOTION', 0, 0);
+      g.fillStyle = '#D97757'; g.fillRect(-320 * U * s, 50 * U, 640 * U * s, 18 * U);
+      g.restore();
+  }},
+  { from: 3, to: 6, draw(t) {                        // grid de quadrados em stagger
+      const r = rng(7), cols = 6, rows = 8, cell = 170 * U;
+      const ox = CX - (cols - 1) * cell / 2, oy = CY - (rows - 1) * cell / 2;
+      for (let i = 0; i < cols * rows; i++) {
+        const x = ox + (i % cols) * cell, y = oy + Math.floor(i / cols) * cell;
+        const s = spring(t - i * 0.03 - r() * 0.1, 260, 20);
+        g.fillStyle = i % 7 ? '#F0EEE6' : '#D97757';
+        g.fillRect(x - 60 * U * s, y - 60 * U * s, 120 * U * s, 120 * U * s);
+      }
+  }},
+  // ... mais cenas: o Opus acrescenta aqui, um objeto por plano
+];
+
+function draw(t) {
+  g.fillStyle = '#141413'; g.fillRect(0, 0, W, H);
+  for (const s of SCENES) if (t >= s.from && t < s.to) s.draw(t - s.from);
+}
+window.DUR = DUR;
+window.seek = (t) => { draw(t); return true; };
+
+// Preview ao vivo no browser normal; desligado no render headless
+if (!navigator.webdriver) {
+  const t0 = performance.now();
+  (function loop() { draw(((performance.now() - t0) / 1000) % DUR); requestAnimationFrame(loop); })();
+}
+</script>

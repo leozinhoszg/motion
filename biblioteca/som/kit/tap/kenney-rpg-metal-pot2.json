@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-rpg-metal-pot2.wav",
+ "verdict": "ok",
+ "build_db": -19.4,
+ "start_db": -5.2,
+ "end_db": -25.2,
+ "spikiness": 1.62,
+ "dur_s": 0.163,
+ "peak_offset_s": 0.055,
+ "rise_ms": 22.2,
+ "centroid_hz": 2480,
+ "below150": 0.0,
+ "above6k": 0.018,
+ "flatness": 0.036,
+ "note": 97.7,
+ "start_floor_db": -13.8,
+ "source": {
+  "pack": "rpg",
+  "file": "Audio/metalPot2.ogg"
+ }
+}

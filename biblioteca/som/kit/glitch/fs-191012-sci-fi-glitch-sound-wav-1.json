@@ -1,0 +1,34 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-191012-sci-fi-glitch-sound-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -30.9,
+ "start_db": -1.6,
+ "end_db": -44.2,
+ "spikiness": 1.36,
+ "dur_s": 0.32,
+ "peak_offset_s": 0.0333,
+ "rise_ms": 16.2,
+ "centroid_hz": 794,
+ "below150": 0.054,
+ "above6k": 0.002,
+ "flatness": 0.003,
+ "note": null,
+ "start_floor_db": -39.5,
+ "source": {
+  "id": "191012",
+  "type": "glitch",
+  "title": "Sci Fi Glitch Sound.wav",
+  "creator": "waterboy920",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/191/191012_451339-hq.mp3",
+  "landing": "https://freesound.org/people/waterboy920/sounds/191012",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

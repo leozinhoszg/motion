@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-digital-high-down.wav",
+ "verdict": "ok",
+ "build_db": -6.9,
+ "start_db": -1.5,
+ "end_db": -11.1,
+ "spikiness": 1.19,
+ "dur_s": 0.158,
+ "peak_offset_s": 0.0553,
+ "rise_ms": 37.2,
+ "centroid_hz": 1248,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": null,
+ "start_floor_db": -7.7,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/highDown.ogg"
+ }
+}

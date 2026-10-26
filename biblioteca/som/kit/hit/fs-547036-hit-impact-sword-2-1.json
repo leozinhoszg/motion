@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-547036-hit-impact-sword-2-1.wav",
+ "verdict": "ok",
+ "build_db": -26.1,
+ "start_db": -0.0,
+ "end_db": -26.9,
+ "spikiness": 1.46,
+ "dur_s": 0.558,
+ "peak_offset_s": 0.0583,
+ "rise_ms": 56.6,
+ "centroid_hz": 1736,
+ "below150": 0.472,
+ "above6k": 0.055,
+ "flatness": 0.118,
+ "note": null,
+ "start_floor_db": -15.2,
+ "source": {
+  "id": "547036",
+  "type": "hit",
+  "title": "Hit Impact Sword 2",
+  "creator": "Eponn",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/547/547036_7614679-hq.mp3",
+  "landing": "https://freesound.org/people/Eponn/sounds/547036",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "heavy",
+   "impact"
+  ]
+ }
+}

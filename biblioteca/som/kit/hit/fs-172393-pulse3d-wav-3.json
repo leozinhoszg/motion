@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-172393-pulse3d-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -12.3,
+ "start_db": -0.0,
+ "end_db": -25.6,
+ "spikiness": 1.37,
+ "dur_s": 3.769,
+ "peak_offset_s": 0.061,
+ "rise_ms": 38.6,
+ "centroid_hz": 42,
+ "below150": 0.989,
+ "above6k": 0.0,
+ "flatness": 0.006,
+ "note": 40.4,
+ "start_floor_db": -18.5,
+ "source": {
+  "id": "172393",
+  "type": "hit",
+  "title": "pulse3D.wav",
+  "creator": "Sclolex",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/172/172393_985466-hq.mp3",
+  "landing": "https://freesound.org/people/Sclolex/sounds/172393",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "cinematic",
+   "impact"
+  ]
+ }
+}

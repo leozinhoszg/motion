@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-547038-hit-swing-sword-1.wav",
+ "verdict": "ok",
+ "build_db": -25.7,
+ "start_db": -0.0,
+ "end_db": -33.5,
+ "spikiness": 1.32,
+ "dur_s": 0.717,
+ "peak_offset_s": 0.0544,
+ "rise_ms": 51.5,
+ "centroid_hz": 4593,
+ "below150": 0.036,
+ "above6k": 0.38,
+ "flatness": 0.173,
+ "note": 59.9,
+ "start_floor_db": -17.7,
+ "source": {
+  "id": "547038",
+  "type": "hit",
+  "title": "Hit Swing Sword",
+  "creator": "CogFireStudios",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/547/547038_7614679-hq.mp3",
+  "landing": "https://freesound.org/people/CogFireStudios/sounds/547038",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "heavy",
+   "impact"
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-51107-sounds-for-earthquakes-metal-3.wav",
+ "verdict": "ok",
+ "build_db": -1.4,
+ "start_db": -0.2,
+ "end_db": -22.3,
+ "spikiness": 1.91,
+ "dur_s": 1.492,
+ "peak_offset_s": 0.4993,
+ "rise_ms": 1.8,
+ "centroid_hz": 2569,
+ "below150": 0.024,
+ "above6k": 0.082,
+ "flatness": 0.148,
+ "note": null,
+ "start_floor_db": -29.6,
+ "source": {
+  "id": "51107",
+  "type": "glitch",
+  "title": "Sounds For Earthquakes - Metal Rattling.wav",
+  "creator": "RutgerMuller",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/51/51107_179538-hq.mp3",
+  "landing": "https://freesound.org/people/RutgerMuller/sounds/51107",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

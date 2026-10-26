@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-glass-light-004.wav",
+ "verdict": "ok",
+ "build_db": -27.7,
+ "start_db": -0.0,
+ "end_db": -37.7,
+ "spikiness": 1.71,
+ "dur_s": 0.121,
+ "peak_offset_s": 0.0091,
+ "rise_ms": 7.4,
+ "centroid_hz": 1334,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": 81.7,
+ "start_floor_db": -5.9,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactGlass_light_004.ogg"
+ }
+}

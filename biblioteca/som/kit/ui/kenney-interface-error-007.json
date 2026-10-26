@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-error-007.wav",
+ "verdict": "ok",
+ "build_db": -19.1,
+ "start_db": -0.0,
+ "end_db": -26.9,
+ "spikiness": 1.49,
+ "dur_s": 0.192,
+ "peak_offset_s": 0.0073,
+ "rise_ms": 5.4,
+ "centroid_hz": 1013,
+ "below150": 0.002,
+ "above6k": 0.024,
+ "flatness": 0.021,
+ "note": 78.6,
+ "start_floor_db": -6.9,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/error_007.ogg"
+ }
+}

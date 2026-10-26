@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-687926-jh-big-tom-3-c-1-5-sec-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -23.2,
+ "start_db": -0.0,
+ "end_db": -30.6,
+ "spikiness": 1.63,
+ "dur_s": 1.35,
+ "peak_offset_s": 0.0651,
+ "rise_ms": 44.5,
+ "centroid_hz": 33,
+ "below150": 0.999,
+ "above6k": 0.0,
+ "flatness": 0.005,
+ "note": 43.1,
+ "start_floor_db": -14.8,
+ "source": {
+  "id": "687926",
+  "type": "hit",
+  "title": "JH Big Tom 3 (C 1.5 sec).wav",
+  "creator": "Johnnie_Holiday",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/687/687926_4819210-hq.mp3",
+  "landing": "https://freesound.org/people/Johnnie_Holiday/sounds/687926",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "drum",
+   "hit",
+   "cinematic"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-449995-whoosh-med-low-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -14.1,
+ "start_db": -15.9,
+ "end_db": -22.4,
+ "spikiness": 1.81,
+ "dur_s": 0.615,
+ "peak_offset_s": 0.2036,
+ "rise_ms": 187.3,
+ "centroid_hz": 408,
+ "below150": 0.301,
+ "above6k": 0.003,
+ "flatness": 0.012,
+ "note": null,
+ "start_floor_db": -31.2,
+ "source": {
+  "id": "449995",
+  "type": "whoosh",
+  "title": "whoosh_med_low.wav",
+  "creator": "DJT4NN3R",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/449/449995_3217484-hq.mp3",
+  "landing": "https://freesound.org/people/DJT4NN3R/sounds/449995",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "fast",
+   "whoosh"
+  ]
+ }
+}

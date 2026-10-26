@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-397596-heavy-impacts-3.wav",
+ "verdict": "ok",
+ "build_db": -21.2,
+ "start_db": -0.0,
+ "end_db": -28.9,
+ "spikiness": 1.71,
+ "dur_s": 0.502,
+ "peak_offset_s": 0.0443,
+ "rise_ms": 38.8,
+ "centroid_hz": 166,
+ "below150": 0.404,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -25.2,
+ "source": {
+  "id": "397596",
+  "type": "hit",
+  "title": "Heavy Impacts",
+  "creator": "Nightflame",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/397/397596_3302499-hq.mp3",
+  "landing": "https://freesound.org/people/Nightflame/sounds/397596",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "heavy",
+   "impact"
+  ]
+ }
+}

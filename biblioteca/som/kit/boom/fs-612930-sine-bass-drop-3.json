@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-612930-sine-bass-drop-3.wav",
+ "verdict": "ok",
+ "build_db": -14.1,
+ "start_db": -0.0,
+ "end_db": -29.0,
+ "spikiness": 1.37,
+ "dur_s": 0.699,
+ "peak_offset_s": 0.0475,
+ "rise_ms": 31.2,
+ "centroid_hz": 29,
+ "below150": 1.0,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": null,
+ "start_floor_db": -17.5,
+ "source": {
+  "id": "612930",
+  "type": "boom",
+  "title": "Sine Bass Drop",
+  "creator": "josheb_policarpio",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/612/612930_12389324-hq.mp3",
+  "landing": "https://freesound.org/people/josheb_policarpio/sounds/612930",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "bass",
+   "drop"
+  ]
+ }
+}

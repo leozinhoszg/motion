@@ -1,0 +1,34 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-237605-glitch-03-1.wav",
+ "verdict": "ok",
+ "build_db": -6.7,
+ "start_db": -0.0,
+ "end_db": -10.0,
+ "spikiness": 1.45,
+ "dur_s": 1.041,
+ "peak_offset_s": 0.0191,
+ "rise_ms": 9.5,
+ "centroid_hz": 1211,
+ "below150": 0.399,
+ "above6k": 0.007,
+ "flatness": 0.026,
+ "note": 42.0,
+ "start_floor_db": -6.5,
+ "source": {
+  "id": "237605",
+  "type": "glitch",
+  "title": "Glitch 03",
+  "creator": "JacksonMiller0",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/237/237605_3717478-hq.mp3",
+  "landing": "https://freesound.org/people/JacksonMiller0/sounds/237605",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

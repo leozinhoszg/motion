@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-error-002.wav",
+ "verdict": "ok",
+ "build_db": -22.1,
+ "start_db": -0.0,
+ "end_db": -33.9,
+ "spikiness": 1.87,
+ "dur_s": 0.098,
+ "peak_offset_s": 0.0051,
+ "rise_ms": 4.3,
+ "centroid_hz": 2573,
+ "below150": 0.001,
+ "above6k": 0.124,
+ "flatness": 0.03,
+ "note": 69.4,
+ "start_floor_db": -4.8,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/error_002.ogg"
+ }
+}

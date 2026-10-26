@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-442325-fx-hit-impact-retro-videogam-1.wav",
+ "verdict": "ok",
+ "build_db": -32.0,
+ "start_db": -0.0,
+ "end_db": -32.6,
+ "spikiness": 1.24,
+ "dur_s": 0.584,
+ "peak_offset_s": 0.0166,
+ "rise_ms": 11.1,
+ "centroid_hz": 2322,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -35.1,
+ "source": {
+  "id": "442325",
+  "type": "hit",
+  "title": "FX - HIT IMPACT - Retro Videogame",
+  "creator": "bolkmar",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/442/442325_2927958-hq.mp3",
+  "landing": "https://freesound.org/people/bolkmar/sounds/442325",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "punch",
+   "impact"
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-ui-audio-click3.wav",
+ "verdict": "ok",
+ "build_db": -28.0,
+ "start_db": -0.2,
+ "end_db": -39.9,
+ "spikiness": 3.32,
+ "dur_s": 0.057,
+ "peak_offset_s": 0.0083,
+ "rise_ms": 2.3,
+ "centroid_hz": 3252,
+ "below150": 0.001,
+ "above6k": 0.17,
+ "flatness": 0.268,
+ "note": null,
+ "start_floor_db": -37.0,
+ "source": {
+  "pack": "ui-audio",
+  "file": "Audio/click3.ogg"
+ }
+}

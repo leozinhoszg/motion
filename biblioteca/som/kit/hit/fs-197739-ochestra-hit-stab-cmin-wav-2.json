@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-197739-ochestra-hit-stab-cmin-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -21.0,
+ "start_db": -0.0,
+ "end_db": -33.5,
+ "spikiness": 1.95,
+ "dur_s": 3.574,
+ "peak_offset_s": 0.0421,
+ "rise_ms": 39.4,
+ "centroid_hz": 413,
+ "below150": 0.69,
+ "above6k": 0.003,
+ "flatness": 0.017,
+ "note": 43.1,
+ "start_floor_db": -17.7,
+ "source": {
+  "id": "197739",
+  "type": "hit",
+  "title": "ochestra hit_stab Cmin.wav",
+  "creator": "parabolix",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/197/197739_1036771-hq.mp3",
+  "landing": "https://freesound.org/people/parabolix/sounds/197739",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "type": "key",
+ "file": "kit\\key\\fs-442649-keyboard-click-mp3.wav",
+ "verdict": "ok",
+ "build_db": -29.5,
+ "start_db": -0.0,
+ "end_db": -42.0,
+ "spikiness": 3.13,
+ "dur_s": 0.134,
+ "peak_offset_s": 0.0082,
+ "rise_ms": 2.1,
+ "centroid_hz": 1920,
+ "below150": 0.137,
+ "above6k": 0.046,
+ "flatness": 0.131,
+ "note": 92.3,
+ "start_floor_db": -28.8,
+ "source": {
+  "id": "442649",
+  "type": "key",
+  "title": "Keyboard Click.mp3",
+  "creator": "asetkeyzet",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/442/442649_3923226-hq.mp3",
+  "landing": "https://freesound.org/people/asetkeyzet/sounds/442649",
+  "tags": [
+   "classic"
+  ]
+ }
+}

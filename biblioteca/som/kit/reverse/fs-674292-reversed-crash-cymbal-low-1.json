@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-674292-reversed-crash-cymbal-low-1.wav",
+ "verdict": "ok",
+ "build_db": 17.4,
+ "start_db": -25.7,
+ "end_db": -0.0,
+ "spikiness": 1.25,
+ "dur_s": 1.956,
+ "peak_offset_s": 1.9467,
+ "rise_ms": 1443.2,
+ "centroid_hz": 4705,
+ "below150": 0.0,
+ "above6k": 0.275,
+ "flatness": 0.118,
+ "note": 101.7,
+ "start_floor_db": -35.1,
+ "source": {
+  "id": "674292",
+  "type": "reverse",
+  "title": "Reversed Crash Cymbal - Low",
+  "creator": "TheEndOfACycle",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/674/674292_3130497-hq.mp3",
+  "landing": "https://freesound.org/people/TheEndOfACycle/sounds/674292",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "cymbal"
+  ]
+ }
+}

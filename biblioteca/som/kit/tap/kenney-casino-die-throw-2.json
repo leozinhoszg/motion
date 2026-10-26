@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-casino-die-throw-2.wav",
+ "verdict": "ok",
+ "build_db": -28.2,
+ "start_db": -0.0,
+ "end_db": -38.1,
+ "spikiness": 3.05,
+ "dur_s": 0.122,
+ "peak_offset_s": 0.0082,
+ "rise_ms": 1.8,
+ "centroid_hz": 319,
+ "below150": 0.085,
+ "above6k": 0.001,
+ "flatness": 0.004,
+ "note": 53.6,
+ "start_floor_db": -43.6,
+ "source": {
+  "pack": "casino",
+  "file": "Audio/die-throw-2.ogg"
+ }
+}

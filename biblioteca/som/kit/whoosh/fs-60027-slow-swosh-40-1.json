@@ -1,0 +1,35 @@
+{
+ "type": "whoosh",
+ "file": "kit\\whoosh\\fs-60027-slow-swosh-40-1.wav",
+ "verdict": "ok",
+ "build_db": -7.1,
+ "start_db": -18.2,
+ "end_db": -16.7,
+ "spikiness": 2.01,
+ "dur_s": 0.144,
+ "peak_offset_s": 0.064,
+ "rise_ms": 53.3,
+ "centroid_hz": 266,
+ "below150": 0.014,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 61.5,
+ "start_floor_db": -30.6,
+ "source": {
+  "id": "60027",
+  "type": "whoosh",
+  "title": "Slow Swosh 40",
+  "creator": "qubodup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/60/60027_71257-hq.mp3",
+  "landing": "https://freesound.org/people/qubodup/sounds/60027",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "air",
+   "whoosh"
+  ]
+ }
+}

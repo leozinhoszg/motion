@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-casino-dice-shake-3.wav",
+ "verdict": "ok",
+ "build_db": -22.1,
+ "start_db": -0.1,
+ "end_db": -28.0,
+ "spikiness": 3.74,
+ "dur_s": 0.049,
+ "peak_offset_s": 0.0085,
+ "rise_ms": 2.1,
+ "centroid_hz": 5093,
+ "below150": 0.005,
+ "above6k": 0.159,
+ "flatness": 0.089,
+ "note": null,
+ "start_floor_db": -50.7,
+ "source": {
+  "pack": "casino",
+  "file": "Audio/dice-shake-3.ogg"
+ }
+}

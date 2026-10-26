@@ -1,0 +1,34 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-585575-metal-thud-1.wav",
+ "verdict": "ok",
+ "build_db": -15.6,
+ "start_db": -0.0,
+ "end_db": -29.2,
+ "spikiness": 1.64,
+ "dur_s": 0.644,
+ "peak_offset_s": 0.0161,
+ "rise_ms": 7.5,
+ "centroid_hz": 910,
+ "below150": 0.012,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": 79.2,
+ "start_floor_db": -47.3,
+ "source": {
+  "id": "585575",
+  "type": "thump",
+  "title": "Metal Thud",
+  "creator": "BennettFilmTeacher",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/585/585575_7254895-hq.mp3",
+  "landing": "https://freesound.org/people/BennettFilmTeacher/sounds/585575",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "thud"
+  ]
+ }
+}

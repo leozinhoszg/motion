@@ -1,0 +1,34 @@
+{
+ "type": "shimmer",
+ "file": "kit\\shimmer\\fs-697825-sparkle-3.wav",
+ "verdict": "ok",
+ "build_db": -39.9,
+ "start_db": -0.0,
+ "end_db": -58.9,
+ "spikiness": 1.41,
+ "dur_s": 2.924,
+ "peak_offset_s": 0.055,
+ "rise_ms": 26.2,
+ "centroid_hz": 1089,
+ "below150": 0.0,
+ "above6k": 0.001,
+ "flatness": 0.005,
+ "note": 92.4,
+ "start_floor_db": -8.4,
+ "source": {
+  "id": "697825",
+  "type": "shimmer",
+  "title": "SPARKLE",
+  "creator": "magnuswaker",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/697/697825_11537497-hq.mp3",
+  "landing": "https://freesound.org/people/magnuswaker/sounds/697825",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "sparkle"
+  ]
+ }
+}

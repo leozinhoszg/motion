@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-187541-noisy-whooshes-flac-3.wav",
+ "verdict": "ok",
+ "build_db": -20.2,
+ "start_db": -0.0,
+ "end_db": -30.4,
+ "spikiness": 1.93,
+ "dur_s": 0.798,
+ "peak_offset_s": 0.0471,
+ "rise_ms": 44.6,
+ "centroid_hz": 222,
+ "below150": 0.521,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -16.6,
+ "source": {
+  "id": "187541",
+  "type": "hit",
+  "title": "Noisy Whooshes.flac",
+  "creator": "qubodup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/187/187541_71257-hq.mp3",
+  "landing": "https://freesound.org/people/qubodup/sounds/187541",
+  "k": 3,
+  "keep": [
+   1,
+   2
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

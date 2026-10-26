@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-322589-timpani-1.wav",
+ "verdict": "ok",
+ "build_db": 10.4,
+ "start_db": -23.3,
+ "end_db": -5.0,
+ "spikiness": 1.67,
+ "dur_s": 2.662,
+ "peak_offset_s": 2.0712,
+ "rise_ms": 1109.5,
+ "centroid_hz": 161,
+ "below150": 0.808,
+ "above6k": 0.0,
+ "flatness": 0.005,
+ "note": 46.0,
+ "start_floor_db": -39.2,
+ "source": {
+  "id": "322589",
+  "type": "riser",
+  "title": "\u03bb\u03cc\u03b3\u03bf\u03c2 Timpani",
+  "creator": "Stereo Surgeon",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/322/322589_2297168-hq.mp3",
+  "landing": "https://freesound.org/people/Stereo%20Surgeon/sounds/322589",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "noise",
+   "riser"
+  ]
+ }
+}

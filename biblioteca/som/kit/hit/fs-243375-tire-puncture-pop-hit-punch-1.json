@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-243375-tire-puncture-pop-hit-punch-1.wav",
+ "verdict": "ok",
+ "build_db": -28.0,
+ "start_db": -0.0,
+ "end_db": -38.2,
+ "spikiness": 1.83,
+ "dur_s": 0.359,
+ "peak_offset_s": 0.021,
+ "rise_ms": 14.7,
+ "centroid_hz": 424,
+ "below150": 0.421,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -46.1,
+ "source": {
+  "id": "243375",
+  "type": "hit",
+  "title": "Tire Puncture Pop Hit Punch",
+  "creator": "JohnsonBrandEditing",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/243/243375_3229685-hq.mp3",
+  "landing": "https://freesound.org/people/JohnsonBrandEditing/sounds/243375",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "punch",
+   "impact"
+  ]
+ }
+}

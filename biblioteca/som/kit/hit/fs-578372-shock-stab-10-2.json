@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-578372-shock-stab-10-2.wav",
+ "verdict": "ok",
+ "build_db": -24.9,
+ "start_db": -0.0,
+ "end_db": -34.0,
+ "spikiness": 1.31,
+ "dur_s": 1.355,
+ "peak_offset_s": 0.0549,
+ "rise_ms": 34.1,
+ "centroid_hz": 486,
+ "below150": 0.44,
+ "above6k": 0.002,
+ "flatness": 0.008,
+ "note": null,
+ "start_floor_db": -8.6,
+ "source": {
+  "id": "578372",
+  "type": "hit",
+  "title": "Shock Stab 10",
+  "creator": "nomiqbomi",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/578/578372_10522382-hq.mp3",
+  "landing": "https://freesound.org/people/nomiqbomi/sounds/578372",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

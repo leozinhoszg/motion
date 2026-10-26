@@ -1,0 +1,30 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-732784-three-thuds-more-reverb.wav",
+ "verdict": "ok",
+ "build_db": -21.6,
+ "start_db": -0.0,
+ "end_db": -35.1,
+ "spikiness": 1.76,
+ "dur_s": 0.939,
+ "peak_offset_s": 0.0105,
+ "rise_ms": 6.5,
+ "centroid_hz": 433,
+ "below150": 0.038,
+ "above6k": 0.001,
+ "flatness": 0.02,
+ "note": null,
+ "start_floor_db": -26.0,
+ "source": {
+  "id": "732784",
+  "type": "thump",
+  "title": "Three Thuds more reverb",
+  "creator": "AVstudent",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/732/732784_5610899-hq.mp3",
+  "landing": "https://freesound.org/people/AVstudent/sounds/732784",
+  "tags": [
+   "classic"
+  ]
+ }
+}

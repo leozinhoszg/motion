@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-493975-sci-fi-reverse-1-raw-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 15.4,
+ "start_db": -24.7,
+ "end_db": -1.1,
+ "spikiness": 1.46,
+ "dur_s": 1.185,
+ "peak_offset_s": 1.0119,
+ "rise_ms": 744.1,
+ "centroid_hz": 3691,
+ "below150": 0.0,
+ "above6k": 0.007,
+ "flatness": 0.009,
+ "note": 107.5,
+ "start_floor_db": -36.9,
+ "source": {
+  "id": "493975",
+  "type": "reverse",
+  "title": "Sci fi reverse 1 Raw.wav",
+  "creator": "Eponn",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/493/493975_7614679-hq.mp3",
+  "landing": "https://freesound.org/people/Eponn/sounds/493975",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "cymbal"
+  ]
+ }
+}

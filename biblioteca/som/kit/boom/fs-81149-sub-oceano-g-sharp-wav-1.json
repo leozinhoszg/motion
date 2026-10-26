@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-81149-sub-oceano-g-sharp-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -18.2,
+ "start_db": -0.0,
+ "end_db": -25.1,
+ "spikiness": 1.44,
+ "dur_s": 2.825,
+ "peak_offset_s": 0.0515,
+ "rise_ms": 35.3,
+ "centroid_hz": 42,
+ "below150": 1.0,
+ "above6k": 0.0,
+ "flatness": 0.171,
+ "note": null,
+ "start_floor_db": -90.2,
+ "source": {
+  "id": "81149",
+  "type": "boom",
+  "title": "SUB OCEANO G sharp.wav",
+  "creator": "uzerx",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/81/81149_704648-hq.mp3",
+  "landing": "https://freesound.org/people/uzerx/sounds/81149",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "sub",
+   "drop"
+  ]
+ }
+}

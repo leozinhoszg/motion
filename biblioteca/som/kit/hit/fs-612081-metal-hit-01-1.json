@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-612081-metal-hit-01-1.wav",
+ "verdict": "ok",
+ "build_db": -8.2,
+ "start_db": -0.0,
+ "end_db": -21.0,
+ "spikiness": 2.6,
+ "dur_s": 1.482,
+ "peak_offset_s": 0.0086,
+ "rise_ms": 2.1,
+ "centroid_hz": 773,
+ "below150": 0.01,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 87.3,
+ "start_floor_db": -67.8,
+ "source": {
+  "id": "612081",
+  "type": "hit",
+  "title": "Metal hit 01",
+  "creator": "xkeril",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/612/612081_13504080-hq.mp3",
+  "landing": "https://freesound.org/people/xkeril/sounds/612081",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "metal",
+   "hit"
+  ]
+ }
+}

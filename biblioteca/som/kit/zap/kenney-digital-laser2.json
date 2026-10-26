@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-laser2.wav",
+ "verdict": "ok",
+ "build_db": -29.6,
+ "start_db": -0.0,
+ "end_db": -36.2,
+ "spikiness": 1.24,
+ "dur_s": 0.648,
+ "peak_offset_s": 0.0584,
+ "rise_ms": 52.9,
+ "centroid_hz": 220,
+ "below150": 0.385,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -12.6,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/laser2.ogg"
+ }
+}

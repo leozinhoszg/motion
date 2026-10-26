@@ -1,0 +1,34 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-424375-glitched-sound-1-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -0.6,
+ "start_db": -0.0,
+ "end_db": -4.8,
+ "spikiness": 2.1,
+ "dur_s": 0.272,
+ "peak_offset_s": 0.0254,
+ "rise_ms": 14.6,
+ "centroid_hz": 3725,
+ "below150": 0.006,
+ "above6k": 0.206,
+ "flatness": 0.207,
+ "note": null,
+ "start_floor_db": -15.2,
+ "source": {
+  "id": "424375",
+  "type": "glitch",
+  "title": "glitched sound 1.wav",
+  "creator": "Elnosos",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/424/424375_7099958-hq.mp3",
+  "landing": "https://freesound.org/people/Elnosos/sounds/424375",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

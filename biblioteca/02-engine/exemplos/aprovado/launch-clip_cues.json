@@ -1,0 +1,77 @@
+{
+ "fps": 30,
+ "duration_s": 8.9,
+ "energy": "punchy",
+ "kit": "../som/kit",
+ "music": {
+  "file": "../som/musica/lofi-guitar-119bpm-holizna.mp3",
+  "start_s": 0,
+  "loop": true,
+  "fade_out_s": 1
+ },
+ "cues": [
+  {
+   "id": "card",
+   "t": 1.277,
+   "sound": "swish/kenney-casino-card-slide-4",
+   "visual": "move"
+  },
+  {
+   "id": "key1",
+   "t": 1.8818,
+   "sound": "key/fs-539146-keyboard-typing-001-wav-3"
+  },
+  {
+   "id": "key2",
+   "t": 2.0636,
+   "sound": "key/fs-180974-key-1"
+  },
+  {
+   "id": "key3",
+   "t": 2.2455,
+   "sound": "key/fs-539146-keyboard-typing-001-wav-3"
+  },
+  {
+   "id": "key4",
+   "t": 2.4273,
+   "sound": "key/fs-180974-key-1"
+  },
+  {
+   "id": "key5",
+   "t": 2.6091,
+   "sound": "key/fs-539146-keyboard-typing-001-wav-3"
+  },
+  {
+   "id": "click",
+   "t": 3.9,
+   "sound": "click/fs-399443-mouse-clicks"
+  },
+  {
+   "id": "result",
+   "t": 4.472,
+   "sound": "thump/fs-496187-light-body-thud-on-clothing-1+tap/kenney-casino-dice-shake-3",
+   "weight": "hero",
+   "visual": "move",
+   "stop_before": true
+  },
+  {
+   "id": "line",
+   "t": 4.974,
+   "sound": "paper/fs-151221-page-turn-2-2",
+   "visual": "move"
+  },
+  {
+   "id": "logo",
+   "t": 6.8,
+   "sound": "thump/fs-187136-body-fall-wav-1+tap/kenney-casino-chips-collide-3",
+   "visual": "appear",
+   "stop_before": true,
+   "build": true
+  },
+  {
+   "id": "logo-rise",
+   "t": 6.8,
+   "sound": "reverse/fs-503808-reverse-fx-5-wav-1"
+  }
+ ]
+}

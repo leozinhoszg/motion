@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-rpg-chop.wav",
+ "verdict": "ok",
+ "build_db": -26.2,
+ "start_db": -0.0,
+ "end_db": -38.3,
+ "spikiness": 2.04,
+ "dur_s": 0.186,
+ "peak_offset_s": 0.0095,
+ "rise_ms": 3.4,
+ "centroid_hz": 1396,
+ "below150": 0.005,
+ "above6k": 0.002,
+ "flatness": 0.014,
+ "note": 82.5,
+ "start_floor_db": -38.9,
+ "source": {
+  "pack": "rpg",
+  "file": "Audio/chop.ogg"
+ }
+}

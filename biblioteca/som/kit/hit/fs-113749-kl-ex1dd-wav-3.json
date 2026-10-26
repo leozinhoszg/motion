@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-113749-kl-ex1dd-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -17.1,
+ "start_db": -0.0,
+ "end_db": -25.5,
+ "spikiness": 1.54,
+ "dur_s": 3.2,
+ "peak_offset_s": 0.0354,
+ "rise_ms": 21.9,
+ "centroid_hz": 110,
+ "below150": 0.855,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": null,
+ "start_floor_db": -17.9,
+ "source": {
+  "id": "113749",
+  "type": "hit",
+  "title": "kl_ex1dd.wav",
+  "creator": "Klerrp",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/113/113749_2015227-hq.mp3",
+  "landing": "https://freesound.org/people/Klerrp/sounds/113749",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "heavy",
+   "impact"
+  ]
+ }
+}

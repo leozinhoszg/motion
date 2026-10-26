@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-414495-robot-machine-malfunction-2.wav",
+ "verdict": "ok",
+ "build_db": -3.2,
+ "start_db": -1.7,
+ "end_db": -3.3,
+ "spikiness": 1.1,
+ "dur_s": 0.436,
+ "peak_offset_s": 0.055,
+ "rise_ms": 52.3,
+ "centroid_hz": 6742,
+ "below150": 0.004,
+ "above6k": 0.642,
+ "flatness": 0.062,
+ "note": null,
+ "start_floor_db": -7.0,
+ "source": {
+  "id": "414495",
+  "type": "glitch",
+  "title": "Robot/Machine Malfunction",
+  "creator": "Mr_KeybOred",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/414/414495_6417448-hq.mp3",
+  "landing": "https://freesound.org/people/Mr_KeybOred/sounds/414495",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "digital",
+   "glitch"
+  ]
+ }
+}

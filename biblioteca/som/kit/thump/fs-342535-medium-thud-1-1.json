@@ -1,0 +1,35 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-342535-medium-thud-1-1.wav",
+ "verdict": "ok",
+ "build_db": -21.3,
+ "start_db": -0.0,
+ "end_db": -29.3,
+ "spikiness": 2.27,
+ "dur_s": 0.246,
+ "peak_offset_s": 0.0118,
+ "rise_ms": 5.9,
+ "centroid_hz": 150,
+ "below150": 0.596,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -57.0,
+ "source": {
+  "id": "342535",
+  "type": "thump",
+  "title": "Medium Thud 1",
+  "creator": "sgrowe",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/342/342535_6148875-hq.mp3",
+  "landing": "https://freesound.org/people/sgrowe/sounds/342535",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "thud"
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-ui-audio-switch15.wav",
+ "verdict": "ok",
+ "build_db": -30.3,
+ "start_db": -0.0,
+ "end_db": -38.6,
+ "spikiness": 2.52,
+ "dur_s": 0.103,
+ "peak_offset_s": 0.0097,
+ "rise_ms": 3.8,
+ "centroid_hz": 2059,
+ "below150": 0.0,
+ "above6k": 0.109,
+ "flatness": 0.088,
+ "note": 73.9,
+ "start_floor_db": -37.6,
+ "source": {
+  "pack": "ui-audio",
+  "file": "Audio/switch15.ogg"
+ }
+}

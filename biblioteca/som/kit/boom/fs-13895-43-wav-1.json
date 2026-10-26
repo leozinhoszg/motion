@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-13895-43-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -21.3,
+ "start_db": -0.0,
+ "end_db": -33.0,
+ "spikiness": 1.78,
+ "dur_s": 0.406,
+ "peak_offset_s": 0.0119,
+ "rise_ms": 6.4,
+ "centroid_hz": 562,
+ "below150": 0.815,
+ "above6k": 0.008,
+ "flatness": 0.136,
+ "note": null,
+ "start_floor_db": -26.3,
+ "source": {
+  "id": "13895",
+  "type": "boom",
+  "title": "43.wav",
+  "creator": "adcbicycle",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/13/13895_33634-hq.mp3",
+  "landing": "https://freesound.org/people/adcbicycle/sounds/13895",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "low",
+   "boom"
+  ]
+ }
+}

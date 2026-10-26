@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-531039-stuttering-loop-mp3-1.wav",
+ "verdict": "ok",
+ "build_db": 0.6,
+ "start_db": -1.2,
+ "end_db": -2.0,
+ "spikiness": 1.56,
+ "dur_s": 1.5,
+ "peak_offset_s": 1.1535,
+ "rise_ms": 761.6,
+ "centroid_hz": 459,
+ "below150": 0.136,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": 56.1,
+ "start_floor_db": -11.0,
+ "source": {
+  "id": "531039",
+  "type": "glitch",
+  "title": "Stuttering Loop.mp3",
+  "creator": "younoise",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/531/531039_2346185-hq.mp3",
+  "landing": "https://freesound.org/people/younoise/sounds/531039",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

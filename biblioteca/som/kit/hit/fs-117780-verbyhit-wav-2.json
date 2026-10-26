@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-117780-verbyhit-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -21.9,
+ "start_db": -0.0,
+ "end_db": -28.8,
+ "spikiness": 2.1,
+ "dur_s": 0.866,
+ "peak_offset_s": 0.0116,
+ "rise_ms": 7.7,
+ "centroid_hz": 71,
+ "below150": 0.927,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -24.6,
+ "source": {
+  "id": "117780",
+  "type": "hit",
+  "title": "verbyhit.wav",
+  "creator": "metmass",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/117/117780_1559676-hq.mp3",
+  "landing": "https://freesound.org/people/metmass/sounds/117780",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "boom",
+   "hit"
+  ]
+ }
+}

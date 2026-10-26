@@ -1,0 +1,35 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-243701-correct-1.wav",
+ "verdict": "ok",
+ "build_db": -15.4,
+ "start_db": -10.4,
+ "end_db": -25.6,
+ "spikiness": 1.41,
+ "dur_s": 0.29,
+ "peak_offset_s": 0.0457,
+ "rise_ms": 39.6,
+ "centroid_hz": 1007,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 83.9,
+ "start_floor_db": -24.9,
+ "source": {
+  "id": "243701",
+  "type": "chime",
+  "title": "correct",
+  "creator": "ertfelda",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/243/243701_3752922-hq.mp3",
+  "landing": "https://freesound.org/people/ertfelda/sounds/243701",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "bell",
+   "ding"
+  ]
+ }
+}

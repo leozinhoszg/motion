@@ -1,0 +1,35 @@
+{
+ "type": "shimmer",
+ "file": "kit\\shimmer\\fs-521873-glimmer-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -20.2,
+ "start_db": -0.0,
+ "end_db": -30.5,
+ "spikiness": 1.23,
+ "dur_s": 3.386,
+ "peak_offset_s": 0.055,
+ "rise_ms": 49.0,
+ "centroid_hz": 3476,
+ "below150": 0.0,
+ "above6k": 0.142,
+ "flatness": 0.011,
+ "note": 96.2,
+ "start_floor_db": -6.3,
+ "source": {
+  "id": "521873",
+  "type": "shimmer",
+  "title": "Glimmer.wav",
+  "creator": "opticaillusions",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/521/521873_7363906-hq.mp3",
+  "landing": "https://freesound.org/people/opticaillusions/sounds/521873",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "magic",
+   "chime"
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-pluck-001.wav",
+ "verdict": "ok",
+ "build_db": -26.9,
+ "start_db": -0.0,
+ "end_db": -41.4,
+ "spikiness": 1.74,
+ "dur_s": 0.089,
+ "peak_offset_s": 0.0042,
+ "rise_ms": 3.5,
+ "centroid_hz": 1749,
+ "below150": 0.0,
+ "above6k": 0.033,
+ "flatness": 0.004,
+ "note": 88.0,
+ "start_floor_db": -3.0,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/pluck_001.ogg"
+ }
+}

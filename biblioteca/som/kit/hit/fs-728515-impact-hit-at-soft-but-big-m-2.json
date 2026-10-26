@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-728515-impact-hit-at-soft-but-big-m-2.wav",
+ "verdict": "ok",
+ "build_db": -11.1,
+ "start_db": -0.2,
+ "end_db": -25.9,
+ "spikiness": 1.75,
+ "dur_s": 0.42,
+ "peak_offset_s": 0.0283,
+ "rise_ms": 25.2,
+ "centroid_hz": 46,
+ "below150": 0.99,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": null,
+ "start_floor_db": -14.0,
+ "source": {
+  "id": "728515",
+  "type": "hit",
+  "title": "Impact Hit at soft but big material",
+  "creator": "doudar41",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/728/728515_2393492-hq.mp3",
+  "landing": "https://freesound.org/people/doudar41/sounds/728515",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-pep-sound2.wav",
+ "verdict": "ok",
+ "build_db": -23.1,
+ "start_db": -4.0,
+ "end_db": -32.1,
+ "spikiness": 1.2,
+ "dur_s": 0.197,
+ "peak_offset_s": 0.0561,
+ "rise_ms": 45.6,
+ "centroid_hz": 271,
+ "below150": 0.001,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 60.8,
+ "start_floor_db": -11.8,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/pepSound2.ogg"
+ }
+}

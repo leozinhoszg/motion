@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-414834-hit-me-mp3-1.wav",
+ "verdict": "ok",
+ "build_db": -18.9,
+ "start_db": -0.0,
+ "end_db": -27.0,
+ "spikiness": 1.78,
+ "dur_s": 2.328,
+ "peak_offset_s": 0.011,
+ "rise_ms": 5.5,
+ "centroid_hz": 45,
+ "below150": 0.998,
+ "above6k": 0.0,
+ "flatness": 0.007,
+ "note": 41.0,
+ "start_floor_db": -39.3,
+ "source": {
+  "id": "414834",
+  "type": "hit",
+  "title": "HIT me.mp3",
+  "creator": "Link-Boy",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/414/414834_2785350-hq.mp3",
+  "landing": "https://freesound.org/people/Link-Boy/sounds/414834",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

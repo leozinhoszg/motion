@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-637988-wheelbarrow-put-down-on-conc-3.wav",
+ "verdict": "ok",
+ "build_db": -25.1,
+ "start_db": -1.1,
+ "end_db": -31.1,
+ "spikiness": 1.86,
+ "dur_s": 0.786,
+ "peak_offset_s": 0.0321,
+ "rise_ms": 26.5,
+ "centroid_hz": 123,
+ "below150": 0.83,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -34.9,
+ "source": {
+  "id": "637988",
+  "type": "hit",
+  "title": "wheelbarrow put down on concrete floor metal hits impacts thuds and slide.flac",
+  "creator": "kyles",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/637/637988_612689-hq.mp3",
+  "landing": "https://freesound.org/people/kyles/sounds/637988",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "metal",
+   "hit"
+  ]
+ }
+}

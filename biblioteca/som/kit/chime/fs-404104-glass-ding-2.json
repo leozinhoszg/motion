@@ -1,0 +1,37 @@
+{
+ "type": "chime",
+ "file": "kit\\chime\\fs-404104-glass-ding-2.wav",
+ "verdict": "ok",
+ "build_db": -23.4,
+ "start_db": -0.0,
+ "end_db": -39.6,
+ "spikiness": 1.52,
+ "dur_s": 0.563,
+ "peak_offset_s": 0.0073,
+ "rise_ms": 1.7,
+ "centroid_hz": 1883,
+ "below150": 0.0,
+ "above6k": 0.009,
+ "flatness": 0.002,
+ "note": 82.9,
+ "start_floor_db": -53.9,
+ "source": {
+  "id": "404104",
+  "type": "chime",
+  "title": "Glass ding",
+  "creator": "Counter-gamer",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/404/404104_2287873-hq.mp3",
+  "landing": "https://freesound.org/people/Counter-gamer/sounds/404104",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "bell",
+   "ding"
+  ]
+ }
+}

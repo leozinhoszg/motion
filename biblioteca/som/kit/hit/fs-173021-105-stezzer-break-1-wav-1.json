@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-173021-105-stezzer-break-1-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -9.8,
+ "start_db": -0.0,
+ "end_db": -20.1,
+ "spikiness": 1.46,
+ "dur_s": 4.0,
+ "peak_offset_s": 1.8493,
+ "rise_ms": 24.4,
+ "centroid_hz": 353,
+ "below150": 0.907,
+ "above6k": 0.015,
+ "flatness": 0.084,
+ "note": null,
+ "start_floor_db": -10.6,
+ "source": {
+  "id": "173021",
+  "type": "hit",
+  "title": "105_stezzer_break_1.wav",
+  "creator": "Snapper4298",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/173/173021_33044-hq.mp3",
+  "landing": "https://freesound.org/people/Snapper4298/sounds/173021",
+  "k": 3,
+  "keep": [
+   0,
+   2
+  ],
+  "tags": [
+   "boom",
+   "hit"
+  ]
+ }
+}

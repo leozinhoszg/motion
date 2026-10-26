@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-155790-shipboard-railgun-mp3-1.wav",
+ "verdict": "ok",
+ "build_db": -17.3,
+ "start_db": -0.0,
+ "end_db": -27.4,
+ "spikiness": 1.64,
+ "dur_s": 1.936,
+ "peak_offset_s": 0.0482,
+ "rise_ms": 45.9,
+ "centroid_hz": 212,
+ "below150": 0.749,
+ "above6k": 0.003,
+ "flatness": 0.013,
+ "note": null,
+ "start_floor_db": -8.7,
+ "source": {
+  "id": "155790",
+  "type": "hit",
+  "title": "shipboard_railgun.mp3",
+  "creator": "deleted_user_1941307",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/155/155790_1941307-hq.mp3",
+  "landing": "https://freesound.org/people/deleted_user_1941307/sounds/155790",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "boom",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-casino-chips-collide-4.wav",
+ "verdict": "ok",
+ "build_db": -27.7,
+ "start_db": -0.0,
+ "end_db": -40.0,
+ "spikiness": 3.57,
+ "dur_s": 0.115,
+ "peak_offset_s": 0.0087,
+ "rise_ms": 2.1,
+ "centroid_hz": 5782,
+ "below150": 0.011,
+ "above6k": 0.55,
+ "flatness": 0.173,
+ "note": 54.6,
+ "start_floor_db": -39.6,
+ "source": {
+  "pack": "casino",
+  "file": "Audio/chips-collide-4.ogg"
+ }
+}

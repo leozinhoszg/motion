@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-638262-whoosh-whoosh-boom-2.wav",
+ "verdict": "ok",
+ "build_db": -23.8,
+ "start_db": -0.0,
+ "end_db": -32.9,
+ "spikiness": 1.34,
+ "dur_s": 0.673,
+ "peak_offset_s": 0.0227,
+ "rise_ms": 2.0,
+ "centroid_hz": 612,
+ "below150": 0.075,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": null,
+ "start_floor_db": -28.7,
+ "source": {
+  "id": "638262",
+  "type": "boom",
+  "title": "Whoosh Whoosh Boom",
+  "creator": "adh.dreaming",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/638/638262_12672694-hq.mp3",
+  "landing": "https://freesound.org/people/adh.dreaming/sounds/638262",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "deep",
+   "boom"
+  ]
+ }
+}

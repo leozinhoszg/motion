@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-digital-tone1.wav",
+ "verdict": "ok",
+ "build_db": -21.4,
+ "start_db": -2.4,
+ "end_db": -53.6,
+ "spikiness": 1.07,
+ "dur_s": 0.106,
+ "peak_offset_s": 0.0335,
+ "rise_ms": 9.3,
+ "centroid_hz": 372,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": 60.2,
+ "start_floor_db": -40.2,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/tone1.ogg"
+ }
+}

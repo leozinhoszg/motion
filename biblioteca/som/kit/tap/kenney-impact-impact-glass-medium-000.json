@@ -1,0 +1,22 @@
+{
+ "type": "tap",
+ "file": "kit\\tap\\kenney-impact-impact-glass-medium-000.wav",
+ "verdict": "ok",
+ "build_db": -45.2,
+ "start_db": -0.0,
+ "end_db": -64.3,
+ "spikiness": 1.85,
+ "dur_s": 0.54,
+ "peak_offset_s": 0.0053,
+ "rise_ms": 4.2,
+ "centroid_hz": 994,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 81.4,
+ "start_floor_db": -2.3,
+ "source": {
+  "pack": "impact",
+  "file": "Audio/impactGlass_medium_000.ogg"
+ }
+}

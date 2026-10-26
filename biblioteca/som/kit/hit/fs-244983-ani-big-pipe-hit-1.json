@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-244983-ani-big-pipe-hit-1.wav",
+ "verdict": "ok",
+ "build_db": -20.3,
+ "start_db": -0.0,
+ "end_db": -29.9,
+ "spikiness": 1.63,
+ "dur_s": 0.677,
+ "peak_offset_s": 0.0064,
+ "rise_ms": 5.7,
+ "centroid_hz": 242,
+ "below150": 0.342,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": 50.9,
+ "start_floor_db": -9.0,
+ "source": {
+  "id": "244983",
+  "type": "hit",
+  "title": "ANI Big Pipe Hit",
+  "creator": "ani_music",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/244/244983_3008343-hq.mp3",
+  "landing": "https://freesound.org/people/ani_music/sounds/244983",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-531729-energy-riser-3-1.wav",
+ "verdict": "ok",
+ "build_db": 12.9,
+ "start_db": -23.3,
+ "end_db": -3.1,
+ "spikiness": 1.99,
+ "dur_s": 0.604,
+ "peak_offset_s": 0.5008,
+ "rise_ms": 334.4,
+ "centroid_hz": 352,
+ "below150": 0.193,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": 39.7,
+ "start_floor_db": -33.1,
+ "source": {
+  "id": "531729",
+  "type": "riser",
+  "title": "Energy Riser 3",
+  "creator": "magnuswaker",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/531/531729_11537497-hq.mp3",
+  "landing": "https://freesound.org/people/magnuswaker/sounds/531729",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "tension",
+   "riser"
+  ]
+ }
+}

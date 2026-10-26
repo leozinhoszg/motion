@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-ui-audio-switch8.wav",
+ "verdict": "ok",
+ "build_db": -28.2,
+ "start_db": -0.0,
+ "end_db": -37.6,
+ "spikiness": 2.99,
+ "dur_s": 0.11,
+ "peak_offset_s": 0.0077,
+ "rise_ms": 1.9,
+ "centroid_hz": 2899,
+ "below150": 0.0,
+ "above6k": 0.11,
+ "flatness": 0.175,
+ "note": 94.3,
+ "start_floor_db": -36.3,
+ "source": {
+  "pack": "ui-audio",
+  "file": "Audio/switch8.ogg"
+ }
+}

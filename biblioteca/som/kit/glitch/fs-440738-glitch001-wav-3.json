@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-440738-glitch001-wav-3.wav",
+ "verdict": "ok",
+ "build_db": 1.0,
+ "start_db": -2.1,
+ "end_db": -0.0,
+ "spikiness": 1.9,
+ "dur_s": 1.5,
+ "peak_offset_s": 1.4416,
+ "rise_ms": 1420.5,
+ "centroid_hz": 4231,
+ "below150": 0.044,
+ "above6k": 0.253,
+ "flatness": 0.072,
+ "note": 93.4,
+ "start_floor_db": -39.5,
+ "source": {
+  "id": "440738",
+  "type": "glitch",
+  "title": "Glitch001.wav",
+  "creator": "Zeraora",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/440/440738_7347459-hq.mp3",
+  "landing": "https://freesound.org/people/Zeraora/sounds/440738",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "data",
+   "glitch"
+  ]
+ }
+}

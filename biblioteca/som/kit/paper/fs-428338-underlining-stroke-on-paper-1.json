@@ -1,0 +1,35 @@
+{
+ "type": "paper",
+ "file": "kit\\paper\\fs-428338-underlining-stroke-on-paper-1.wav",
+ "verdict": "ok",
+ "build_db": -27.4,
+ "start_db": -12.5,
+ "end_db": -46.0,
+ "spikiness": 1.53,
+ "dur_s": 0.218,
+ "peak_offset_s": 0.1015,
+ "rise_ms": 94.6,
+ "centroid_hz": 5128,
+ "below150": 0.0,
+ "above6k": 0.344,
+ "flatness": 0.257,
+ "note": null,
+ "start_floor_db": -26.1,
+ "source": {
+  "id": "428338",
+  "type": "paper",
+  "title": "Underlining Stroke on Paper",
+  "creator": "zembacraftworks",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/428/428338_8617763-hq.mp3",
+  "landing": "https://freesound.org/people/zembacraftworks/sounds/428338",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "paper",
+   "slide"
+  ]
+ }
+}

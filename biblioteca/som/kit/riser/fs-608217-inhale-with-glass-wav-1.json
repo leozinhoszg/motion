@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-608217-inhale-with-glass-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 9.0,
+ "start_db": -19.6,
+ "end_db": -0.0,
+ "spikiness": 1.99,
+ "dur_s": 0.834,
+ "peak_offset_s": 0.7983,
+ "rise_ms": 686.1,
+ "centroid_hz": 4017,
+ "below150": 0.004,
+ "above6k": 0.218,
+ "flatness": 0.131,
+ "note": null,
+ "start_floor_db": -33.9,
+ "source": {
+  "id": "608217",
+  "type": "riser",
+  "title": "Inhale with glass.wav",
+  "creator": "guitargeorge-2",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/608/608217_11586128-hq.mp3",
+  "landing": "https://freesound.org/people/guitargeorge-2/sounds/608217",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "tension",
+   "riser"
+  ]
+ }
+}

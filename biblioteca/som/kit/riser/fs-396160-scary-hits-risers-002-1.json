@@ -1,0 +1,34 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-396160-scary-hits-risers-002-1.wav",
+ "verdict": "ok",
+ "build_db": 16.5,
+ "start_db": -25.9,
+ "end_db": -2.7,
+ "spikiness": 1.81,
+ "dur_s": 2.236,
+ "peak_offset_s": 1.6346,
+ "rise_ms": 878.8,
+ "centroid_hz": 696,
+ "below150": 0.655,
+ "above6k": 0.028,
+ "flatness": 0.102,
+ "note": null,
+ "start_floor_db": -40.3,
+ "source": {
+  "id": "396160",
+  "type": "riser",
+  "title": "Scary Hits & Risers 002",
+  "creator": "Xinematix",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/396/396160_4882128-hq.mp3",
+  "landing": "https://freesound.org/people/Xinematix/sounds/396160",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "riser"
+  ]
+ }
+}

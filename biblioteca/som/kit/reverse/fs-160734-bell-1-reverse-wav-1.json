@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-160734-bell-1-reverse-wav-1.wav",
+ "verdict": "ok",
+ "build_db": 11.1,
+ "start_db": -23.1,
+ "end_db": -0.0,
+ "spikiness": 1.66,
+ "dur_s": 2.63,
+ "peak_offset_s": 2.6116,
+ "rise_ms": 1271.5,
+ "centroid_hz": 2553,
+ "below150": 0.001,
+ "above6k": 0.011,
+ "flatness": 0.006,
+ "note": 97.5,
+ "start_floor_db": -31.5,
+ "source": {
+  "id": "160734",
+  "type": "reverse",
+  "title": "Bell 1 reverse.wav",
+  "creator": "Mornagar",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/160/160734_560616-hq.mp3",
+  "landing": "https://freesound.org/people/Mornagar/sounds/160734",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "cymbal"
+  ]
+ }
+}

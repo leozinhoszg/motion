@@ -1,0 +1,35 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\fs-249587-oneshot-bass-2-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -22.5,
+ "start_db": -0.0,
+ "end_db": -31.4,
+ "spikiness": 1.62,
+ "dur_s": 4.0,
+ "peak_offset_s": 0.0358,
+ "rise_ms": 31.0,
+ "centroid_hz": 307,
+ "below150": 0.656,
+ "above6k": 0.005,
+ "flatness": 0.036,
+ "note": 43.9,
+ "start_floor_db": -23.4,
+ "source": {
+  "id": "249587",
+  "type": "boom",
+  "title": "Oneshot Bass 2.wav",
+  "creator": "staticpony1",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/249/249587_4508519-hq.mp3",
+  "landing": "https://freesound.org/people/staticpony1/sounds/249587",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "bass",
+   "drop"
+  ]
+ }
+}

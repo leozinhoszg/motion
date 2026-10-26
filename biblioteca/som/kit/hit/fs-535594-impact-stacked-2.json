@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-535594-impact-stacked-2.wav",
+ "verdict": "ok",
+ "build_db": -21.3,
+ "start_db": -0.0,
+ "end_db": -28.9,
+ "spikiness": 1.45,
+ "dur_s": 3.874,
+ "peak_offset_s": 0.0346,
+ "rise_ms": 22.8,
+ "centroid_hz": 96,
+ "below150": 0.751,
+ "above6k": 0.0,
+ "flatness": 0.005,
+ "note": 46.0,
+ "start_floor_db": -20.1,
+ "source": {
+  "id": "535594",
+  "type": "hit",
+  "title": "IMPACT STACKED",
+  "creator": "XHALE303",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/535/535594_9015615-hq.mp3",
+  "landing": "https://freesound.org/people/XHALE303/sounds/535594",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "braam"
+  ]
+ }
+}

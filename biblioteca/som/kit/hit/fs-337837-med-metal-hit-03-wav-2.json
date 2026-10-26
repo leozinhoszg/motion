@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-337837-med-metal-hit-03-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -24.5,
+ "start_db": -0.0,
+ "end_db": -30.7,
+ "spikiness": 1.66,
+ "dur_s": 1.255,
+ "peak_offset_s": 0.055,
+ "rise_ms": 53.5,
+ "centroid_hz": 547,
+ "below150": 0.295,
+ "above6k": 0.011,
+ "flatness": 0.032,
+ "note": 40.4,
+ "start_floor_db": -15.0,
+ "source": {
+  "id": "337837",
+  "type": "hit",
+  "title": "med-metal-hit-03.wav",
+  "creator": "newagesoup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/337/337837_4067257-hq.mp3",
+  "landing": "https://freesound.org/people/newagesoup/sounds/337837",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "metal",
+   "hit"
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-416143-this-is-dj-roneo-full-stutte-1.wav",
+ "verdict": "ok",
+ "build_db": -0.4,
+ "start_db": -4.8,
+ "end_db": -7.0,
+ "spikiness": 1.51,
+ "dur_s": 0.179,
+ "peak_offset_s": 0.0263,
+ "rise_ms": 19.3,
+ "centroid_hz": 418,
+ "below150": 0.188,
+ "above6k": 0.002,
+ "flatness": 0.004,
+ "note": null,
+ "start_floor_db": -25.8,
+ "source": {
+  "id": "416143",
+  "type": "glitch",
+  "title": "This is DJ Roneo (full stutter chorus).wav",
+  "creator": "balloonhead",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/416/416143_2188-hq.mp3",
+  "landing": "https://freesound.org/people/balloonhead/sounds/416143",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "stutter"
+  ]
+ }
+}

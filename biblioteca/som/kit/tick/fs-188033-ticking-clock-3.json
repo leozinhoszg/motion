@@ -1,0 +1,36 @@
+{
+ "type": "tick",
+ "file": "kit\\tick\\fs-188033-ticking-clock-3.wav",
+ "verdict": "ok",
+ "build_db": -16.6,
+ "start_db": -5.2,
+ "end_db": -27.3,
+ "spikiness": 1.98,
+ "dur_s": 0.087,
+ "peak_offset_s": 0.0136,
+ "rise_ms": 8.0,
+ "centroid_hz": 1354,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": null,
+ "start_floor_db": -85.1,
+ "source": {
+  "id": "188033",
+  "type": "tick",
+  "title": "Ticking Clock",
+  "creator": "AntumDeluge",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/188/188033_3403708-hq.mp3",
+  "landing": "https://freesound.org/people/AntumDeluge/sounds/188033",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "tick"
+  ]
+ }
+}

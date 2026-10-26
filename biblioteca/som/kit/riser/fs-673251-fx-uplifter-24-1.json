@@ -1,0 +1,34 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-673251-fx-uplifter-24-1.wav",
+ "verdict": "ok",
+ "build_db": 13.7,
+ "start_db": -24.4,
+ "end_db": -1.1,
+ "spikiness": 1.28,
+ "dur_s": 2.691,
+ "peak_offset_s": 2.502,
+ "rise_ms": 1562.7,
+ "centroid_hz": 4283,
+ "below150": 0.0,
+ "above6k": 0.194,
+ "flatness": 0.191,
+ "note": 100.0,
+ "start_floor_db": -36.8,
+ "source": {
+  "id": "673251",
+  "type": "riser",
+  "title": "FX Uplifter 24",
+  "creator": "DaveJf",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/673/673251_11861866-hq.mp3",
+  "landing": "https://freesound.org/people/DaveJf/sounds/673251",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "uplifter"
+  ]
+ }
+}

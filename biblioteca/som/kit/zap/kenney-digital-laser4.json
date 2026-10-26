@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-laser4.wav",
+ "verdict": "ok",
+ "build_db": -30.8,
+ "start_db": -0.0,
+ "end_db": -36.0,
+ "spikiness": 1.26,
+ "dur_s": 0.619,
+ "peak_offset_s": 0.0541,
+ "rise_ms": 34.7,
+ "centroid_hz": 341,
+ "below150": 0.287,
+ "above6k": 0.001,
+ "flatness": 0.005,
+ "note": null,
+ "start_floor_db": -10.9,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/laser4.ogg"
+ }
+}

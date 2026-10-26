@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-512389-bass-impact-ki-01-mp3-2.wav",
+ "verdict": "ok",
+ "build_db": -17.2,
+ "start_db": -0.0,
+ "end_db": -27.8,
+ "spikiness": 1.64,
+ "dur_s": 0.921,
+ "peak_offset_s": 0.0274,
+ "rise_ms": 16.0,
+ "centroid_hz": 41,
+ "below150": 1.0,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": null,
+ "start_floor_db": -18.4,
+ "source": {
+  "id": "512389",
+  "type": "hit",
+  "title": "Bass Impact - Ki_01.mp3",
+  "creator": "Kievinay",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/512/512389_3997858-hq.mp3",
+  "landing": "https://freesound.org/people/Kievinay/sounds/512389",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

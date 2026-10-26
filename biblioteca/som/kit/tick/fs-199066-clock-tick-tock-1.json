@@ -1,0 +1,37 @@
+{
+ "type": "tick",
+ "file": "kit\\tick\\fs-199066-clock-tick-tock-1.wav",
+ "verdict": "ok",
+ "build_db": -35.2,
+ "start_db": -0.0,
+ "end_db": -49.4,
+ "spikiness": 2.22,
+ "dur_s": 0.15,
+ "peak_offset_s": 0.0078,
+ "rise_ms": 1.9,
+ "centroid_hz": 1959,
+ "below150": 0.0,
+ "above6k": 0.035,
+ "flatness": 0.046,
+ "note": 70.0,
+ "start_floor_db": -40.7,
+ "source": {
+  "id": "199066",
+  "type": "tick",
+  "title": "clock tick tock",
+  "creator": "rustica",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/199/199066_3710074-hq.mp3",
+  "landing": "https://freesound.org/people/rustica/sounds/199066",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "clock",
+   "tick"
+  ]
+ }
+}

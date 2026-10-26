@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-390145-glitchy-tape-2.wav",
+ "verdict": "ok",
+ "build_db": -6.2,
+ "start_db": -0.0,
+ "end_db": -24.8,
+ "spikiness": 2.09,
+ "dur_s": 0.649,
+ "peak_offset_s": 0.0184,
+ "rise_ms": 12.0,
+ "centroid_hz": 6978,
+ "below150": 0.003,
+ "above6k": 0.577,
+ "flatness": 0.22,
+ "note": 128.5,
+ "start_floor_db": -30.0,
+ "source": {
+  "id": "390145",
+  "type": "glitch",
+  "title": "Glitchy tape",
+  "creator": "CuddleNucks",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/390/390145_4880868-hq.mp3",
+  "landing": "https://freesound.org/people/CuddleNucks/sounds/390145",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "data",
+   "glitch"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-613842-dropping-a-speaker-or-heavy-2.wav",
+ "verdict": "ok",
+ "build_db": -24.6,
+ "start_db": -0.0,
+ "end_db": -37.4,
+ "spikiness": 1.99,
+ "dur_s": 0.476,
+ "peak_offset_s": 0.0125,
+ "rise_ms": 3.9,
+ "centroid_hz": 328,
+ "below150": 0.621,
+ "above6k": 0.005,
+ "flatness": 0.03,
+ "note": null,
+ "start_floor_db": -47.4,
+ "source": {
+  "id": "613842",
+  "type": "hit",
+  "title": "Dropping a speaker or heavy plastic device",
+  "creator": "exorsten",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/613/613842_5598263-hq.mp3",
+  "landing": "https://freesound.org/people/exorsten/sounds/613842",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "heavy",
+   "impact"
+  ]
+ }
+}

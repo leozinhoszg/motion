@@ -1,0 +1,22 @@
+{
+ "type": "pop",
+ "file": "kit\\pop\\kenney-interface-drop-004.wav",
+ "verdict": "ok",
+ "build_db": -31.5,
+ "start_db": -0.0,
+ "end_db": -43.1,
+ "spikiness": 1.7,
+ "dur_s": 0.135,
+ "peak_offset_s": 0.0058,
+ "rise_ms": 3.9,
+ "centroid_hz": 1165,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.0,
+ "note": null,
+ "start_floor_db": -4.1,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/drop_004.ogg"
+ }
+}

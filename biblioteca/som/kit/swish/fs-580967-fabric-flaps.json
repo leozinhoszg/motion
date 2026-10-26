@@ -1,0 +1,30 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-580967-fabric-flaps.wav",
+ "verdict": "ok",
+ "build_db": -0.6,
+ "start_db": -16.8,
+ "end_db": -19.4,
+ "spikiness": 2.19,
+ "dur_s": 0.118,
+ "peak_offset_s": 0.0734,
+ "rise_ms": 60.0,
+ "centroid_hz": 317,
+ "below150": 0.13,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -29.0,
+ "source": {
+  "id": "580967",
+  "type": "swish",
+  "title": "Fabric flaps",
+  "creator": "PelicanPolice",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/580/580967_13110737-hq.mp3",
+  "landing": "https://freesound.org/people/PelicanPolice/sounds/580967",
+  "tags": [
+   "classic"
+  ]
+ }
+}

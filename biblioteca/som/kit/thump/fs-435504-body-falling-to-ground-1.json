@@ -1,0 +1,35 @@
+{
+ "type": "thump",
+ "file": "kit\\thump\\fs-435504-body-falling-to-ground-1.wav",
+ "verdict": "ok",
+ "build_db": -24.4,
+ "start_db": -0.0,
+ "end_db": -32.2,
+ "spikiness": 2.64,
+ "dur_s": 0.148,
+ "peak_offset_s": 0.0103,
+ "rise_ms": 6.1,
+ "centroid_hz": 198,
+ "below150": 0.655,
+ "above6k": 0.002,
+ "flatness": 0.024,
+ "note": null,
+ "start_floor_db": -22.2,
+ "source": {
+  "id": "435504",
+  "type": "thump",
+  "title": "body falling to ground",
+  "creator": "MelvinJaepel",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/435/435504_6125359-hq.mp3",
+  "landing": "https://freesound.org/people/MelvinJaepel/sounds/435504",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "body",
+   "fall"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "type": "tick",
+ "file": "kit\\tick\\fs-386205-ratchet-stahlwille-tighten-4-2.wav",
+ "verdict": "ok",
+ "build_db": -22.9,
+ "start_db": -0.0,
+ "end_db": -35.9,
+ "spikiness": 3.2,
+ "dur_s": 0.15,
+ "peak_offset_s": 0.0107,
+ "rise_ms": 4.8,
+ "centroid_hz": 2898,
+ "below150": 0.0,
+ "above6k": 0.009,
+ "flatness": 0.042,
+ "note": null,
+ "start_floor_db": -42.2,
+ "source": {
+  "id": "386205",
+  "type": "tick",
+  "title": "Ratchet - Stahlwille - Tighten 4",
+  "creator": "ldezem",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/386/386205_1655965-hq.mp3",
+  "landing": "https://freesound.org/people/ldezem/sounds/386205",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "ratchet"
+  ]
+ }
+}

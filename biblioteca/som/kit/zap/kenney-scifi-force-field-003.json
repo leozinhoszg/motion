@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-scifi-force-field-003.wav",
+ "verdict": "ok",
+ "build_db": -28.8,
+ "start_db": -0.0,
+ "end_db": -34.7,
+ "spikiness": 1.17,
+ "dur_s": 0.6,
+ "peak_offset_s": 0.0589,
+ "rise_ms": 8.9,
+ "centroid_hz": 184,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.004,
+ "note": 52.9,
+ "start_floor_db": -10.4,
+ "source": {
+  "pack": "scifi",
+  "file": "Audio/forceField_003.ogg"
+ }
+}

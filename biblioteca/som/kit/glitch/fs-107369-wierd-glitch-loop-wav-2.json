@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-107369-wierd-glitch-loop-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -4.9,
+ "start_db": -0.0,
+ "end_db": -10.7,
+ "spikiness": 1.62,
+ "dur_s": 1.087,
+ "peak_offset_s": 0.0412,
+ "rise_ms": 12.9,
+ "centroid_hz": 828,
+ "below150": 0.387,
+ "above6k": 0.017,
+ "flatness": 0.033,
+ "note": 46.7,
+ "start_floor_db": -12.9,
+ "source": {
+  "id": "107369",
+  "type": "glitch",
+  "title": "WierdGlitchLoop.wav",
+  "creator": "Kumquaticus",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/107/107369_1738772-hq.mp3",
+  "landing": "https://freesound.org/people/Kumquaticus/sounds/107369",
+  "k": 3,
+  "keep": [
+   1,
+   2
+  ],
+  "tags": [
+   "data",
+   "glitch"
+  ]
+ }
+}

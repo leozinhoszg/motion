@@ -1,0 +1,35 @@
+{
+ "type": "key",
+ "file": "kit\\key\\fs-180974-key-1.wav",
+ "verdict": "ok",
+ "build_db": -22.7,
+ "start_db": -3.0,
+ "end_db": -31.2,
+ "spikiness": 2.81,
+ "dur_s": 0.076,
+ "peak_offset_s": 0.0123,
+ "rise_ms": 6.4,
+ "centroid_hz": 1903,
+ "below150": 0.05,
+ "above6k": 0.011,
+ "flatness": 0.098,
+ "note": null,
+ "start_floor_db": -60.5,
+ "source": {
+  "id": "180974",
+  "type": "key",
+  "title": "\u00e4 key",
+  "creator": "uEffects",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/180/180974_2901073-hq.mp3",
+  "landing": "https://freesound.org/people/uEffects/sounds/180974",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "keyboard",
+   "key"
+  ]
+ }
+}

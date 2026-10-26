@@ -1,0 +1,35 @@
+{
+ "type": "reverse",
+ "file": "kit\\reverse\\fs-446010-backwards-whoosh-1.wav",
+ "verdict": "ok",
+ "build_db": 11.0,
+ "start_db": -20.4,
+ "end_db": -4.7,
+ "spikiness": 2.0,
+ "dur_s": 0.523,
+ "peak_offset_s": 0.4432,
+ "rise_ms": 338.9,
+ "centroid_hz": 154,
+ "below150": 0.731,
+ "above6k": 0.001,
+ "flatness": 0.005,
+ "note": null,
+ "start_floor_db": -45.2,
+ "source": {
+  "id": "446010",
+  "type": "reverse",
+  "title": "Backwards Whoosh",
+  "creator": "SlavicMagic",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/446/446010_7079899-hq.mp3",
+  "landing": "https://freesound.org/people/SlavicMagic/sounds/446010",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "reverse",
+   "whoosh"
+  ]
+ }
+}

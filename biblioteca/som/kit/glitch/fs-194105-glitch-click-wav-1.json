@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-194105-glitch-click-wav-1.wav",
+ "verdict": "ok",
+ "build_db": -15.0,
+ "start_db": -0.1,
+ "end_db": -19.0,
+ "spikiness": 3.49,
+ "dur_s": 0.042,
+ "peak_offset_s": 0.0024,
+ "rise_ms": 0.9,
+ "centroid_hz": 4758,
+ "below150": 0.137,
+ "above6k": 0.426,
+ "flatness": 0.354,
+ "note": null,
+ "start_floor_db": -0.0,
+ "source": {
+  "id": "194105",
+  "type": "glitch",
+  "title": "Glitch Click.wav",
+  "creator": "potentjello",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/194/194105_3022224-hq.mp3",
+  "landing": "https://freesound.org/people/potentjello/sounds/194105",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

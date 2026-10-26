@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-528740-glitch-sound-effect-2.wav",
+ "verdict": "ok",
+ "build_db": -2.9,
+ "start_db": -0.0,
+ "end_db": -7.0,
+ "spikiness": 2.4,
+ "dur_s": 0.642,
+ "peak_offset_s": 0.0101,
+ "rise_ms": 4.2,
+ "centroid_hz": 3296,
+ "below150": 0.044,
+ "above6k": 0.182,
+ "flatness": 0.211,
+ "note": 53.9,
+ "start_floor_db": -33.8,
+ "source": {
+  "id": "528740",
+  "type": "glitch",
+  "title": "Glitch Sound Effect",
+  "creator": "iwanPlays",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/528/528740_7108319-hq.mp3",
+  "landing": "https://freesound.org/people/iwanPlays/sounds/528740",
+  "k": 3,
+  "keep": [
+   0,
+   1
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

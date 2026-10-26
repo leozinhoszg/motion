@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-337832-long-metal-hit-01-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -9.2,
+ "start_db": -0.0,
+ "end_db": -23.0,
+ "spikiness": 1.77,
+ "dur_s": 2.732,
+ "peak_offset_s": 0.0559,
+ "rise_ms": 53.0,
+ "centroid_hz": 1238,
+ "below150": 0.259,
+ "above6k": 0.023,
+ "flatness": 0.073,
+ "note": null,
+ "start_floor_db": -10.8,
+ "source": {
+  "id": "337832",
+  "type": "hit",
+  "title": "long-metal-hit-01.wav",
+  "creator": "newagesoup",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/337/337832_4067257-hq.mp3",
+  "landing": "https://freesound.org/people/newagesoup/sounds/337832",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "metal",
+   "hit"
+  ]
+ }
+}

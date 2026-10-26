@@ -1,0 +1,22 @@
+{
+ "type": "boom",
+ "file": "kit\\boom\\kenney-scifi-low-frequency-explosion-001.wav",
+ "verdict": "ok",
+ "build_db": -27.7,
+ "start_db": -1.4,
+ "end_db": -35.6,
+ "spikiness": 2.23,
+ "dur_s": 0.576,
+ "peak_offset_s": 0.088,
+ "rise_ms": 79.2,
+ "centroid_hz": 92,
+ "below150": 0.961,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -36.0,
+ "source": {
+  "pack": "scifi",
+  "file": "Audio/lowFrequency_explosion_001.ogg"
+ }
+}

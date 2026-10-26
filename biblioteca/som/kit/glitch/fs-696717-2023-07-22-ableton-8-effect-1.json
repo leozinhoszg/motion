@@ -1,0 +1,35 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-696717-2023-07-22-ableton-8-effect-1.wav",
+ "verdict": "ok",
+ "build_db": -11.1,
+ "start_db": -0.2,
+ "end_db": -14.9,
+ "spikiness": 1.13,
+ "dur_s": 1.5,
+ "peak_offset_s": 0.1775,
+ "rise_ms": 132.3,
+ "centroid_hz": 460,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.002,
+ "note": null,
+ "start_floor_db": -4.6,
+ "source": {
+  "id": "696717",
+  "type": "glitch",
+  "title": "2023-07-22-ableton-8-effect-glitch-hit-003.wav",
+  "creator": "ilmari_freesound",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/696/696717_12458758-hq.mp3",
+  "landing": "https://freesound.org/people/ilmari_freesound/sounds/696717",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "glitch",
+   "hit"
+  ]
+ }
+}

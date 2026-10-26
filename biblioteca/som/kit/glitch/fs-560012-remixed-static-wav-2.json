@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-560012-remixed-static-wav-2.wav",
+ "verdict": "ok",
+ "build_db": -0.7,
+ "start_db": -0.5,
+ "end_db": -0.7,
+ "spikiness": 1.44,
+ "dur_s": 0.436,
+ "peak_offset_s": 0.055,
+ "rise_ms": 53.9,
+ "centroid_hz": 4010,
+ "below150": 0.0,
+ "above6k": 0.222,
+ "flatness": 0.273,
+ "note": 83.6,
+ "start_floor_db": -8.9,
+ "source": {
+  "id": "560012",
+  "type": "glitch",
+  "title": "Remixed static.wav",
+  "creator": "VonKrapFamily",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/560/560012_4927274-hq.mp3",
+  "landing": "https://freesound.org/people/VonKrapFamily/sounds/560012",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "static",
+   "burst"
+  ]
+ }
+}

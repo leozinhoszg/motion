@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-369859-digital-computer-blips-and-p-1.wav",
+ "verdict": "ok",
+ "build_db": -6.2,
+ "start_db": -0.0,
+ "end_db": -25.2,
+ "spikiness": 1.87,
+ "dur_s": 0.14,
+ "peak_offset_s": 0.0104,
+ "rise_ms": 1.9,
+ "centroid_hz": 2446,
+ "below150": 0.357,
+ "above6k": 0.182,
+ "flatness": 0.135,
+ "note": null,
+ "start_floor_db": -35.6,
+ "source": {
+  "id": "369859",
+  "type": "glitch",
+  "title": "Digital computer blips and pops.wav",
+  "creator": "SpliceSound",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/369/369859_1480854-hq.mp3",
+  "landing": "https://freesound.org/people/SpliceSound/sounds/369859",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "digital",
+   "glitch"
+  ]
+ }
+}

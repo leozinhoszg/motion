@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-370203-shield-guard-1.wav",
+ "verdict": "ok",
+ "build_db": -21.6,
+ "start_db": -0.0,
+ "end_db": -35.3,
+ "spikiness": 1.54,
+ "dur_s": 0.626,
+ "peak_offset_s": 0.0197,
+ "rise_ms": 3.7,
+ "centroid_hz": 3035,
+ "below150": 0.141,
+ "above6k": 0.087,
+ "flatness": 0.115,
+ "note": 39.8,
+ "start_floor_db": -32.6,
+ "source": {
+  "id": "370203",
+  "type": "hit",
+  "title": "shield guard",
+  "creator": "nekoninja",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/370/370203_4682356-hq.mp3",
+  "landing": "https://freesound.org/people/nekoninja/sounds/370203",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

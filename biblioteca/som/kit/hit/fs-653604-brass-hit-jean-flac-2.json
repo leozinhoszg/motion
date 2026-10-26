@@ -1,0 +1,35 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-653604-brass-hit-jean-flac-2.wav",
+ "verdict": "ok",
+ "build_db": -7.6,
+ "start_db": -0.0,
+ "end_db": -23.5,
+ "spikiness": 1.69,
+ "dur_s": 3.874,
+ "peak_offset_s": 0.0542,
+ "rise_ms": 53.0,
+ "centroid_hz": 451,
+ "below150": 0.134,
+ "above6k": 0.0,
+ "flatness": 0.01,
+ "note": 57.0,
+ "start_floor_db": -16.5,
+ "source": {
+  "id": "653604",
+  "type": "hit",
+  "title": "brass_Hit_Jean.flac",
+  "creator": "germona",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/653/653604_10938609-hq.mp3",
+  "landing": "https://freesound.org/people/germona/sounds/653604",
+  "k": 3,
+  "keep": [
+   1
+  ],
+  "tags": [
+   "orchestral",
+   "hit"
+  ]
+ }
+}

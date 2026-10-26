@@ -1,0 +1,37 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-431286-futuristic-organic-effect-46-3.wav",
+ "verdict": "ok",
+ "build_db": -21.8,
+ "start_db": -0.0,
+ "end_db": -27.2,
+ "spikiness": 1.57,
+ "dur_s": 1.131,
+ "peak_offset_s": 0.0188,
+ "rise_ms": 17.1,
+ "centroid_hz": 362,
+ "below150": 0.437,
+ "above6k": 0.002,
+ "flatness": 0.006,
+ "note": null,
+ "start_floor_db": -11.3,
+ "source": {
+  "id": "431286",
+  "type": "glitch",
+  "title": "Futuristic organic effect (46).wav",
+  "creator": "AudioPapkin",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/431/431286_8698658-hq.mp3",
+  "landing": "https://freesound.org/people/AudioPapkin/sounds/431286",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch",
+   "hit"
+  ]
+ }
+}

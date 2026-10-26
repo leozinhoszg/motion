@@ -1,0 +1,22 @@
+{
+ "type": "click",
+ "file": "kit\\click\\kenney-ui-audio-switch7.wav",
+ "verdict": "ok",
+ "build_db": -24.6,
+ "start_db": -0.0,
+ "end_db": -37.8,
+ "spikiness": 3.13,
+ "dur_s": 0.145,
+ "peak_offset_s": 0.0087,
+ "rise_ms": 3.1,
+ "centroid_hz": 4107,
+ "below150": 0.0,
+ "above6k": 0.151,
+ "flatness": 0.188,
+ "note": null,
+ "start_floor_db": -35.8,
+ "source": {
+  "pack": "ui-audio",
+  "file": "Audio/switch7.ogg"
+ }
+}

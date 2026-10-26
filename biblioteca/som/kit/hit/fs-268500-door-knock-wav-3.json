@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-268500-door-knock-wav-3.wav",
+ "verdict": "ok",
+ "build_db": -11.4,
+ "start_db": -0.0,
+ "end_db": -21.7,
+ "spikiness": 2.29,
+ "dur_s": 0.546,
+ "peak_offset_s": 0.0073,
+ "rise_ms": 2.0,
+ "centroid_hz": 233,
+ "below150": 0.63,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": null,
+ "start_floor_db": -40.6,
+ "source": {
+  "id": "268500",
+  "type": "hit",
+  "title": "door_knock.wav",
+  "creator": "wjtaylor",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/268/268500_4989900-hq.mp3",
+  "landing": "https://freesound.org/people/wjtaylor/sounds/268500",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "impact",
+   "hit"
+  ]
+ }
+}

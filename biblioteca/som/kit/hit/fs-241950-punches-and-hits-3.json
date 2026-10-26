@@ -1,0 +1,37 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-241950-punches-and-hits-3.wav",
+ "verdict": "ok",
+ "build_db": -30.4,
+ "start_db": -0.0,
+ "end_db": -45.2,
+ "spikiness": 1.51,
+ "dur_s": 0.565,
+ "peak_offset_s": 0.0186,
+ "rise_ms": 5.7,
+ "centroid_hz": 90,
+ "below150": 0.944,
+ "above6k": 0.001,
+ "flatness": 0.034,
+ "note": 54.4,
+ "start_floor_db": -33.4,
+ "source": {
+  "id": "241950",
+  "type": "hit",
+  "title": "Punches and hits",
+  "creator": "DSPena",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/241/241950_2931583-hq.mp3",
+  "landing": "https://freesound.org/people/DSPena/sounds/241950",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "punch",
+   "impact"
+  ]
+ }
+}

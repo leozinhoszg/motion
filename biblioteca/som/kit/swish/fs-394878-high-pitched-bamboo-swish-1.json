@@ -1,0 +1,34 @@
+{
+ "type": "swish",
+ "file": "kit\\swish\\fs-394878-high-pitched-bamboo-swish-1.wav",
+ "verdict": "ok",
+ "build_db": -4.4,
+ "start_db": -13.9,
+ "end_db": -15.1,
+ "spikiness": 1.56,
+ "dur_s": 0.082,
+ "peak_offset_s": 0.0421,
+ "rise_ms": 27.5,
+ "centroid_hz": 937,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.003,
+ "note": null,
+ "start_floor_db": -34.2,
+ "source": {
+  "id": "394878",
+  "type": "swish",
+  "title": "High Pitched Bamboo Swish",
+  "creator": "deleted_user_6479820",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/394/394878_6479820-hq.mp3",
+  "landing": "https://freesound.org/people/deleted_user_6479820/sounds/394878",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "swish"
+  ]
+ }
+}

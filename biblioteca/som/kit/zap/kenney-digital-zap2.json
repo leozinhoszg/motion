@@ -1,0 +1,22 @@
+{
+ "type": "zap",
+ "file": "kit\\zap\\kenney-digital-zap2.wav",
+ "verdict": "ok",
+ "build_db": -23.2,
+ "start_db": -0.0,
+ "end_db": -28.6,
+ "spikiness": 1.02,
+ "dur_s": 1.147,
+ "peak_offset_s": 0.0523,
+ "rise_ms": 15.5,
+ "centroid_hz": 268,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.009,
+ "note": 59.0,
+ "start_floor_db": -11.0,
+ "source": {
+  "pack": "digital",
+  "file": "Audio/zap2.ogg"
+ }
+}

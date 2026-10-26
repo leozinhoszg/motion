@@ -1,0 +1,22 @@
+{
+ "type": "ui",
+ "file": "kit\\ui\\kenney-interface-error-008.wav",
+ "verdict": "ok",
+ "build_db": -9.7,
+ "start_db": -0.7,
+ "end_db": -11.9,
+ "spikiness": 2.96,
+ "dur_s": 0.049,
+ "peak_offset_s": 0.0083,
+ "rise_ms": 1.1,
+ "centroid_hz": 625,
+ "below150": 0.013,
+ "above6k": 0.003,
+ "flatness": 0.015,
+ "note": null,
+ "start_floor_db": -35.2,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/error_008.ogg"
+ }
+}

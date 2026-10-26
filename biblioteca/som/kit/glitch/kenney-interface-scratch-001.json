@@ -1,0 +1,22 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\kenney-interface-scratch-001.wav",
+ "verdict": "ok",
+ "build_db": -6.4,
+ "start_db": -2.5,
+ "end_db": -12.4,
+ "spikiness": 1.4,
+ "dur_s": 0.129,
+ "peak_offset_s": 0.0174,
+ "rise_ms": 14.4,
+ "centroid_hz": 5310,
+ "below150": 0.0,
+ "above6k": 0.262,
+ "flatness": 0.286,
+ "note": null,
+ "start_floor_db": -11.9,
+ "source": {
+  "pack": "interface",
+  "file": "Audio/scratch_001.ogg"
+ }
+}

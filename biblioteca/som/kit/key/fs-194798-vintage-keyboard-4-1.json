@@ -1,0 +1,35 @@
+{
+ "type": "key",
+ "file": "kit\\key\\fs-194798-vintage-keyboard-4-1.wav",
+ "verdict": "ok",
+ "build_db": -25.8,
+ "start_db": -3.5,
+ "end_db": -32.5,
+ "spikiness": 2.16,
+ "dur_s": 0.136,
+ "peak_offset_s": 0.0322,
+ "rise_ms": 17.2,
+ "centroid_hz": 2549,
+ "below150": 0.0,
+ "above6k": 0.071,
+ "flatness": 0.155,
+ "note": null,
+ "start_floor_db": -25.7,
+ "source": {
+  "id": "194798",
+  "type": "key",
+  "title": "Vintage Keyboard 4",
+  "creator": "jim-ph",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/194/194798_670763-hq.mp3",
+  "landing": "https://freesound.org/people/jim-ph/sounds/194798",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "keyboard",
+   "key"
+  ]
+ }
+}

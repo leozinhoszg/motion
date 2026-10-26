@@ -1,0 +1,35 @@
+{
+ "type": "riser",
+ "file": "kit\\riser\\fs-643753-vocal-riser-rolling-r-build-1.wav",
+ "verdict": "ok",
+ "build_db": 6.8,
+ "start_db": -12.5,
+ "end_db": -0.3,
+ "spikiness": 1.35,
+ "dur_s": 3.1,
+ "peak_offset_s": 2.7871,
+ "rise_ms": 2307.9,
+ "centroid_hz": 277,
+ "below150": 0.0,
+ "above6k": 0.0,
+ "flatness": 0.001,
+ "note": null,
+ "start_floor_db": -34.1,
+ "source": {
+  "id": "643753",
+  "type": "riser",
+  "title": "Vocal riser - rolling R - build-up tension",
+  "creator": "Duisterwho",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/643/643753_13590673-hq.mp3",
+  "landing": "https://freesound.org/people/Duisterwho/sounds/643753",
+  "k": 3,
+  "keep": [
+   0
+  ],
+  "tags": [
+   "tension",
+   "riser"
+  ]
+ }
+}

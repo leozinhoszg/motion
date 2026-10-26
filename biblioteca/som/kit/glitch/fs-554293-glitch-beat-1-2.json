@@ -1,0 +1,36 @@
+{
+ "type": "glitch",
+ "file": "kit\\glitch\\fs-554293-glitch-beat-1-2.wav",
+ "verdict": "ok",
+ "build_db": -5.3,
+ "start_db": -0.6,
+ "end_db": -10.8,
+ "spikiness": 1.21,
+ "dur_s": 0.08,
+ "peak_offset_s": 0.0305,
+ "rise_ms": 4.8,
+ "centroid_hz": 2427,
+ "below150": 0.019,
+ "above6k": 0.004,
+ "flatness": 0.005,
+ "note": 100.3,
+ "start_floor_db": -7.3,
+ "source": {
+  "id": "554293",
+  "type": "glitch",
+  "title": "Glitch Beat #1",
+  "creator": "Diicorp95",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/554/554293_9971964-hq.mp3",
+  "landing": "https://freesound.org/people/Diicorp95/sounds/554293",
+  "k": 3,
+  "keep": [
+   0,
+   1,
+   2
+  ],
+  "tags": [
+   "glitch"
+  ]
+ }
+}

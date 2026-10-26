@@ -1,0 +1,36 @@
+{
+ "type": "hit",
+ "file": "kit\\hit\\fs-678901-cinematic-synth-explosion-ma-3.wav",
+ "verdict": "ok",
+ "build_db": -17.8,
+ "start_db": -0.6,
+ "end_db": -23.3,
+ "spikiness": 1.38,
+ "dur_s": 0.442,
+ "peak_offset_s": 0.1188,
+ "rise_ms": 53.3,
+ "centroid_hz": 2423,
+ "below150": 0.164,
+ "above6k": 0.052,
+ "flatness": 0.071,
+ "note": 42.9,
+ "start_floor_db": -8.7,
+ "source": {
+  "id": "678901",
+  "type": "hit",
+  "title": "Cinematic Synth Explosion (Magic).wav",
+  "creator": "Skrecky",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/678/678901_14769395-hq.mp3",
+  "landing": "https://freesound.org/people/Skrecky/sounds/678901",
+  "k": 3,
+  "keep": [
+   2
+  ],
+  "tags": [
+   "drum",
+   "hit",
+   "cinematic"
+  ]
+ }
+}

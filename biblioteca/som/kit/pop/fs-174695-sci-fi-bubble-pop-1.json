@@ -1,0 +1,36 @@
+{
+ "type": "pop",
+ "file": "kit\\pop\\fs-174695-sci-fi-bubble-pop-1.wav",
+ "verdict": "ok",
+ "build_db": -20.7,
+ "start_db": -1.2,
+ "end_db": -23.4,
+ "spikiness": 2.09,
+ "dur_s": 0.103,
+ "peak_offset_s": 0.0113,
+ "rise_ms": 5.5,
+ "centroid_hz": 346,
+ "below150": 0.0,
+ "above6k": 0.001,
+ "flatness": 0.001,
+ "note": 64.5,
+ "start_floor_db": -30.3,
+ "source": {
+  "id": "174695",
+  "type": "pop",
+  "title": "Sci-Fi Bubble Pop",
+  "creator": "paespedro",
+  "license": "cc0",
+  "url": "https://cdn.freesound.org/previews/174/174695_1850811-hq.mp3",
+  "landing": "https://freesound.org/people/paespedro/sounds/174695",
+  "k": 3,
+  "keep": [
+   0,
+   2
+  ],
+  "tags": [
+   "bubble",
+   "pop"
+  ]
+ }
+}
